@@ -1,0 +1,44 @@
+{
+  "version": "15 October 2026, polish after strict review",
+  "manuscriptPath": "C:/Users/huan/Dropbox/PC/Documents/ChatGPT/组合问题/grassmannian_frontiers_revision_20261014/output/grassmannian_frontiers_revised.tex",
+  "manuscriptSha256": "2e1628ddb7687d3d0291171eb4856c42b7d486c227db5266a423ad9514400adc",
+  "previousReviewedManuscriptSha256": "2bf5de0b611a09b8f0645ea8702e3d211ccca19ea99c562ee611b206dae71f1b",
+  "changes": [
+    "precise attribution of cancellation and conductor",
+    "ordinary defect specialization without duplicate derivative display",
+    "Lagrangian defect specialization without duplicate derivative display",
+    "explicit full-kernel convention retained for Lagrangian",
+    "Lagrangian completion via common theorem",
+    "compact self-contained interpolation certificate",
+    "remove repeated nilpotent emphasis in contributions",
+    "orient the independent two-row argument",
+    "retain finite odd-index summation range",
+    "explicit reindexing of common theorem by odd weights",
+    "specify residual polynomial reconstruction"
+  ],
+  "mathematicalStatementsUnchanged": true,
+  "mathematicalStatementsCompared": 52,
+  "certificate": {
+    "program": "certificates/excess_five_certificate.mjs",
+    "records": 36,
+    "nodes": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "degreeBound": 11,
+    "boundaryValue": "42",
+    "allPass": true,
+    "originalTableTransferredExactly": true
+  },
+  "executionProvenance": "The new certificate was executed in this revision. All older distributed execution records retain their original dates and source hashes; they were not rerun or relabelled."
+}

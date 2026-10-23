@@ -1,0 +1,19 @@
+{
+  "version": "15 October 2026, minor revision",
+  "manuscriptPath": "C:/Users/huan/Dropbox/PC/Documents/ChatGPT/组合问题/grassmannian_frontiers_revision_20261014/output/grassmannian_frontiers_revised.tex",
+  "manuscriptSha256": "2bf5de0b611a09b8f0645ea8702e3d211ccca19ea99c562ee611b206dae71f1b",
+  "previousReviewedManuscriptSha256": "4e0d22e6b96a56a714c0a7819994068801c37231ee79a9d9798c8248d3ccaea2",
+  "changes": [
+    "Abstract and contribution statement revised",
+    "Core maximum-hook bounds stated explicitly",
+    "Repeated ordinary defect calculation replaced by an application of the common rigidity theorem",
+    "Full Lagrangian coefficient-algebra example moved to Appendix D; all definitions and assertions retained"
+  ],
+  "mathematicalStatements": "The 52 theorem, lemma, proposition and corollary statements are unchanged.",
+  "executionProvenance": "All distributed execution records retain their original dates and source hashes. They were not rerun or relabelled for this editorial revision.",
+  "appendices": {
+    "B": "Two-row determinant calculations",
+    "C": "Exact computations",
+    "D": "A coefficient-algebra comparison"
+  }
+}

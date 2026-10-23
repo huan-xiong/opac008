@@ -1,0 +1,899 @@
+{
+  "version": "2026-10-15 polish after strict review",
+  "manuscriptSha256": "2e1628ddb7687d3d0291171eb4856c42b7d486c227db5266a423ad9514400adc",
+  "previousReviewedManuscriptSha256": "2bf5de0b611a09b8f0645ea8702e3d211ccca19ea99c562ee611b206dae71f1b",
+  "historicalRuns": "The new certificate was executed in this revision. All older distributed execution records retain their original dates and source hashes; they were not rerun or relabelled.",
+  "runsFromEarlierRevision": {
+    "symbolic": "Ten polynomial identities, all exact residuals zero",
+    "ordinary": "Three direct Macaulay cases passed; includes above-top source weights"
+  },
+  "newRun": {
+    "program": "certificates/excess_five_certificate.mjs",
+    "records": 36,
+    "nodes": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "degreeBound": 11,
+    "boundaryValue": "42",
+    "allPass": true,
+    "originalTableTransferredExactly": true
+  },
+  "files": [
+    {
+      "path": "certificates/excess_five_certificate.csv",
+      "bytes": 927,
+      "sha256": "1221b324a4d08f03217a2518fef0594fe3829a9abcb83c9f98aef7b828b93027"
+    },
+    {
+      "path": "certificates/excess_five_certificate.json",
+      "bytes": 5165,
+      "sha256": "07f9d4426029be37fba5e2a0249e3bea32e0921404bc730b3b2a56e91d191179"
+    },
+    {
+      "path": "certificates/excess_five_certificate.mjs",
+      "bytes": 3612,
+      "sha256": "a0986fb440314964e793983f61ace0d2ecbc7cec1978b785a22140807b83413e"
+    },
+    {
+      "path": "certificates/README.txt",
+      "bytes": 1335,
+      "sha256": "af08c2efe089aaa3b0a39fe2154a33390fb5082ee09b69ad84f91673963ccbc1"
+    },
+    {
+      "path": "checks/coefficient_intrinsic_exact.py",
+      "bytes": 4771,
+      "sha256": "9f4ded7597cdaa6cdce03ce57399c7e414ba9e617f75ce3e4ce74c561916c142"
+    },
+    {
+      "path": "checks/counterexample_certificate.py",
+      "bytes": 1260,
+      "sha256": "52995669594c4a03951f1f8ac92a1a995fae4c06ff21b0cb515c4fae8a38328d"
+    },
+    {
+      "path": "checks/intersection_ring_exact.py",
+      "bytes": 5549,
+      "sha256": "7e7503b020b59acd146826593e6bb80e0370b076bc0a4ce4a4cf55401d85ef00"
+    },
+    {
+      "path": "checks/lagrangian_full_q_flag.py",
+      "bytes": 3616,
+      "sha256": "d71fbd967e22e9a3f6ce590a0693441119bdbbb27ceeee05bb2fadafe41f1646"
+    },
+    {
+      "path": "checks/lagrangian_independent.py",
+      "bytes": 2782,
+      "sha256": "ff2544f051e5fdc1d9018af5fdd8afc520553e4661cc19657869be538e688b9a"
+    },
+    {
+      "path": "checks/lagrangian_new_even_offset_moment.py",
+      "bytes": 3234,
+      "sha256": "b9aef205696cd741b611823595319ea73fa2ba41ccb810b58d4a4e24baaa978e"
+    },
+    {
+      "path": "checks/lagrangian_new_ordinary_not_p2xp2.py",
+      "bytes": 2434,
+      "sha256": "2675cf2a8619ceee955c676d78ea91c8334a3ef8bff97540daa222655695d93e"
+    },
+    {
+      "path": "checks/lagrangian_new_round1.py",
+      "bytes": 6784,
+      "sha256": "8e9baea5549e74165ff4ca104d452745ffc07f88a0231352729b0304cf28a46a"
+    },
+    {
+      "path": "checks/lagrangian_new_round2_conductors.py",
+      "bytes": 4622,
+      "sha256": "783f0023d93f9fdc505827f7eb79efd2d0a46880c450441a6d2775f102cadf98"
+    },
+    {
+      "path": "checks/lagrangian_new_round2_ordinary.py",
+      "bytes": 3891,
+      "sha256": "5470aba7a9ab80d7b5bbce872cc49050a88e132d7def617d0de840469486ea3e"
+    },
+    {
+      "path": "checks/lagrangian_new_round4_infinite_family.py",
+      "bytes": 4545,
+      "sha256": "9051ed5de5335a997346e10861ccee3a31d0086568474e6e09bf95a4d118f4bb"
+    },
+    {
+      "path": "checks/lagrangian_parameter_checks.py",
+      "bytes": 4135,
+      "sha256": "ef77ca30f0893402170d2cb083b2a3c9378ca1465bc7be9b44bfdbd0745250e5"
+    },
+    {
+      "path": "checks/lagrangian_transition_exact.py",
+      "bytes": 3713,
+      "sha256": "16832d9024c9a07ed29ede1f4766e9a391d2374723548d2d40fb409aff1d6909"
+    },
+    {
+      "path": "checks/lg_fullflag_derivative_exact.py",
+      "bytes": 7634,
+      "sha256": "859f6ba446a7509945d4eada069d63221df94f2900ae51e28d99f35f38dc916f"
+    },
+    {
+      "path": "checks/near_top_p2_symbolic.py",
+      "bytes": 2347,
+      "sha256": "5aa502be4e43101a3a968f1fd18a79cc36b3568c834e8bb1b89d00a7eb71069e"
+    },
+    {
+      "path": "checks/near_top_six_weights_exact.py",
+      "bytes": 3280,
+      "sha256": "698369da3195b74fd2505ad70dc79186f78f91e202fef135634243bd2f9e6459"
+    },
+    {
+      "path": "checks/negative_controls.py",
+      "bytes": 784,
+      "sha256": "b6808bd4afd06aaca60fc315642d5f8edf028af47bd40addcd3b72fd6843b6e5"
+    },
+    {
+      "path": "checks/ordinary_added_criterion_audit.py",
+      "bytes": 5147,
+      "sha256": "861aff081bdec4217da4551ee0435dbddcaf79d8f1167f0114c13b3cf96bee74"
+    },
+    {
+      "path": "checks/ordinary_new_exact.py",
+      "bytes": 4765,
+      "sha256": "51acb1342892b03095ef360f599395bf448375fe95148fb5a691386f22f69401"
+    },
+    {
+      "path": "checks/ordinary_new_full_conductor.py",
+      "bytes": 3638,
+      "sha256": "5f46dc10c1defb3ce19ae5d41920504b5d834859fbc8c6b451a8f5733df98d28"
+    },
+    {
+      "path": "checks/ordinary_new_k2_second_family.py",
+      "bytes": 3742,
+      "sha256": "fd5a202f34a5c596404322012bddb11df14ca7c41674d16bf371c32e0c71310d"
+    },
+    {
+      "path": "checks/ordinary_new_lg_conductor.py",
+      "bytes": 3376,
+      "sha256": "ff0c4c6ab022eb1d037f10a91a41a499bc2a781c7e036cbc1e07ada104dc8030"
+    },
+    {
+      "path": "checks/ordinary_new_lg_ungraded_invariant.py",
+      "bytes": 2875,
+      "sha256": "9693cf19d0f9642eaac6934675255174e7c86427218cdeae06105bebd4f29dac"
+    },
+    {
+      "path": "checks/ordinary_pieri_audit.py",
+      "bytes": 5829,
+      "sha256": "2eea6c67255e9570646ced37e9f046cc0725fd991b7dc5f41bb0b5c6228f6ec0"
+    },
+    {
+      "path": "checks/ordinary_pieri_structural_audit.py",
+      "bytes": 7450,
+      "sha256": "734840d0f1dc14170965e74b0ba3c5365f640f1a013d6051033b3a8ddce5e499"
+    },
+    {
+      "path": "checks/ordinary_resultant_colon_audit.py",
+      "bytes": 3525,
+      "sha256": "5f0327ff77a93df3e4c966dea9434c52656df0b6f34789155f513df5dc45c395"
+    },
+    {
+      "path": "independent_node/lagrangian_coefficient_windows.mjs",
+      "bytes": 3846,
+      "sha256": "b0bdffc4182f8adc9ba56d09c97418b5b2adac42fdda1d7bc8df377e09e0405e"
+    },
+    {
+      "path": "independent_node/odd_excess_five_independent.mjs",
+      "bytes": 5413,
+      "sha256": "8069c5813777021b33902392d788d25bc7f27cd2f1f269a46aec10d007f49b83"
+    },
+    {
+      "path": "independent_node/ordinary_pieri_actual_ideals.cjs",
+      "bytes": 6112,
+      "sha256": "7d8ca9769b6e1566a742d347220e67c47afec7053d01e0e137dc0de850a53bfc"
+    },
+    {
+      "path": "minor_revision_provenance.json",
+      "bytes": 1164,
+      "sha256": "182c1631c8a1d4f9faba706ad36bfa60ee70e811c657aa8c87895105ef9be370"
+    },
+    {
+      "path": "polish_provenance.json",
+      "bytes": 1713,
+      "sha256": "cb8d459dedcb21df2d5384be1c3eab15bab61ef34a9fb3cae29a0176887d288e"
+    },
+    {
+      "path": "README.md",
+      "bytes": 7790,
+      "sha256": "f084dbd6f219b078a3c2b0e8d91485df962e83f5b3248d1bc6863b849a62f3b7"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/counterexample_certificate.py.log",
+      "bytes": 192,
+      "sha256": "e7f705a9003a8faa686ec8d8df132e4f3b71330844947c20a7a4282684df1aec"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/environment_probe.log",
+      "bytes": 155,
+      "sha256": "990efacdfae82b8d42f9374c422e6b0d14363cd8778d06756929fa073a4d18e3"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/lagrangian_full_q_flag.py.log",
+      "bytes": 1455,
+      "sha256": "1a55a4b43542d886b93c4ed3d608039ae3b16949879517e31c9af6ad54a29ea6"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/lagrangian_independent.py.log",
+      "bytes": 10129,
+      "sha256": "6199ff1f2172ae431e0e7a2ed48144dcbe6f4c6489f73fb643a0c8ee317bcb85"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/lagrangian_new_even_offset_moment.py.log",
+      "bytes": 135,
+      "sha256": "17b860f905ce3a38420d3f436d010c605affff813fa6e2c29ecabbbdf4872651"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/lagrangian_new_ordinary_not_p2xp2.py.log",
+      "bytes": 624,
+      "sha256": "40a4d358af746a82de4bff38ed74293b51c3a9c14d3522c311ffa1c99ae35769"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/lagrangian_new_round2_conductors.py.log",
+      "bytes": 2293,
+      "sha256": "ff714b9a86571250a1438d0fcaaffde771a287821e38b584ea24186338de819d"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/lagrangian_new_round4_infinite_family.py.log",
+      "bytes": 3547,
+      "sha256": "cc2277d079f58f921ca48b9e3aeb0f9693ab5f8e4cf22e8d3e8d2a90e266590d"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/lagrangian_parameter_checks.py.log",
+      "bytes": 2498,
+      "sha256": "e4912897fb916f3977670260387cebae43aefe2cf67e8cebfd0e856af2f762e7"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/manifest.json",
+      "bytes": 2530,
+      "sha256": "e5eef89b8c003067dfaf26307e87665c7eb2a87981c917e440852932054ddb5a"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/negative_controls.py.log",
+      "bytes": 104,
+      "sha256": "57c2aecd9f17089e925dfa4fcb38e98055691d1bbb4e70a79b90dab91a2089b3"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/ordinary_new_full_conductor.py.log",
+      "bytes": 349,
+      "sha256": "56f18ef63acb03b67146be4cb90635d35882810be1dbacaf7dc8ddabffacf625"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/ordinary_new_k2_second_family.py.log",
+      "bytes": 1516,
+      "sha256": "f73d8629cf4ffabbebe7728437ea4fd69e194a96fc1e1894a4376e58a7a1abe2"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/ordinary_new_lg_conductor.py.log",
+      "bytes": 538,
+      "sha256": "084607735299dbfa48a199d3959facc6b31a91b3b74c3906474b029c803e7de4"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/ordinary_new_lg_ungraded_invariant.py.log",
+      "bytes": 1313,
+      "sha256": "a612f9149562ef661bf06d8a86ad3e5482d6c105e29bfc1ca7a91c0796bb28f6"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/ordinary_pieri_audit.py.log",
+      "bytes": 2912,
+      "sha256": "34be83132272aec34119cae4fb4375332dce770cf0686317e6f2a95f21ce6452"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/ordinary_pieri_structural_audit.py.log",
+      "bytes": 3252,
+      "sha256": "cb68ddd56994360b9d89a9f35325a28b273324c5002ccb12f0394341a5fce805"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/ordinary_resultant_colon_audit.py.log",
+      "bytes": 1334,
+      "sha256": "734b004184babc7f388091e3f45406678ae98d6170c28c4f4216750d62bb6704"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/summary.json",
+      "bytes": 5190,
+      "sha256": "e5be3ed9f41466d6ae97adc239bbe67a4b6918560451b3349b0f5b5c903578b3"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/work/counterexample_certificate.py",
+      "bytes": 1260,
+      "sha256": "52995669594c4a03951f1f8ac92a1a995fae4c06ff21b0cb515c4fae8a38328d"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/work/intrinsic_pairings.json",
+      "bytes": 1045,
+      "sha256": "d506a1a203db0cbcd2c577bfddfcab24e6a104c3260862e8202d9fa3cf01aa34"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/work/lagrangian_full_conductor.json",
+      "bytes": 10913,
+      "sha256": "d81ba0a26030d36f73e63bc82fed640af84a382c0b74f9eb8673ebe07dbd3a3f"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/work/lagrangian_full_q_flag.py",
+      "bytes": 3616,
+      "sha256": "d71fbd967e22e9a3f6ce590a0693441119bdbbb27ceeee05bb2fadafe41f1646"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/work/lagrangian_independent.py",
+      "bytes": 2782,
+      "sha256": "ff2544f051e5fdc1d9018af5fdd8afc520553e4661cc19657869be538e688b9a"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/work/lagrangian_new_even_offset_moment_results.json",
+      "bytes": 8139,
+      "sha256": "0ae57598fbc1e89df394a2d454acf307a9525e88eaabab113066818e75fddcd3"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/work/lagrangian_new_even_offset_moment.py",
+      "bytes": 3234,
+      "sha256": "b9aef205696cd741b611823595319ea73fa2ba41ccb810b58d4a4e24baaa978e"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/work/lagrangian_new_ordinary_not_p2xp2_results.json",
+      "bytes": 622,
+      "sha256": "116fa6b88fc1e90c8e16e4be0fa3d50baba8d6854e87edf2a7439006196a7eb1"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/work/lagrangian_new_ordinary_not_p2xp2.py",
+      "bytes": 2434,
+      "sha256": "2675cf2a8619ceee955c676d78ea91c8334a3ef8bff97540daa222655695d93e"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/work/lagrangian_new_round1.py",
+      "bytes": 6784,
+      "sha256": "8e9baea5549e74165ff4ca104d452745ffc07f88a0231352729b0304cf28a46a"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/work/lagrangian_new_round2_conductors_results.json",
+      "bytes": 3576,
+      "sha256": "e69f2d323bf926e85d5ac71e2cd50b3f4570adb30809420fc96c7abffbf2bf75"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/work/lagrangian_new_round2_conductors.py",
+      "bytes": 4622,
+      "sha256": "783f0023d93f9fdc505827f7eb79efd2d0a46880c450441a6d2775f102cadf98"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/work/lagrangian_new_round2_ordinary.py",
+      "bytes": 3891,
+      "sha256": "5470aba7a9ab80d7b5bbce872cc49050a88e132d7def617d0de840469486ea3e"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/work/lagrangian_new_round4_infinite_family_results.json",
+      "bytes": 3545,
+      "sha256": "93f9a26d826c187e483e7d0652203ec395beb02837cf3dba6754ca8311d09932"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/work/lagrangian_new_round4_infinite_family.py",
+      "bytes": 4545,
+      "sha256": "9051ed5de5335a997346e10861ccee3a31d0086568474e6e09bf95a4d118f4bb"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/work/lagrangian_parameter_checks.py",
+      "bytes": 4135,
+      "sha256": "ef77ca30f0893402170d2cb083b2a3c9378ca1465bc7be9b44bfdbd0745250e5"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/work/negative_controls.py",
+      "bytes": 784,
+      "sha256": "b6808bd4afd06aaca60fc315642d5f8edf028af47bd40addcd3b72fd6843b6e5"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/work/ordinary_full_conductor.json",
+      "bytes": 5164,
+      "sha256": "f5e948bb1e6986e2e24c850571d337fc82227e83fee58cb8d4e67060843e0f36"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/work/ordinary_new_exact.py",
+      "bytes": 4765,
+      "sha256": "51acb1342892b03095ef360f599395bf448375fe95148fb5a691386f22f69401"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/work/ordinary_new_full_conductor.py",
+      "bytes": 3638,
+      "sha256": "5f46dc10c1defb3ce19ae5d41920504b5d834859fbc8c6b451a8f5733df98d28"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/work/ordinary_new_k2_second_family.py",
+      "bytes": 3742,
+      "sha256": "fd5a202f34a5c596404322012bddb11df14ca7c41674d16bf371c32e0c71310d"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/work/ordinary_new_lg_conductor.py",
+      "bytes": 3376,
+      "sha256": "ff0c4c6ab022eb1d037f10a91a41a499bc2a781c7e036cbc1e07ada104dc8030"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/work/ordinary_new_lg_ungraded_invariant.py",
+      "bytes": 2875,
+      "sha256": "9693cf19d0f9642eaac6934675255174e7c86427218cdeae06105bebd4f29dac"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/work/ordinary_pieri_audit_results.json",
+      "bytes": 15437,
+      "sha256": "317aa77352275d82fae87d78bdbf5a145a203f5c6de73aa3fa4534b21547221a"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/work/ordinary_pieri_audit.py",
+      "bytes": 5829,
+      "sha256": "2eea6c67255e9570646ced37e9f046cc0725fd991b7dc5f41bb0b5c6228f6ec0"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/work/ordinary_pieri_structural_audit_results.json",
+      "bytes": 15437,
+      "sha256": "e26aee6078e9a32a9ad4971fb6d2c164e68226b88fde8961b5e4204511c40f35"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/work/ordinary_pieri_structural_audit.py",
+      "bytes": 7450,
+      "sha256": "734840d0f1dc14170965e74b0ba3c5365f640f1a013d6051033b3a8ddce5e499"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/work/ordinary_resultant_colon_audit.py",
+      "bytes": 3525,
+      "sha256": "5f0327ff77a93df3e4c966dea9434c52656df0b6f34789155f513df5dc45c395"
+    },
+    {
+      "path": "records/fresh_core_and_extensions/work/two_row_pieri.json",
+      "bytes": 3338,
+      "sha256": "6ca6fa4906ab3d01eefefce2995dd9144a8d02f86c5d1a297cc4a9a46828164d"
+    },
+    {
+      "path": "records/isolated_near_top_suite/environment_probe.log",
+      "bytes": 155,
+      "sha256": "990efacdfae82b8d42f9374c422e6b0d14363cd8778d06756929fa073a4d18e3"
+    },
+    {
+      "path": "records/isolated_near_top_suite/manifest.json",
+      "bytes": 3275,
+      "sha256": "f3101ec08ee1426b3c9de63fb9ca6e657967efdb08fb8a1c7b886f52d85641fe"
+    },
+    {
+      "path": "records/isolated_near_top_suite/near_top_p2_symbolic.py.log",
+      "bytes": 818,
+      "sha256": "d91315c18b07bb4fb9281bca5532e34aa83c7f82550e6885527e870b62949249"
+    },
+    {
+      "path": "records/isolated_near_top_suite/near_top_six_weights_exact.py.log",
+      "bytes": 16706,
+      "sha256": "afb79fd3e5aab00be2e562a491bf949a2203f2c3a93b25b006adcb1bd407240f"
+    },
+    {
+      "path": "records/isolated_near_top_suite/summary.json",
+      "bytes": 604,
+      "sha256": "cb6ec29f61d73ea821710ada3ebecfcdccddf0c87c8a674fa92ca5e38335544d"
+    },
+    {
+      "path": "records/isolated_near_top_suite/work/coefficient_intrinsic_exact.py",
+      "bytes": 4771,
+      "sha256": "9f4ded7597cdaa6cdce03ce57399c7e414ba9e617f75ce3e4ce74c561916c142"
+    },
+    {
+      "path": "records/isolated_near_top_suite/work/counterexample_certificate.py",
+      "bytes": 1260,
+      "sha256": "52995669594c4a03951f1f8ac92a1a995fae4c06ff21b0cb515c4fae8a38328d"
+    },
+    {
+      "path": "records/isolated_near_top_suite/work/intersection_ring_exact.py",
+      "bytes": 5549,
+      "sha256": "7e7503b020b59acd146826593e6bb80e0370b076bc0a4ce4a4cf55401d85ef00"
+    },
+    {
+      "path": "records/isolated_near_top_suite/work/lagrangian_full_q_flag.py",
+      "bytes": 3616,
+      "sha256": "d71fbd967e22e9a3f6ce590a0693441119bdbbb27ceeee05bb2fadafe41f1646"
+    },
+    {
+      "path": "records/isolated_near_top_suite/work/lagrangian_independent.py",
+      "bytes": 2782,
+      "sha256": "ff2544f051e5fdc1d9018af5fdd8afc520553e4661cc19657869be538e688b9a"
+    },
+    {
+      "path": "records/isolated_near_top_suite/work/lagrangian_new_even_offset_moment.py",
+      "bytes": 3234,
+      "sha256": "b9aef205696cd741b611823595319ea73fa2ba41ccb810b58d4a4e24baaa978e"
+    },
+    {
+      "path": "records/isolated_near_top_suite/work/lagrangian_new_ordinary_not_p2xp2.py",
+      "bytes": 2434,
+      "sha256": "2675cf2a8619ceee955c676d78ea91c8334a3ef8bff97540daa222655695d93e"
+    },
+    {
+      "path": "records/isolated_near_top_suite/work/lagrangian_new_round1.py",
+      "bytes": 6784,
+      "sha256": "8e9baea5549e74165ff4ca104d452745ffc07f88a0231352729b0304cf28a46a"
+    },
+    {
+      "path": "records/isolated_near_top_suite/work/lagrangian_new_round2_conductors.py",
+      "bytes": 4622,
+      "sha256": "783f0023d93f9fdc505827f7eb79efd2d0a46880c450441a6d2775f102cadf98"
+    },
+    {
+      "path": "records/isolated_near_top_suite/work/lagrangian_new_round2_ordinary.py",
+      "bytes": 3891,
+      "sha256": "5470aba7a9ab80d7b5bbce872cc49050a88e132d7def617d0de840469486ea3e"
+    },
+    {
+      "path": "records/isolated_near_top_suite/work/lagrangian_new_round4_infinite_family.py",
+      "bytes": 4545,
+      "sha256": "9051ed5de5335a997346e10861ccee3a31d0086568474e6e09bf95a4d118f4bb"
+    },
+    {
+      "path": "records/isolated_near_top_suite/work/lagrangian_parameter_checks.py",
+      "bytes": 4135,
+      "sha256": "ef77ca30f0893402170d2cb083b2a3c9378ca1465bc7be9b44bfdbd0745250e5"
+    },
+    {
+      "path": "records/isolated_near_top_suite/work/lagrangian_transition_exact.py",
+      "bytes": 3713,
+      "sha256": "16832d9024c9a07ed29ede1f4766e9a391d2374723548d2d40fb409aff1d6909"
+    },
+    {
+      "path": "records/isolated_near_top_suite/work/lg_fullflag_derivative_exact.py",
+      "bytes": 7634,
+      "sha256": "859f6ba446a7509945d4eada069d63221df94f2900ae51e28d99f35f38dc916f"
+    },
+    {
+      "path": "records/isolated_near_top_suite/work/near_top_p2_symbolic.json",
+      "bytes": 1076,
+      "sha256": "bc477c61afaedf31c27a64cfc365af01fb2e9ef09602a06a12b42328f5279e37"
+    },
+    {
+      "path": "records/isolated_near_top_suite/work/near_top_p2_symbolic.py",
+      "bytes": 2347,
+      "sha256": "5aa502be4e43101a3a968f1fd18a79cc36b3568c834e8bb1b89d00a7eb71069e"
+    },
+    {
+      "path": "records/isolated_near_top_suite/work/near_top_six_weights_exact.json",
+      "bytes": 24809,
+      "sha256": "f0fdddc95e9f5708ecd64de07f2bd8504a09d16efbe5413bb2c4730ce1c6fd11"
+    },
+    {
+      "path": "records/isolated_near_top_suite/work/near_top_six_weights_exact.py",
+      "bytes": 3280,
+      "sha256": "698369da3195b74fd2505ad70dc79186f78f91e202fef135634243bd2f9e6459"
+    },
+    {
+      "path": "records/isolated_near_top_suite/work/negative_controls.py",
+      "bytes": 784,
+      "sha256": "b6808bd4afd06aaca60fc315642d5f8edf028af47bd40addcd3b72fd6843b6e5"
+    },
+    {
+      "path": "records/isolated_near_top_suite/work/ordinary_added_criterion_audit.py",
+      "bytes": 5147,
+      "sha256": "861aff081bdec4217da4551ee0435dbddcaf79d8f1167f0114c13b3cf96bee74"
+    },
+    {
+      "path": "records/isolated_near_top_suite/work/ordinary_new_exact.py",
+      "bytes": 4765,
+      "sha256": "51acb1342892b03095ef360f599395bf448375fe95148fb5a691386f22f69401"
+    },
+    {
+      "path": "records/isolated_near_top_suite/work/ordinary_new_full_conductor.py",
+      "bytes": 3638,
+      "sha256": "5f46dc10c1defb3ce19ae5d41920504b5d834859fbc8c6b451a8f5733df98d28"
+    },
+    {
+      "path": "records/isolated_near_top_suite/work/ordinary_new_k2_second_family.py",
+      "bytes": 3742,
+      "sha256": "fd5a202f34a5c596404322012bddb11df14ca7c41674d16bf371c32e0c71310d"
+    },
+    {
+      "path": "records/isolated_near_top_suite/work/ordinary_new_lg_conductor.py",
+      "bytes": 3376,
+      "sha256": "ff0c4c6ab022eb1d037f10a91a41a499bc2a781c7e036cbc1e07ada104dc8030"
+    },
+    {
+      "path": "records/isolated_near_top_suite/work/ordinary_new_lg_ungraded_invariant.py",
+      "bytes": 2875,
+      "sha256": "9693cf19d0f9642eaac6934675255174e7c86427218cdeae06105bebd4f29dac"
+    },
+    {
+      "path": "records/isolated_near_top_suite/work/ordinary_pieri_audit.py",
+      "bytes": 5829,
+      "sha256": "2eea6c67255e9570646ced37e9f046cc0725fd991b7dc5f41bb0b5c6228f6ec0"
+    },
+    {
+      "path": "records/isolated_near_top_suite/work/ordinary_pieri_structural_audit.py",
+      "bytes": 7450,
+      "sha256": "734840d0f1dc14170965e74b0ba3c5365f640f1a013d6051033b3a8ddce5e499"
+    },
+    {
+      "path": "records/isolated_near_top_suite/work/ordinary_resultant_colon_audit.py",
+      "bytes": 3525,
+      "sha256": "5f0327ff77a93df3e4c966dea9434c52656df0b6f34789155f513df5dc45c395"
+    },
+    {
+      "path": "records/isolated_node_suite/lagrangian_coefficient_windows.mjs.log",
+      "bytes": 96,
+      "sha256": "7d914cc18e9f25c65cdbae18a9e195a7ddb9dced21ed00a5ad9e9ba1958cfbf5"
+    },
+    {
+      "path": "records/isolated_node_suite/manifest.json",
+      "bytes": 1309,
+      "sha256": "f63b77c4254b5676c4604d5f1ab81b63fb6fcc6e5a4c8c3020fa4f55b0d53ec9"
+    },
+    {
+      "path": "records/isolated_node_suite/odd_excess_five_independent.mjs.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "records/isolated_node_suite/ordinary_pieri_actual_ideals.cjs.log",
+      "bytes": 251,
+      "sha256": "437816321001af469fcbb145395d840806d408f31ceb13468d0298fa6e85cedc"
+    },
+    {
+      "path": "records/isolated_node_suite/work/fresh_ordinary_pieri_round4.json",
+      "bytes": 29857,
+      "sha256": "fd0cad6ad1903e2253c888e16ace4b51ef5d7a19a8df12efbfc750941e622bb5"
+    },
+    {
+      "path": "records/isolated_node_suite/work/lagrangian_coefficient_windows.mjs",
+      "bytes": 3846,
+      "sha256": "b0bdffc4182f8adc9ba56d09c97418b5b2adac42fdda1d7bc8df377e09e0405e"
+    },
+    {
+      "path": "records/isolated_node_suite/work/odd_excess_five_independent.json",
+      "bytes": 8648,
+      "sha256": "973d7b0cecb72ea700d5b6cc8d9a8dba463955b228dfe0f34e49a2b8b0816710"
+    },
+    {
+      "path": "records/isolated_node_suite/work/odd_excess_five_independent.mjs",
+      "bytes": 5413,
+      "sha256": "8069c5813777021b33902392d788d25bc7f27cd2f1f269a46aec10d007f49b83"
+    },
+    {
+      "path": "records/isolated_node_suite/work/ordinary_pieri_actual_ideals.cjs",
+      "bytes": 6112,
+      "sha256": "7d8ca9769b6e1566a742d347220e67c47afec7053d01e0e137dc0de850a53bfc"
+    },
+    {
+      "path": "records/isolated_reviewed_suite/coefficient_intrinsic_exact.py.log",
+      "bytes": 1629,
+      "sha256": "cbfeca5fb2ce52ea60e9fa6a4f447d131e1a043cd194e5721d7e220927fcff39"
+    },
+    {
+      "path": "records/isolated_reviewed_suite/environment_probe.log",
+      "bytes": 155,
+      "sha256": "990efacdfae82b8d42f9374c422e6b0d14363cd8778d06756929fa073a4d18e3"
+    },
+    {
+      "path": "records/isolated_reviewed_suite/intersection_ring_exact.py.log",
+      "bytes": 2581,
+      "sha256": "d620d539a9f9ca0cf897a2b48afccb6a61a391c1ca47e4cc7ac854b571f5693c"
+    },
+    {
+      "path": "records/isolated_reviewed_suite/lagrangian_transition_exact.py.log",
+      "bytes": 951,
+      "sha256": "e4bdde5c8c7dc8b6653e0833430b51f3b584dffe69ac270e4f220d9f821d96b9"
+    },
+    {
+      "path": "records/isolated_reviewed_suite/lg_fullflag_derivative_exact.py.log",
+      "bytes": 3664,
+      "sha256": "fb5dee00c403b2bad24163173d006fee6d721961271bf1ca0e5ea10bbbc7eee9"
+    },
+    {
+      "path": "records/isolated_reviewed_suite/manifest.json",
+      "bytes": 3069,
+      "sha256": "d56766362c8756383ecc8a12ec93c62edc6c8a5531537aeffc79e60b80b06d40"
+    },
+    {
+      "path": "records/isolated_reviewed_suite/ordinary_added_criterion_audit.py.log",
+      "bytes": 678,
+      "sha256": "a57a95be2122322cef084a7f5962a0fcee297b62b4a9ea743e9212e4c1014596"
+    },
+    {
+      "path": "records/isolated_reviewed_suite/summary.json",
+      "bytes": 1544,
+      "sha256": "7d50cab3bb0212faeacd5fe0c13792ee3165c4d52e50d1485bc3d33f923d5ea6"
+    },
+    {
+      "path": "records/isolated_reviewed_suite/work/coefficient_intrinsic_exact_results.json",
+      "bytes": 1627,
+      "sha256": "514ad6d8e72f131109f461c27210c7d50139100e30a67a6b05f0ce1aaa1ba986"
+    },
+    {
+      "path": "records/isolated_reviewed_suite/work/coefficient_intrinsic_exact.py",
+      "bytes": 4771,
+      "sha256": "9f4ded7597cdaa6cdce03ce57399c7e414ba9e617f75ce3e4ce74c561916c142"
+    },
+    {
+      "path": "records/isolated_reviewed_suite/work/counterexample_certificate.py",
+      "bytes": 1260,
+      "sha256": "52995669594c4a03951f1f8ac92a1a995fae4c06ff21b0cb515c4fae8a38328d"
+    },
+    {
+      "path": "records/isolated_reviewed_suite/work/intersection_ring_exact_results.json",
+      "bytes": 4409,
+      "sha256": "3f8014250b0fb063989ed109f8e06a5d4ba50f1a4ff7e2d82cc1245716fe717d"
+    },
+    {
+      "path": "records/isolated_reviewed_suite/work/intersection_ring_exact.py",
+      "bytes": 5549,
+      "sha256": "7e7503b020b59acd146826593e6bb80e0370b076bc0a4ce4a4cf55401d85ef00"
+    },
+    {
+      "path": "records/isolated_reviewed_suite/work/lagrangian_full_q_flag.py",
+      "bytes": 3616,
+      "sha256": "d71fbd967e22e9a3f6ce590a0693441119bdbbb27ceeee05bb2fadafe41f1646"
+    },
+    {
+      "path": "records/isolated_reviewed_suite/work/lagrangian_independent.py",
+      "bytes": 2782,
+      "sha256": "ff2544f051e5fdc1d9018af5fdd8afc520553e4661cc19657869be538e688b9a"
+    },
+    {
+      "path": "records/isolated_reviewed_suite/work/lagrangian_new_even_offset_moment.py",
+      "bytes": 3234,
+      "sha256": "b9aef205696cd741b611823595319ea73fa2ba41ccb810b58d4a4e24baaa978e"
+    },
+    {
+      "path": "records/isolated_reviewed_suite/work/lagrangian_new_ordinary_not_p2xp2.py",
+      "bytes": 2434,
+      "sha256": "2675cf2a8619ceee955c676d78ea91c8334a3ef8bff97540daa222655695d93e"
+    },
+    {
+      "path": "records/isolated_reviewed_suite/work/lagrangian_new_round1.py",
+      "bytes": 6784,
+      "sha256": "8e9baea5549e74165ff4ca104d452745ffc07f88a0231352729b0304cf28a46a"
+    },
+    {
+      "path": "records/isolated_reviewed_suite/work/lagrangian_new_round2_conductors.py",
+      "bytes": 4622,
+      "sha256": "783f0023d93f9fdc505827f7eb79efd2d0a46880c450441a6d2775f102cadf98"
+    },
+    {
+      "path": "records/isolated_reviewed_suite/work/lagrangian_new_round2_ordinary.py",
+      "bytes": 3891,
+      "sha256": "5470aba7a9ab80d7b5bbce872cc49050a88e132d7def617d0de840469486ea3e"
+    },
+    {
+      "path": "records/isolated_reviewed_suite/work/lagrangian_new_round4_infinite_family.py",
+      "bytes": 4545,
+      "sha256": "9051ed5de5335a997346e10861ccee3a31d0086568474e6e09bf95a4d118f4bb"
+    },
+    {
+      "path": "records/isolated_reviewed_suite/work/lagrangian_parameter_checks.py",
+      "bytes": 4135,
+      "sha256": "ef77ca30f0893402170d2cb083b2a3c9378ca1465bc7be9b44bfdbd0745250e5"
+    },
+    {
+      "path": "records/isolated_reviewed_suite/work/lagrangian_transition_exact_results.json",
+      "bytes": 5116,
+      "sha256": "6383c4c36ab54f5220ab85c2681cd1f7493967950f67c2ee9aeb88357ecd8f65"
+    },
+    {
+      "path": "records/isolated_reviewed_suite/work/lagrangian_transition_exact.py",
+      "bytes": 3713,
+      "sha256": "16832d9024c9a07ed29ede1f4766e9a391d2374723548d2d40fb409aff1d6909"
+    },
+    {
+      "path": "records/isolated_reviewed_suite/work/lg_fullflag_derivative_exact_results.json",
+      "bytes": 2381,
+      "sha256": "9d7bff735ea0abdba1d4c77f0b499d951bbec2121174e4f6bf5714fc9baa3f38"
+    },
+    {
+      "path": "records/isolated_reviewed_suite/work/lg_fullflag_derivative_exact.py",
+      "bytes": 7634,
+      "sha256": "859f6ba446a7509945d4eada069d63221df94f2900ae51e28d99f35f38dc916f"
+    },
+    {
+      "path": "records/isolated_reviewed_suite/work/negative_controls.py",
+      "bytes": 784,
+      "sha256": "b6808bd4afd06aaca60fc315642d5f8edf028af47bd40addcd3b72fd6843b6e5"
+    },
+    {
+      "path": "records/isolated_reviewed_suite/work/ordinary_added_criterion_audit_results.json",
+      "bytes": 55540,
+      "sha256": "dac6bee1addd07f9cb830a88c3dd880a1516001279de876d2bec3117df3c88a9"
+    },
+    {
+      "path": "records/isolated_reviewed_suite/work/ordinary_added_criterion_audit.py",
+      "bytes": 5147,
+      "sha256": "861aff081bdec4217da4551ee0435dbddcaf79d8f1167f0114c13b3cf96bee74"
+    },
+    {
+      "path": "records/isolated_reviewed_suite/work/ordinary_new_exact.py",
+      "bytes": 4765,
+      "sha256": "51acb1342892b03095ef360f599395bf448375fe95148fb5a691386f22f69401"
+    },
+    {
+      "path": "records/isolated_reviewed_suite/work/ordinary_new_full_conductor.py",
+      "bytes": 3638,
+      "sha256": "5f46dc10c1defb3ce19ae5d41920504b5d834859fbc8c6b451a8f5733df98d28"
+    },
+    {
+      "path": "records/isolated_reviewed_suite/work/ordinary_new_k2_second_family.py",
+      "bytes": 3742,
+      "sha256": "fd5a202f34a5c596404322012bddb11df14ca7c41674d16bf371c32e0c71310d"
+    },
+    {
+      "path": "records/isolated_reviewed_suite/work/ordinary_new_lg_conductor.py",
+      "bytes": 3376,
+      "sha256": "ff0c4c6ab022eb1d037f10a91a41a499bc2a781c7e036cbc1e07ada104dc8030"
+    },
+    {
+      "path": "records/isolated_reviewed_suite/work/ordinary_new_lg_ungraded_invariant.py",
+      "bytes": 2875,
+      "sha256": "9693cf19d0f9642eaac6934675255174e7c86427218cdeae06105bebd4f29dac"
+    },
+    {
+      "path": "records/isolated_reviewed_suite/work/ordinary_pieri_audit.py",
+      "bytes": 5829,
+      "sha256": "2eea6c67255e9570646ced37e9f046cc0725fd991b7dc5f41bb0b5c6228f6ec0"
+    },
+    {
+      "path": "records/isolated_reviewed_suite/work/ordinary_pieri_structural_audit.py",
+      "bytes": 7450,
+      "sha256": "734840d0f1dc14170965e74b0ba3c5365f640f1a013d6051033b3a8ddce5e499"
+    },
+    {
+      "path": "records/isolated_reviewed_suite/work/ordinary_resultant_colon_audit.py",
+      "bytes": 3525,
+      "sha256": "5f0327ff77a93df3e4c966dea9434c52656df0b6f34789155f513df5dc45c395"
+    },
+    {
+      "path": "referee_20261015/execution_logs.json",
+      "bytes": 1419,
+      "sha256": "9ca086921fb3f0a074fc0c15088932d76f1e63bde5151bcc5faafa4d73b6f4e7"
+    },
+    {
+      "path": "referee_20261015/ordinary_macaulay_referee.json",
+      "bytes": 6003,
+      "sha256": "67a20d3030c3609e3c59d2ebce0d1a618a2b01b8c10755626ccf219d30ed2afe"
+    },
+    {
+      "path": "referee_20261015/ordinary_macaulay_referee.log",
+      "bytes": 143,
+      "sha256": "022e11f496872b9a3211c27db751989a06fe91abf33ae5e736ae924fe4e8840a"
+    },
+    {
+      "path": "referee_20261015/ordinary_macaulay_referee.py",
+      "bytes": 8686,
+      "sha256": "14fc12a1dc889eb8f7501cd63cf9c7f2d2bd62e579079c206d7325c95a52e9b0"
+    },
+    {
+      "path": "referee_20261015/run_symbolic_referee.mjs",
+      "bytes": 712,
+      "sha256": "3fb187b4652d0c2c68ec7babf3f64ba1e0551adfbc4f3c9fa4e2251516dee0a0"
+    },
+    {
+      "path": "referee_20261015/two_row_symbolic_referee.json",
+      "bytes": 926,
+      "sha256": "e529f33e6ea1e5c175703a4f78526d82daa88ad9f6c9c990df0bf756b1aac3a9"
+    },
+    {
+      "path": "referee_20261015/two_row_symbolic_referee.mjs",
+      "bytes": 5458,
+      "sha256": "11e504ed8c47ac69e9ea01b71bd1f4e9e4bd1bd02e67e8dc8fbe15b03548b2f1"
+    },
+    {
+      "path": "reproduce_node.mjs",
+      "bytes": 2768,
+      "sha256": "f9a9ae536052077082f267ba40f2525065cef4096c6ac9c4ce7549e5aeedfb6b"
+    },
+    {
+      "path": "reproduce.py",
+      "bytes": 7256,
+      "sha256": "73fe851ab746053f37f7fefe5824a58aad23a563d3f91c613244e7743f4beaa0"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 14,
+      "sha256": "25f9f1fb1988b230147a1d3092d34e09c069eb7a6c6d6df46b3973b9f2d36efc"
+    }
+  ]
+}
