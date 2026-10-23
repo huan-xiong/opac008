@@ -1,0 +1,13 @@
+{
+  "symbolic": {
+    "ok": true,
+    "stdout": "{\n  \"sourceSha256\": \"4e0d22e6b96a56a714c0a7819994068801c37231ee79a9d9798c8248d3ccaea2\",\n  \"checkerSha256\": \"11e504ed8c47ac69e9ea01b71bd1f4e9e4bd1bd02e67e8dc8fbe15b03548b2f1\",\n  \"arithmetic\": \"BigInt exact rational Q[r] and sparse Z[m,t]\",\n  \"excessThree\": [\n    {\n      \"residue\": 0,\n      \"identity\": true\n    },\n    {\n      \"residue\": 1,\n      \"identity\": true\n    },\n    {\n      \"residue\": 2,\n      \"identity\": true\n    }\n  ],\n  \"excessFive\": [\n    {\n      \"residue\": 0,\n      \"identity\": true,\n      \"degree\": 11\n    },\n    {\n      \"residue\": 1,\n      \"identity\": true,\n      \"degree\": 11\n    },\n    {\n      \"residue\": 2,\n      \"identity\": true,\n      \"degree\": 11\n    }\n  ],\n  \"nearTop\": [\n    {\n      \"sigma\": 0,\n      \"determinantResidualTerms\": 0,\n      \"discriminantResidualTerms\": 0\n    },\n    {\n      \"sigma\": 1,\n      \"determinantResidualTerms\": 0,\n      \"discriminantResidualTerms\": 0\n    }\n  ],\n  \"pass\": true\n}\n",
+    "stderr": ""
+  },
+  "ordinary": {
+    "executable": "C:/Users/huan/AppData/Local/Programs/Python/Python311/python.exe",
+    "ok": true,
+    "stdout": "PASSED 2 2 1 Tdim 6 image_dim 5\r\nPASSED 2 3 2 Tdim 3 image_dim 3\r\nPASSED 2 2 2 Tdim 1 image_dim 1\r\nALL PASSED in 0.22484779357910156 seconds\r\n",
+    "stderr": ""
+  }
+}

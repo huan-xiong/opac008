@@ -1,0 +1,5 @@
+PASSED 2 2 1 Tdim 6 image_dim 5
+PASSED 2 3 2 Tdim 3 image_dim 3
+PASSED 2 2 2 Tdim 1 image_dim 1
+ALL PASSED in 0.22484779357910156 seconds
+

@@ -1,0 +1,318 @@
+{
+  "method": "Exact recurrence coefficients, independent eta formula, Bareiss determinant; twelve nodes and Newton residuals",
+  "nodes": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "degree_bound": 11,
+  "records": [
+    {
+      "r": 2,
+      "c": 0,
+      "actual": "-132",
+      "expected": "-132",
+      "residual": "0"
+    },
+    {
+      "r": 2,
+      "c": 1,
+      "actual": "297",
+      "expected": "297",
+      "residual": "0"
+    },
+    {
+      "r": 2,
+      "c": 2,
+      "actual": "3432",
+      "expected": "3432",
+      "residual": "0"
+    },
+    {
+      "r": 3,
+      "c": 0,
+      "actual": "-6006",
+      "expected": "-6006",
+      "residual": "0"
+    },
+    {
+      "r": 3,
+      "c": 1,
+      "actual": "10920",
+      "expected": "10920",
+      "residual": "0"
+    },
+    {
+      "r": 3,
+      "c": 2,
+      "actual": "72800",
+      "expected": "72800",
+      "residual": "0"
+    },
+    {
+      "r": 4,
+      "c": 0,
+      "actual": "-95200",
+      "expected": "-95200",
+      "residual": "0"
+    },
+    {
+      "r": 4,
+      "c": 1,
+      "actual": "153000",
+      "expected": "153000",
+      "residual": "0"
+    },
+    {
+      "r": 4,
+      "c": 2,
+      "actual": "775200",
+      "expected": "775200",
+      "residual": "0"
+    },
+    {
+      "r": 5,
+      "c": 0,
+      "actual": "-847875",
+      "expected": "-847875",
+      "residual": "0"
+    },
+    {
+      "r": 5,
+      "c": 1,
+      "actual": "1256850",
+      "expected": "1256850",
+      "residual": "0"
+    },
+    {
+      "r": 5,
+      "c": 2,
+      "actual": "5376525",
+      "expected": "5376525",
+      "residual": "0"
+    },
+    {
+      "r": 6,
+      "c": 0,
+      "actual": "-5206740",
+      "expected": "-5206740",
+      "residual": "0"
+    },
+    {
+      "r": 6,
+      "c": 1,
+      "actual": "7289436",
+      "expected": "7289436",
+      "residual": "0"
+    },
+    {
+      "r": 6,
+      "c": 2,
+      "actual": "27769280",
+      "expected": "27769280",
+      "residual": "0"
+    },
+    {
+      "r": 7,
+      "c": 0,
+      "actual": "-24613680",
+      "expected": "-24613680",
+      "residual": "0"
+    },
+    {
+      "r": 7,
+      "c": 1,
+      "actual": "33022080",
+      "expected": "33022080",
+      "residual": "0"
+    },
+    {
+      "r": 7,
+      "c": 2,
+      "actual": "115577280",
+      "expected": "115577280",
+      "residual": "0"
+    },
+    {
+      "r": 8,
+      "c": 0,
+      "actual": "-95764032",
+      "expected": "-95764032",
+      "residual": "0"
+    },
+    {
+      "r": 8,
+      "c": 1,
+      "actual": "124309080",
+      "expected": "124309080",
+      "residual": "0"
+    },
+    {
+      "r": 8,
+      "c": 2,
+      "actual": "407786400",
+      "expected": "407786400",
+      "residual": "0"
+    },
+    {
+      "r": 9,
+      "c": 0,
+      "actual": "-320403600",
+      "expected": "-320403600",
+      "residual": "0"
+    },
+    {
+      "r": 9,
+      "c": 1,
+      "actual": "405108000",
+      "expected": "405108000",
+      "residual": "0"
+    },
+    {
+      "r": 9,
+      "c": 2,
+      "actual": "1262586600",
+      "expected": "1262586600",
+      "residual": "0"
+    },
+    {
+      "r": 10,
+      "c": 0,
+      "actual": "-950334000",
+      "expected": "-950334000",
+      "residual": "0"
+    },
+    {
+      "r": 10,
+      "c": 1,
+      "actual": "1176038325",
+      "expected": "1176038325",
+      "residual": "0"
+    },
+    {
+      "r": 10,
+      "c": 2,
+      "actual": "3516235800",
+      "expected": "3516235800",
+      "residual": "0"
+    },
+    {
+      "r": 11,
+      "c": 0,
+      "actual": "-2554441890",
+      "expected": "-2554441890",
+      "residual": "0"
+    },
+    {
+      "r": 11,
+      "c": 1,
+      "actual": "3105139752",
+      "expected": "3105139752",
+      "residual": "0"
+    },
+    {
+      "r": 11,
+      "c": 2,
+      "actual": "8970403728",
+      "expected": "8970403728",
+      "residual": "0"
+    },
+    {
+      "r": 12,
+      "c": 0,
+      "actual": "-6325567248",
+      "expected": "-6325567248",
+      "residual": "0"
+    },
+    {
+      "r": 12,
+      "c": 1,
+      "actual": "7574034468",
+      "expected": "7574034468",
+      "residual": "0"
+    },
+    {
+      "r": 12,
+      "c": 2,
+      "actual": "21256730768",
+      "expected": "21256730768",
+      "residual": "0"
+    },
+    {
+      "r": 13,
+      "c": 0,
+      "actual": "-14614002403",
+      "expected": "-14614002403",
+      "residual": "0"
+    },
+    {
+      "r": 13,
+      "c": 1,
+      "actual": "17273586330",
+      "expected": "17273586330",
+      "residual": "0"
+    },
+    {
+      "r": 13,
+      "c": 2,
+      "actual": "47296724475",
+      "expected": "47296724475",
+      "residual": "0"
+    }
+  ],
+  "residualNewton": [
+    [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  ],
+  "boundary_c2_r1": "42",
+  "all_pass": true
+}

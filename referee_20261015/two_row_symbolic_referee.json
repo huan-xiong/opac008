@@ -1,0 +1,49 @@
+{
+  "sourceSha256": "4e0d22e6b96a56a714c0a7819994068801c37231ee79a9d9798c8248d3ccaea2",
+  "checkerSha256": "11e504ed8c47ac69e9ea01b71bd1f4e9e4bd1bd02e67e8dc8fbe15b03548b2f1",
+  "arithmetic": "BigInt exact rational Q[r] and sparse Z[m,t]",
+  "excessThree": [
+    {
+      "residue": 0,
+      "identity": true
+    },
+    {
+      "residue": 1,
+      "identity": true
+    },
+    {
+      "residue": 2,
+      "identity": true
+    }
+  ],
+  "excessFive": [
+    {
+      "residue": 0,
+      "identity": true,
+      "degree": 11
+    },
+    {
+      "residue": 1,
+      "identity": true,
+      "degree": 11
+    },
+    {
+      "residue": 2,
+      "identity": true,
+      "degree": 11
+    }
+  ],
+  "nearTop": [
+    {
+      "sigma": 0,
+      "determinantResidualTerms": 0,
+      "discriminantResidualTerms": 0
+    },
+    {
+      "sigma": 1,
+      "determinantResidualTerms": 0,
+      "discriminantResidualTerms": 0
+    }
+  ],
+  "pass": true
+}

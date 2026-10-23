@@ -1,0 +1,260 @@
+{
+  "source_sha256": "4e0d22e6b96a56a714c0a7819994068801c37231ee79a9d9798c8248d3ccaea2",
+  "method": "Direct weighted Macaulay ideal multiples and exact rational kernels; formal coefficient equations; actual Jacobian minors; full multiplication conductor constraints. No target Hilbert formula, Schur/Pieri multiplication, transition matrix or old program is used.",
+  "cases": [
+    {
+      "parameters": {
+        "k": 2,
+        "ell": 2,
+        "m": 1,
+        "d": 1,
+        "e": 1
+      },
+      "weighted_components": [
+        {
+          "weight": 0,
+          "T": 1,
+          "RmodJacobian": 1,
+          "parameter_image": 1,
+          "colon_kernel": 0,
+          "JmodI": 0
+        },
+        {
+          "weight": 1,
+          "T": 2,
+          "RmodJacobian": 1,
+          "parameter_image": 1,
+          "colon_kernel": 0,
+          "JmodI": 0
+        },
+        {
+          "weight": 2,
+          "T": 2,
+          "RmodJacobian": 2,
+          "parameter_image": 2,
+          "colon_kernel": 1,
+          "JmodI": 1
+        },
+        {
+          "weight": 3,
+          "T": 1,
+          "RmodJacobian": 1,
+          "parameter_image": 1,
+          "colon_kernel": 1,
+          "JmodI": 1
+        },
+        {
+          "weight": 4,
+          "T": 0,
+          "RmodJacobian": 0,
+          "parameter_image": 0,
+          "colon_kernel": 0,
+          "JmodI": 0
+        }
+      ],
+      "derivative_components": [
+        {
+          "m": 1,
+          "target_weight": 0,
+          "source_weight": 1,
+          "source_above_Rtop": false,
+          "Wdim": 0,
+          "Qdim": 0
+        },
+        {
+          "m": 1,
+          "target_weight": 1,
+          "source_weight": 2,
+          "source_above_Rtop": false,
+          "Wdim": 0,
+          "Qdim": 0
+        },
+        {
+          "m": 1,
+          "target_weight": 2,
+          "source_weight": 3,
+          "source_above_Rtop": false,
+          "Wdim": 0,
+          "Qdim": 0
+        },
+        {
+          "m": 1,
+          "target_weight": 3,
+          "source_weight": 4,
+          "source_above_Rtop": false,
+          "Wdim": 0,
+          "Qdim": 0
+        },
+        {
+          "m": 1,
+          "target_weight": 4,
+          "source_weight": 5,
+          "source_above_Rtop": true,
+          "Wdim": 1,
+          "Qdim": 1
+        },
+        {
+          "m": 2,
+          "target_weight": 0,
+          "source_weight": 2,
+          "source_above_Rtop": false,
+          "Wdim": 0,
+          "Qdim": 0
+        },
+        {
+          "m": 2,
+          "target_weight": 1,
+          "source_weight": 3,
+          "source_above_Rtop": false,
+          "Wdim": 1,
+          "Qdim": 1
+        },
+        {
+          "m": 2,
+          "target_weight": 2,
+          "source_weight": 4,
+          "source_above_Rtop": false,
+          "Wdim": 2,
+          "Qdim": 2
+        },
+        {
+          "m": 2,
+          "target_weight": 3,
+          "source_weight": 5,
+          "source_above_Rtop": true,
+          "Wdim": 2,
+          "Qdim": 2
+        },
+        {
+          "m": 2,
+          "target_weight": 4,
+          "source_weight": 6,
+          "source_above_Rtop": true,
+          "Wdim": 3,
+          "Qdim": 3
+        }
+      ]
+    },
+    {
+      "parameters": {
+        "k": 2,
+        "ell": 3,
+        "m": 2,
+        "d": 0,
+        "e": 1
+      },
+      "weighted_components": [
+        {
+          "weight": 0,
+          "T": 1,
+          "RmodJacobian": 1,
+          "parameter_image": 1,
+          "colon_kernel": 0,
+          "JmodI": 0
+        },
+        {
+          "weight": 1,
+          "T": 1,
+          "RmodJacobian": 1,
+          "parameter_image": 1,
+          "colon_kernel": 0,
+          "JmodI": 0
+        },
+        {
+          "weight": 2,
+          "T": 1,
+          "RmodJacobian": 1,
+          "parameter_image": 1,
+          "colon_kernel": 0,
+          "JmodI": 0
+        },
+        {
+          "weight": 3,
+          "T": 0,
+          "RmodJacobian": 0,
+          "parameter_image": 0,
+          "colon_kernel": 0,
+          "JmodI": 0
+        },
+        {
+          "weight": 4,
+          "T": 0,
+          "RmodJacobian": 0,
+          "parameter_image": 0,
+          "colon_kernel": 0,
+          "JmodI": 0
+        },
+        {
+          "weight": 5,
+          "T": 0,
+          "RmodJacobian": 0,
+          "parameter_image": 0,
+          "colon_kernel": 0,
+          "JmodI": 0
+        },
+        {
+          "weight": 6,
+          "T": 0,
+          "RmodJacobian": 0,
+          "parameter_image": 0,
+          "colon_kernel": 0,
+          "JmodI": 0
+        }
+      ],
+      "derivative_components": []
+    },
+    {
+      "parameters": {
+        "k": 2,
+        "ell": 2,
+        "m": 2,
+        "d": 0,
+        "e": 0
+      },
+      "weighted_components": [
+        {
+          "weight": 0,
+          "T": 1,
+          "RmodJacobian": 1,
+          "parameter_image": 1,
+          "colon_kernel": 0,
+          "JmodI": 0
+        },
+        {
+          "weight": 1,
+          "T": 0,
+          "RmodJacobian": 0,
+          "parameter_image": 0,
+          "colon_kernel": 0,
+          "JmodI": 0
+        },
+        {
+          "weight": 2,
+          "T": 0,
+          "RmodJacobian": 0,
+          "parameter_image": 0,
+          "colon_kernel": 0,
+          "JmodI": 0
+        },
+        {
+          "weight": 3,
+          "T": 0,
+          "RmodJacobian": 0,
+          "parameter_image": 0,
+          "colon_kernel": 0,
+          "JmodI": 0
+        },
+        {
+          "weight": 4,
+          "T": 0,
+          "RmodJacobian": 0,
+          "parameter_image": 0,
+          "colon_kernel": 0,
+          "JmodI": 0
+        }
+      ],
+      "derivative_components": []
+    }
+  ],
+  "elapsed_seconds": 0.22484779357910156
+}
