@@ -1,0 +1,187 @@
+{
+  "symbolic_jet_recurrences": "pass",
+  "symbolic_missing_coordinate_matrix_kernel": "pass",
+  "symbolic_minor": "r*(5*r + 3)/2",
+  "cases": [
+    {
+      "r": 2,
+      "ell": 5,
+      "weight": 8,
+      "candidate_count": 2,
+      "certificate_coefficients": [
+        -3,
+        0,
+        0,
+        0,
+        14
+      ],
+      "full_piece_dimension": 2,
+      "candidate_span_dimension": 1,
+      "status": "pass"
+    },
+    {
+      "r": 3,
+      "ell": 8,
+      "weight": 11,
+      "candidate_count": 3,
+      "certificate_coefficients": [
+        4,
+        0,
+        0,
+        0,
+        -110,
+        132
+      ],
+      "full_piece_dimension": 3,
+      "candidate_span_dimension": 2,
+      "status": "pass"
+    },
+    {
+      "r": 4,
+      "ell": 11,
+      "weight": 14,
+      "candidate_count": 5,
+      "certificate_coefficients": [
+        -5,
+        0,
+        0,
+        0,
+        455,
+        -1092,
+        637,
+        52
+      ],
+      "full_piece_dimension": 5,
+      "candidate_span_dimension": 4,
+      "status": "pass"
+    },
+    {
+      "r": 5,
+      "ell": 14,
+      "weight": 17,
+      "candidate_count": 6,
+      "certificate_coefficients": [
+        6,
+        0,
+        0,
+        0,
+        -1360,
+        4896,
+        -5712,
+        1632,
+        612
+      ],
+      "full_piece_dimension": 6,
+      "candidate_span_dimension": 5,
+      "status": "pass"
+    },
+    {
+      "r": 6,
+      "ell": 17,
+      "weight": 20,
+      "candidate_count": 8,
+      "certificate_coefficients": [
+        -7,
+        0,
+        0,
+        0,
+        3325,
+        -15960,
+        27930,
+        -18240,
+        -855,
+        3800,
+        114
+      ],
+      "full_piece_dimension": 8,
+      "candidate_span_dimension": 7,
+      "status": "pass"
+    },
+    {
+      "r": 7,
+      "ell": 20,
+      "weight": 23,
+      "candidate_count": 9,
+      "certificate_coefficients": [
+        8,
+        0,
+        0,
+        0,
+        -7084,
+        42504,
+        -99176,
+        101200,
+        -22770,
+        -31372,
+        15180,
+        1656
+      ],
+      "full_piece_dimension": 9,
+      "candidate_span_dimension": 8,
+      "status": "pass"
+    },
+    {
+      "r": 8,
+      "ell": 23,
+      "weight": 26,
+      "candidate_count": 11,
+      "certificate_coefficients": [
+        -9,
+        0,
+        0,
+        0,
+        13650,
+        -98280,
+        286650,
+        -397800,
+        193050,
+        128700,
+        -173745,
+        35100,
+        12675,
+        200
+      ],
+      "full_piece_dimension": 11,
+      "candidate_span_dimension": 10,
+      "status": "pass"
+    }
+  ],
+  "uniform_replacement_addition": {
+    "added_after_initial_round4": true,
+    "manuscript_sha256": "f3f8c99352e342c28179f0d53e840ad6550e101be09bb40d8caf78944b60ff1c",
+    "symbolic_left_kernel": "pass",
+    "h_new_column_value": "r*(r - 1)/2",
+    "level2_new_column_value": "(r - tau)*(r - tau + 1)/2",
+    "r2_schur_basis": [
+      "s_(5,3)",
+      "s_(4,4)"
+    ],
+    "r2_complete_columns": [
+      [
+        19,
+        9
+      ],
+      [
+        6,
+        3
+      ]
+    ],
+    "r2_level2_columns": [
+      [
+        1,
+        0
+      ],
+      [
+        6,
+        3
+      ]
+    ],
+    "r2_two_determinants": [
+      3,
+      3
+    ],
+    "r2_schur_classes_independent_by_QQ_normal_forms": true,
+    "status": "pass"
+  },
+  "status": "pass"
+}

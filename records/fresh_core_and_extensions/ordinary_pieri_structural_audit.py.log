@@ -1,0 +1,44 @@
+{"case": [4, 4], "m": 1, "dim_A": 17, "status": "increment exact"}
+{"case": [4, 4], "m": 2, "dim_A": 53, "status": "increment exact"}
+{"case": [4, 4], "m": 3, "dim_A": 69, "status": "increment exact"}
+{"case": [4, 4], "m": 4, "dim_A": 70, "status": "increment exact"}
+{"case": [4, 4], "s": 1, "dim_polar": 1, "status": "Jacobian minors exact"}
+{"case": [4, 4], "s": 2, "dim_polar": 17, "status": "Jacobian minors exact"}
+{"case": [4, 4], "s": 3, "dim_polar": 53, "status": "Jacobian minors exact"}
+{"case": [4, 4], "s": 4, "dim_polar": 69, "status": "Jacobian minors exact"}
+{"case": [4, 4], "status": "transformed basis and all subspace containments exact"}
+{"case": [4, 4], "seconds": 0.03160214424133301, "status": "PASS"}
+{"case": [4, 5], "m": 1, "dim_A": 21, "status": "increment exact"}
+{"case": [4, 5], "m": 2, "dim_A": 81, "status": "increment exact"}
+{"case": [4, 5], "m": 3, "dim_A": 121, "status": "increment exact"}
+{"case": [4, 5], "m": 4, "dim_A": 126, "status": "increment exact"}
+{"case": [4, 5], "s": 1, "dim_polar": 5, "status": "Jacobian minors exact"}
+{"case": [4, 5], "s": 2, "dim_polar": 45, "status": "Jacobian minors exact"}
+{"case": [4, 5], "s": 3, "dim_polar": 105, "status": "Jacobian minors exact"}
+{"case": [4, 5], "s": 4, "dim_polar": 125, "status": "Jacobian minors exact"}
+{"case": [4, 5], "status": "transformed basis and all subspace containments exact"}
+{"case": [4, 5], "seconds": 0.08744573593139648, "status": "PASS"}
+{"case": [5, 5], "m": 1, "dim_A": 26, "status": "increment exact"}
+{"case": [5, 5], "m": 2, "dim_A": 126, "status": "increment exact"}
+{"case": [5, 5], "m": 3, "dim_A": 226, "status": "increment exact"}
+{"case": [5, 5], "m": 4, "dim_A": 251, "status": "increment exact"}
+{"case": [5, 5], "m": 5, "dim_A": 252, "status": "increment exact"}
+{"case": [5, 5], "s": 1, "dim_polar": 1, "status": "Jacobian minors exact"}
+{"case": [5, 5], "s": 2, "dim_polar": 26, "status": "Jacobian minors exact"}
+{"case": [5, 5], "s": 3, "dim_polar": 126, "status": "Jacobian minors exact"}
+{"case": [5, 5], "s": 4, "dim_polar": 226, "status": "Jacobian minors exact"}
+{"case": [5, 5], "s": 5, "dim_polar": 251, "status": "Jacobian minors exact"}
+{"case": [5, 5], "status": "transformed basis and all subspace containments exact"}
+{"case": [5, 5], "seconds": 0.4833531379699707, "status": "PASS"}
+{"case": [5, 6], "m": 1, "dim_A": 31, "status": "increment exact"}
+{"case": [5, 6], "m": 2, "dim_A": 181, "status": "increment exact"}
+{"case": [5, 6], "m": 3, "dim_A": 381, "status": "increment exact"}
+{"case": [5, 6], "m": 4, "dim_A": 456, "status": "increment exact"}
+{"case": [5, 6], "m": 5, "dim_A": 462, "status": "increment exact"}
+{"case": [5, 6], "s": 1, "dim_polar": 6, "status": "Jacobian minors exact"}
+{"case": [5, 6], "s": 2, "dim_polar": 81, "status": "Jacobian minors exact"}
+{"case": [5, 6], "s": 3, "dim_polar": 281, "status": "Jacobian minors exact"}
+{"case": [5, 6], "s": 4, "dim_polar": 431, "status": "Jacobian minors exact"}
+{"case": [5, 6], "s": 5, "dim_polar": 461, "status": "Jacobian minors exact"}
+{"case": [5, 6], "status": "transformed basis and all subspace containments exact"}
+{"case": [5, 6], "seconds": 1.5244262218475342, "status": "PASS"}

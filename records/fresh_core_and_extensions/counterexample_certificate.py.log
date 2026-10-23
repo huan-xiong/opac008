@@ -1,0 +1,1 @@
+{"schur_basis_rank": 2, "candidate_rank": 1, "replacement_rank": 2, "certificate_zero": true, "schur_columns": [[28, 14], [6, 3], [19, 9]], "replacement_determinant": -14, "sympy": "1.14.0"}

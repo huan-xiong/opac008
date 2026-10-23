@@ -1,0 +1,68 @@
+[
+  {
+    "algebra": "LG colon M=d=2",
+    "groebner": [
+      "x**3 - 8*x*y/3",
+      "x**2*y - 2*y**2",
+      "x*y**2",
+      "y**3"
+    ],
+    "m_power_dimensions": {
+      "1": 5,
+      "2": 3,
+      "3": 2,
+      "4": 1,
+      "5": 0
+    },
+    "Ann_m3_dimension": 4,
+    "socle": "Q*y^2",
+    "canonical_pairing_basis": [
+      "y",
+      "x^2"
+    ],
+    "pairing": [
+      [
+        "1",
+        "2"
+      ],
+      [
+        "2",
+        "16/3"
+      ]
+    ],
+    "determinant": "4/3"
+  },
+  {
+    "algebra": "Gr(2,4)",
+    "groebner": [
+      "x**3 - 2*x*y",
+      "x**2*y - y**2",
+      "x*y**2",
+      "y**3"
+    ],
+    "m_power_dimensions": {
+      "1": 5,
+      "2": 3,
+      "3": 2,
+      "4": 1,
+      "5": 0
+    },
+    "Ann_m3_dimension": 4,
+    "socle": "Q*y^2",
+    "canonical_pairing_basis": [
+      "y",
+      "x^2"
+    ],
+    "pairing": [
+      [
+        "1",
+        "1"
+      ],
+      [
+        "1",
+        "2"
+      ]
+    ],
+    "determinant": "1"
+  }
+]

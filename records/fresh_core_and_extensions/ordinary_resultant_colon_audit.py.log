@@ -1,0 +1,7 @@
+{"d": 1, "e": 1, "m": 1, "det_ratio": "-1/24", "parameter_length": 6, "rho_multiplication_rank": 4, "seconds": 0.06970572471618652, "status": "exact polynomial identities and colon PASS"}
+{"d": 1, "e": 1, "m": 2, "det_ratio": "-1/48", "parameter_length": 12, "rho_multiplication_rank": 9, "seconds": 0.040869712829589844, "status": "exact polynomial identities and colon PASS"}
+{"d": 1, "e": 2, "m": 1, "det_ratio": "-1/192", "parameter_length": 12, "rho_multiplication_rank": 6, "seconds": 0.07938599586486816, "status": "exact polynomial identities and colon PASS"}
+{"d": 1, "e": 2, "m": 2, "det_ratio": "-1/480", "parameter_length": 30, "rho_multiplication_rank": 18, "seconds": 0.17685961723327637, "status": "exact polynomial identities and colon PASS"}
+{"d": 2, "e": 2, "m": 1, "det_ratio": "1/1920", "parameter_length": 30, "rho_multiplication_rank": 9, "seconds": 0.4211745262145996, "status": "exact polynomial identities and colon PASS"}
+{"d": 2, "e": 2, "m": 2, "det_ratio": "1/5760", "parameter_length": 90, "rho_multiplication_rank": 36, "seconds": 3.066715717315674, "status": "exact polynomial identities and colon PASS"}
+{"d": 1, "e": 3, "m": 1, "det_ratio": "-1/1920", "parameter_length": 20, "rho_multiplication_rank": 8, "seconds": 0.2413318157196045, "status": "exact polynomial identities and colon PASS"}

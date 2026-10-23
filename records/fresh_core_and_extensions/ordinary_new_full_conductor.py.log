@@ -1,0 +1,6 @@
+ordinary full conductor 1 1 1 Tdim 6 cond_dim 4 rhoT_dim 4
+ordinary full conductor 1 2 1 Tdim 12 cond_dim 6 rhoT_dim 6
+ordinary full conductor 1 1 2 Tdim 12 cond_dim 9 rhoT_dim 9
+ordinary full conductor 1 2 2 Tdim 30 cond_dim 18 rhoT_dim 18
+ordinary full conductor 2 2 1 Tdim 30 cond_dim 9 rhoT_dim 9
+ALL ORDINARY FULL CONDUCTOR CHECKS PASSED

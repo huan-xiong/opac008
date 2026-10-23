@@ -1,0 +1,456 @@
+{
+  "actual_top_entries_compared_to_Catalan_moments": 117,
+  "positive_pairing_cases": [
+    {
+      "ell": 2,
+      "d": 0,
+      "weight": 2,
+      "p": 1,
+      "actual_pairing_determinant": 1
+    },
+    {
+      "ell": 2,
+      "d": 2,
+      "weight": 4,
+      "p": 0,
+      "actual_pairing_determinant": 2
+    },
+    {
+      "ell": 3,
+      "d": 0,
+      "weight": 3,
+      "p": 1,
+      "actual_pairing_determinant": 1
+    },
+    {
+      "ell": 3,
+      "d": 2,
+      "weight": 5,
+      "p": 0,
+      "actual_pairing_determinant": 5
+    },
+    {
+      "ell": 4,
+      "d": 0,
+      "weight": 4,
+      "p": 2,
+      "actual_pairing_determinant": 1
+    },
+    {
+      "ell": 4,
+      "d": 2,
+      "weight": 6,
+      "p": 1,
+      "actual_pairing_determinant": 6
+    },
+    {
+      "ell": 4,
+      "d": 4,
+      "weight": 8,
+      "p": 0,
+      "actual_pairing_determinant": 14
+    },
+    {
+      "ell": 5,
+      "d": 0,
+      "weight": 5,
+      "p": 2,
+      "actual_pairing_determinant": 1
+    },
+    {
+      "ell": 5,
+      "d": 2,
+      "weight": 7,
+      "p": 1,
+      "actual_pairing_determinant": 14
+    },
+    {
+      "ell": 5,
+      "d": 4,
+      "weight": 9,
+      "p": 0,
+      "actual_pairing_determinant": 42
+    },
+    {
+      "ell": 6,
+      "d": 0,
+      "weight": 6,
+      "p": 3,
+      "actual_pairing_determinant": 1
+    },
+    {
+      "ell": 6,
+      "d": 2,
+      "weight": 8,
+      "p": 2,
+      "actual_pairing_determinant": 24
+    },
+    {
+      "ell": 6,
+      "d": 4,
+      "weight": 10,
+      "p": 1,
+      "actual_pairing_determinant": 90
+    },
+    {
+      "ell": 6,
+      "d": 6,
+      "weight": 12,
+      "p": 0,
+      "actual_pairing_determinant": 132
+    },
+    {
+      "ell": 7,
+      "d": 0,
+      "weight": 7,
+      "p": 3,
+      "actual_pairing_determinant": 1
+    },
+    {
+      "ell": 7,
+      "d": 2,
+      "weight": 9,
+      "p": 2,
+      "actual_pairing_determinant": 27
+    },
+    {
+      "ell": 7,
+      "d": 4,
+      "weight": 11,
+      "p": 1,
+      "actual_pairing_determinant": 495
+    },
+    {
+      "ell": 7,
+      "d": 6,
+      "weight": 13,
+      "p": 0,
+      "actual_pairing_determinant": 429
+    },
+    {
+      "ell": 8,
+      "d": 0,
+      "weight": 8,
+      "p": 4,
+      "actual_pairing_determinant": 1
+    },
+    {
+      "ell": 8,
+      "d": 2,
+      "weight": 10,
+      "p": 3,
+      "actual_pairing_determinant": 45
+    },
+    {
+      "ell": 8,
+      "d": 4,
+      "weight": 12,
+      "p": 2,
+      "actual_pairing_determinant": 990
+    },
+    {
+      "ell": 8,
+      "d": 6,
+      "weight": 14,
+      "p": 1,
+      "actual_pairing_determinant": 3003
+    },
+    {
+      "ell": 8,
+      "d": 8,
+      "weight": 16,
+      "p": 0,
+      "actual_pairing_determinant": 1430
+    },
+    {
+      "ell": 9,
+      "d": 0,
+      "weight": 9,
+      "p": 4,
+      "actual_pairing_determinant": 1
+    },
+    {
+      "ell": 9,
+      "d": 2,
+      "weight": 11,
+      "p": 3,
+      "actual_pairing_determinant": 66
+    },
+    {
+      "ell": 9,
+      "d": 4,
+      "weight": 13,
+      "p": 2,
+      "actual_pairing_determinant": 1716
+    },
+    {
+      "ell": 9,
+      "d": 6,
+      "weight": 15,
+      "p": 1,
+      "actual_pairing_determinant": 26026
+    },
+    {
+      "ell": 9,
+      "d": 8,
+      "weight": 17,
+      "p": 0,
+      "actual_pairing_determinant": 4862
+    },
+    {
+      "ell": 10,
+      "d": 0,
+      "weight": 10,
+      "p": 5,
+      "actual_pairing_determinant": 1
+    },
+    {
+      "ell": 10,
+      "d": 2,
+      "weight": 12,
+      "p": 4,
+      "actual_pairing_determinant": 72
+    },
+    {
+      "ell": 10,
+      "d": 4,
+      "weight": 14,
+      "p": 3,
+      "actual_pairing_determinant": 5460
+    },
+    {
+      "ell": 10,
+      "d": 6,
+      "weight": 16,
+      "p": 2,
+      "actual_pairing_determinant": 58240
+    },
+    {
+      "ell": 10,
+      "d": 8,
+      "weight": 18,
+      "p": 1,
+      "actual_pairing_determinant": 163098
+    },
+    {
+      "ell": 10,
+      "d": 10,
+      "weight": 20,
+      "p": 0,
+      "actual_pairing_determinant": 16796
+    },
+    {
+      "ell": 11,
+      "d": 0,
+      "weight": 11,
+      "p": 5,
+      "actual_pairing_determinant": 1
+    },
+    {
+      "ell": 11,
+      "d": 2,
+      "weight": 13,
+      "p": 4,
+      "actual_pairing_determinant": 104
+    },
+    {
+      "ell": 11,
+      "d": 4,
+      "weight": 15,
+      "p": 3,
+      "actual_pairing_determinant": 9100
+    },
+    {
+      "ell": 11,
+      "d": 6,
+      "weight": 17,
+      "p": 2,
+      "actual_pairing_determinant": 247520
+    },
+    {
+      "ell": 11,
+      "d": 8,
+      "weight": 19,
+      "p": 1,
+      "actual_pairing_determinant": 1687998
+    },
+    {
+      "ell": 11,
+      "d": 10,
+      "weight": 21,
+      "p": 0,
+      "actual_pairing_determinant": 58786
+    },
+    {
+      "ell": 12,
+      "d": 0,
+      "weight": 12,
+      "p": 6,
+      "actual_pairing_determinant": 1
+    },
+    {
+      "ell": 12,
+      "d": 2,
+      "weight": 14,
+      "p": 5,
+      "actual_pairing_determinant": 140
+    },
+    {
+      "ell": 12,
+      "d": 4,
+      "weight": 16,
+      "p": 4,
+      "actual_pairing_determinant": 14000
+    },
+    {
+      "ell": 12,
+      "d": 6,
+      "weight": 18,
+      "p": 3,
+      "actual_pairing_determinant": 1142400
+    },
+    {
+      "ell": 12,
+      "d": 8,
+      "weight": 20,
+      "p": 2,
+      "actual_pairing_determinant": 5184150
+    },
+    {
+      "ell": 12,
+      "d": 10,
+      "weight": 22,
+      "p": 1,
+      "actual_pairing_determinant": 11142208
+    },
+    {
+      "ell": 12,
+      "d": 12,
+      "weight": 24,
+      "p": 0,
+      "actual_pairing_determinant": 208012
+    },
+    {
+      "ell": 13,
+      "d": 0,
+      "weight": 13,
+      "p": 6,
+      "actual_pairing_determinant": 1
+    },
+    {
+      "ell": 13,
+      "d": 2,
+      "weight": 15,
+      "p": 5,
+      "actual_pairing_determinant": 150
+    },
+    {
+      "ell": 13,
+      "d": 4,
+      "weight": 17,
+      "p": 4,
+      "actual_pairing_determinant": 34000
+    },
+    {
+      "ell": 13,
+      "d": 6,
+      "weight": 19,
+      "p": 3,
+      "actual_pairing_determinant": 2131800
+    },
+    {
+      "ell": 13,
+      "d": 8,
+      "weight": 21,
+      "p": 2,
+      "actual_pairing_determinant": 62645850
+    },
+    {
+      "ell": 13,
+      "d": 10,
+      "weight": 23,
+      "p": 1,
+      "actual_pairing_determinant": 125193508
+    },
+    {
+      "ell": 13,
+      "d": 12,
+      "weight": 25,
+      "p": 0,
+      "actual_pairing_determinant": 742900
+    },
+    {
+      "ell": 14,
+      "d": 0,
+      "weight": 14,
+      "p": 7,
+      "actual_pairing_determinant": 1
+    },
+    {
+      "ell": 14,
+      "d": 2,
+      "weight": 16,
+      "p": 6,
+      "actual_pairing_determinant": 200
+    },
+    {
+      "ell": 14,
+      "d": 4,
+      "weight": 18,
+      "p": 5,
+      "actual_pairing_determinant": 51000
+    },
+    {
+      "ell": 14,
+      "d": 6,
+      "weight": 20,
+      "p": 4,
+      "actual_pairing_determinant": 6783000
+    },
+    {
+      "ell": 14,
+      "d": 8,
+      "weight": 22,
+      "p": 3,
+      "actual_pairing_determinant": 332027850
+    },
+    {
+      "ell": 14,
+      "d": 10,
+      "weight": 24,
+      "p": 2,
+      "actual_pairing_determinant": 865567648
+    },
+    {
+      "ell": 14,
+      "d": 12,
+      "weight": 26,
+      "p": 1,
+      "actual_pairing_determinant": 863398380
+    },
+    {
+      "ell": 14,
+      "d": 14,
+      "weight": 28,
+      "p": 0,
+      "actual_pairing_determinant": 2674440
+    }
+  ],
+  "rectangle_zero_negative_endpoint_cases": 60,
+  "known_odd_offset_negative_control": {
+    "ell": 5,
+    "d": 3,
+    "matrix": [
+      [
+        42,
+        28
+      ],
+      [
+        9,
+        6
+      ]
+    ],
+    "determinant": 0
+  },
+  "status": "pass"
+}

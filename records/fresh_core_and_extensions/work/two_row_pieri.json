@@ -1,0 +1,225 @@
+{
+  "bound": 30,
+  "core_hook_checks": 5452,
+  "second_family_actual_Pieri_column_checks": 5452,
+  "triangular_span_identity_verified_all_weights": true,
+  "failures": [
+    {
+      "ell": 5,
+      "weight": 8,
+      "dimension": 2,
+      "rank": 1
+    },
+    {
+      "ell": 8,
+      "weight": 11,
+      "dimension": 3,
+      "rank": 2
+    },
+    {
+      "ell": 11,
+      "weight": 14,
+      "dimension": 5,
+      "rank": 4
+    },
+    {
+      "ell": 14,
+      "weight": 17,
+      "dimension": 6,
+      "rank": 5
+    },
+    {
+      "ell": 17,
+      "weight": 20,
+      "dimension": 8,
+      "rank": 7
+    },
+    {
+      "ell": 20,
+      "weight": 23,
+      "dimension": 9,
+      "rank": 8
+    },
+    {
+      "ell": 23,
+      "weight": 26,
+      "dimension": 11,
+      "rank": 10
+    },
+    {
+      "ell": 26,
+      "weight": 29,
+      "dimension": 12,
+      "rank": 11
+    },
+    {
+      "ell": 29,
+      "weight": 32,
+      "dimension": 14,
+      "rank": 13
+    }
+  ],
+  "stats": [
+    {
+      "ell": 2,
+      "failed_weights": []
+    },
+    {
+      "ell": 3,
+      "failed_weights": []
+    },
+    {
+      "ell": 4,
+      "failed_weights": []
+    },
+    {
+      "ell": 5,
+      "failed_weights": [
+        8
+      ]
+    },
+    {
+      "ell": 6,
+      "failed_weights": []
+    },
+    {
+      "ell": 7,
+      "failed_weights": []
+    },
+    {
+      "ell": 8,
+      "failed_weights": [
+        11
+      ]
+    },
+    {
+      "ell": 9,
+      "failed_weights": []
+    },
+    {
+      "ell": 10,
+      "failed_weights": []
+    },
+    {
+      "ell": 11,
+      "failed_weights": [
+        14
+      ]
+    },
+    {
+      "ell": 12,
+      "failed_weights": []
+    },
+    {
+      "ell": 13,
+      "failed_weights": []
+    },
+    {
+      "ell": 14,
+      "failed_weights": [
+        17
+      ]
+    },
+    {
+      "ell": 15,
+      "failed_weights": []
+    },
+    {
+      "ell": 16,
+      "failed_weights": []
+    },
+    {
+      "ell": 17,
+      "failed_weights": [
+        20
+      ]
+    },
+    {
+      "ell": 18,
+      "failed_weights": []
+    },
+    {
+      "ell": 19,
+      "failed_weights": []
+    },
+    {
+      "ell": 20,
+      "failed_weights": [
+        23
+      ]
+    },
+    {
+      "ell": 21,
+      "failed_weights": []
+    },
+    {
+      "ell": 22,
+      "failed_weights": []
+    },
+    {
+      "ell": 23,
+      "failed_weights": [
+        26
+      ]
+    },
+    {
+      "ell": 24,
+      "failed_weights": []
+    },
+    {
+      "ell": 25,
+      "failed_weights": []
+    },
+    {
+      "ell": 26,
+      "failed_weights": [
+        29
+      ]
+    },
+    {
+      "ell": 27,
+      "failed_weights": []
+    },
+    {
+      "ell": 28,
+      "failed_weights": []
+    },
+    {
+      "ell": 29,
+      "failed_weights": [
+        32
+      ]
+    },
+    {
+      "ell": 30,
+      "failed_weights": []
+    }
+  ],
+  "endpoint_degenerate_ell_through_200": [
+    5
+  ],
+  "riordan_numbers_0_to_20": [
+    1,
+    0,
+    1,
+    1,
+    3,
+    6,
+    15,
+    36,
+    91,
+    232,
+    603,
+    1585,
+    4213,
+    11298,
+    30537,
+    83097,
+    227475,
+    625992,
+    1730787,
+    4805595,
+    13393689
+  ],
+  "seconds": 2.242554187774658
+}

@@ -1,0 +1,177 @@
+[
+  {
+    "program": "ordinary_pieri_audit.py",
+    "arguments": [],
+    "started_at": "2026-10-14T11:02:09.323624+00:00",
+    "exit_code": 0,
+    "seconds": 1.469,
+    "ended_at": "2026-10-14T11:02:10.801645+00:00",
+    "status": "PASS",
+    "log": "ordinary_pieri_audit.py.log"
+  },
+  {
+    "program": "ordinary_pieri_structural_audit.py",
+    "arguments": [],
+    "started_at": "2026-10-14T11:02:10.802642+00:00",
+    "exit_code": 0,
+    "seconds": 2.266,
+    "ended_at": "2026-10-14T11:02:13.061988+00:00",
+    "status": "PASS",
+    "log": "ordinary_pieri_structural_audit.py.log"
+  },
+  {
+    "program": "ordinary_resultant_colon_audit.py",
+    "arguments": [],
+    "started_at": "2026-10-14T11:02:13.062985+00:00",
+    "exit_code": 0,
+    "seconds": 4.765,
+    "ended_at": "2026-10-14T11:02:17.819939+00:00",
+    "status": "PASS",
+    "log": "ordinary_resultant_colon_audit.py.log"
+  },
+  {
+    "program": "lagrangian_independent.py",
+    "arguments": [
+      "--max-n",
+      "10"
+    ],
+    "started_at": "2026-10-14T11:02:17.820936+00:00",
+    "exit_code": 0,
+    "seconds": 21.079,
+    "ended_at": "2026-10-14T11:02:38.911059+00:00",
+    "status": "PASS",
+    "log": "lagrangian_independent.py.log"
+  },
+  {
+    "program": "lagrangian_parameter_checks.py",
+    "arguments": [],
+    "started_at": "2026-10-14T11:02:38.912055+00:00",
+    "exit_code": 0,
+    "seconds": 80.875,
+    "ended_at": "2026-10-14T11:03:59.783653+00:00",
+    "status": "PASS",
+    "log": "lagrangian_parameter_checks.py.log"
+  },
+  {
+    "program": "lagrangian_full_q_flag.py",
+    "arguments": [
+      "--max-n",
+      "10"
+    ],
+    "started_at": "2026-10-14T11:03:59.783653+00:00",
+    "exit_code": 0,
+    "seconds": 119.625,
+    "ended_at": "2026-10-14T11:05:59.407778+00:00",
+    "status": "PASS",
+    "log": "lagrangian_full_q_flag.py.log"
+  },
+  {
+    "program": "counterexample_certificate.py",
+    "arguments": [],
+    "started_at": "2026-10-14T11:05:59.407778+00:00",
+    "exit_code": 0,
+    "seconds": 0.906,
+    "ended_at": "2026-10-14T11:06:00.316285+00:00",
+    "status": "PASS",
+    "log": "counterexample_certificate.py.log"
+  },
+  {
+    "program": "negative_controls.py",
+    "arguments": [],
+    "started_at": "2026-10-14T11:06:00.316285+00:00",
+    "exit_code": 0,
+    "seconds": 0.875,
+    "ended_at": "2026-10-14T11:06:01.186662+00:00",
+    "status": "PASS",
+    "log": "negative_controls.py.log"
+  },
+  {
+    "program": "ordinary_new_full_conductor.py",
+    "arguments": [
+      "ordinary_full_conductor.json"
+    ],
+    "started_at": "2026-10-14T11:06:01.187624+00:00",
+    "exit_code": 0,
+    "seconds": 3.344,
+    "ended_at": "2026-10-14T11:06:04.527194+00:00",
+    "status": "PASS",
+    "log": "ordinary_new_full_conductor.py.log"
+  },
+  {
+    "program": "ordinary_new_lg_conductor.py",
+    "arguments": [
+      "lagrangian_full_conductor.json"
+    ],
+    "started_at": "2026-10-14T11:06:04.528190+00:00",
+    "exit_code": 0,
+    "seconds": 4.0,
+    "ended_at": "2026-10-14T11:06:08.529121+00:00",
+    "status": "PASS",
+    "log": "ordinary_new_lg_conductor.py.log"
+  },
+  {
+    "program": "lagrangian_new_round2_conductors.py",
+    "arguments": [],
+    "started_at": "2026-10-14T11:06:08.529121+00:00",
+    "exit_code": 0,
+    "seconds": 7.39,
+    "ended_at": "2026-10-14T11:06:15.927756+00:00",
+    "status": "PASS",
+    "log": "lagrangian_new_round2_conductors.py.log"
+  },
+  {
+    "program": "ordinary_new_lg_ungraded_invariant.py",
+    "arguments": [
+      "intrinsic_pairings.json"
+    ],
+    "started_at": "2026-10-14T11:06:15.928741+00:00",
+    "exit_code": 0,
+    "seconds": 0.844,
+    "ended_at": "2026-10-14T11:06:16.773584+00:00",
+    "status": "PASS",
+    "log": "ordinary_new_lg_ungraded_invariant.py.log"
+  },
+  {
+    "program": "lagrangian_new_ordinary_not_p2xp2.py",
+    "arguments": [],
+    "started_at": "2026-10-14T11:06:16.774581+00:00",
+    "exit_code": 0,
+    "seconds": 1.109,
+    "ended_at": "2026-10-14T11:06:17.882368+00:00",
+    "status": "PASS",
+    "log": "lagrangian_new_ordinary_not_p2xp2.py.log"
+  },
+  {
+    "program": "lagrangian_new_round4_infinite_family.py",
+    "arguments": [],
+    "started_at": "2026-10-14T11:06:17.884359+00:00",
+    "exit_code": 0,
+    "seconds": 0.859,
+    "ended_at": "2026-10-14T11:06:18.745413+00:00",
+    "status": "PASS",
+    "log": "lagrangian_new_round4_infinite_family.py.log"
+  },
+  {
+    "program": "ordinary_new_k2_second_family.py",
+    "arguments": [
+      "30",
+      "two_row_pieri.json"
+    ],
+    "started_at": "2026-10-14T11:06:18.746397+00:00",
+    "exit_code": 0,
+    "seconds": 2.969,
+    "ended_at": "2026-10-14T11:06:21.721782+00:00",
+    "status": "PASS",
+    "log": "ordinary_new_k2_second_family.py.log"
+  },
+  {
+    "program": "lagrangian_new_even_offset_moment.py",
+    "arguments": [],
+    "started_at": "2026-10-14T11:06:21.721782+00:00",
+    "exit_code": 0,
+    "seconds": 0.094,
+    "ended_at": "2026-10-14T11:06:21.811533+00:00",
+    "status": "PASS",
+    "log": "lagrangian_new_even_offset_moment.py.log"
+  }
+]

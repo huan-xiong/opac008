@@ -1,0 +1,280 @@
+[
+  {
+    "d": 1,
+    "e": 1,
+    "m": 1,
+    "data": [
+      {
+        "weight": 0,
+        "T": 1,
+        "B": 1,
+        "conductor": 0,
+        "rhoT": 0
+      },
+      {
+        "weight": 1,
+        "T": 2,
+        "B": 1,
+        "conductor": 1,
+        "rhoT": 1
+      },
+      {
+        "weight": 2,
+        "T": 2,
+        "B": 2,
+        "conductor": 2,
+        "rhoT": 2
+      },
+      {
+        "weight": 3,
+        "T": 1,
+        "B": 1,
+        "conductor": 1,
+        "rhoT": 1
+      }
+    ],
+    "method": "Solve t*T subset B degreewise using multiplication by EVERY Groebner standard basis element of T; no a priori conductor formula used."
+  },
+  {
+    "d": 1,
+    "e": 2,
+    "m": 1,
+    "data": [
+      {
+        "weight": 0,
+        "T": 1,
+        "B": 1,
+        "conductor": 0,
+        "rhoT": 0
+      },
+      {
+        "weight": 1,
+        "T": 2,
+        "B": 1,
+        "conductor": 0,
+        "rhoT": 0
+      },
+      {
+        "weight": 2,
+        "T": 3,
+        "B": 2,
+        "conductor": 1,
+        "rhoT": 1
+      },
+      {
+        "weight": 3,
+        "T": 3,
+        "B": 2,
+        "conductor": 2,
+        "rhoT": 2
+      },
+      {
+        "weight": 4,
+        "T": 2,
+        "B": 2,
+        "conductor": 2,
+        "rhoT": 2
+      },
+      {
+        "weight": 5,
+        "T": 1,
+        "B": 1,
+        "conductor": 1,
+        "rhoT": 1
+      }
+    ],
+    "method": "Solve t*T subset B degreewise using multiplication by EVERY Groebner standard basis element of T; no a priori conductor formula used."
+  },
+  {
+    "d": 1,
+    "e": 1,
+    "m": 2,
+    "data": [
+      {
+        "weight": 0,
+        "T": 1,
+        "B": 1,
+        "conductor": 0,
+        "rhoT": 0
+      },
+      {
+        "weight": 1,
+        "T": 2,
+        "B": 1,
+        "conductor": 1,
+        "rhoT": 1
+      },
+      {
+        "weight": 2,
+        "T": 3,
+        "B": 2,
+        "conductor": 2,
+        "rhoT": 2
+      },
+      {
+        "weight": 3,
+        "T": 3,
+        "B": 3,
+        "conductor": 3,
+        "rhoT": 3
+      },
+      {
+        "weight": 4,
+        "T": 2,
+        "B": 2,
+        "conductor": 2,
+        "rhoT": 2
+      },
+      {
+        "weight": 5,
+        "T": 1,
+        "B": 1,
+        "conductor": 1,
+        "rhoT": 1
+      }
+    ],
+    "method": "Solve t*T subset B degreewise using multiplication by EVERY Groebner standard basis element of T; no a priori conductor formula used."
+  },
+  {
+    "d": 1,
+    "e": 2,
+    "m": 2,
+    "data": [
+      {
+        "weight": 0,
+        "T": 1,
+        "B": 1,
+        "conductor": 0,
+        "rhoT": 0
+      },
+      {
+        "weight": 1,
+        "T": 2,
+        "B": 1,
+        "conductor": 0,
+        "rhoT": 0
+      },
+      {
+        "weight": 2,
+        "T": 4,
+        "B": 2,
+        "conductor": 1,
+        "rhoT": 1
+      },
+      {
+        "weight": 3,
+        "T": 5,
+        "B": 3,
+        "conductor": 2,
+        "rhoT": 2
+      },
+      {
+        "weight": 4,
+        "T": 6,
+        "B": 4,
+        "conductor": 4,
+        "rhoT": 4
+      },
+      {
+        "weight": 5,
+        "T": 5,
+        "B": 4,
+        "conductor": 4,
+        "rhoT": 4
+      },
+      {
+        "weight": 6,
+        "T": 4,
+        "B": 4,
+        "conductor": 4,
+        "rhoT": 4
+      },
+      {
+        "weight": 7,
+        "T": 2,
+        "B": 2,
+        "conductor": 2,
+        "rhoT": 2
+      },
+      {
+        "weight": 8,
+        "T": 1,
+        "B": 1,
+        "conductor": 1,
+        "rhoT": 1
+      }
+    ],
+    "method": "Solve t*T subset B degreewise using multiplication by EVERY Groebner standard basis element of T; no a priori conductor formula used."
+  },
+  {
+    "d": 2,
+    "e": 2,
+    "m": 1,
+    "data": [
+      {
+        "weight": 0,
+        "T": 1,
+        "B": 1,
+        "conductor": 0,
+        "rhoT": 0
+      },
+      {
+        "weight": 1,
+        "T": 2,
+        "B": 1,
+        "conductor": 0,
+        "rhoT": 0
+      },
+      {
+        "weight": 2,
+        "T": 4,
+        "B": 2,
+        "conductor": 0,
+        "rhoT": 0
+      },
+      {
+        "weight": 3,
+        "T": 5,
+        "B": 3,
+        "conductor": 0,
+        "rhoT": 0
+      },
+      {
+        "weight": 4,
+        "T": 6,
+        "B": 3,
+        "conductor": 1,
+        "rhoT": 1
+      },
+      {
+        "weight": 5,
+        "T": 5,
+        "B": 3,
+        "conductor": 2,
+        "rhoT": 2
+      },
+      {
+        "weight": 6,
+        "T": 4,
+        "B": 3,
+        "conductor": 3,
+        "rhoT": 3
+      },
+      {
+        "weight": 7,
+        "T": 2,
+        "B": 2,
+        "conductor": 2,
+        "rhoT": 2
+      },
+      {
+        "weight": 8,
+        "T": 1,
+        "B": 1,
+        "conductor": 1,
+        "rhoT": 1
+      }
+    ],
+    "method": "Solve t*T subset B degreewise using multiplication by EVERY Groebner standard basis element of T; no a priori conductor formula used."
+  }
+]

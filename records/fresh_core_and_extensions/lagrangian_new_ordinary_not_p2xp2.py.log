@@ -1,0 +1,27 @@
+{
+  "U3": "3*g*(b**2 + 2*b*g + 5*g**2)/8",
+  "V3": "3*b*(5*b**2 + 2*b*g + g**2)/8",
+  "groebner_basis": [
+    "b**5",
+    "-5*b**4 + b**3*g",
+    "-2*b**3 - 3*b**2*g/5 + g**3",
+    "5*b**3 + 2*b**2*g + b*g**2"
+  ],
+  "hilbert_actual_standard_monomials": [
+    1,
+    2,
+    3,
+    2,
+    1
+  ],
+  "degree_three_basis": [
+    "g^2*b",
+    "g*b^2"
+  ],
+  "five_times_cube_coefficients": [
+    "-2*alpha**3 + 15*alpha**2*beta - beta**3",
+    "-alpha**3 + 15*alpha*beta**2 - 2*beta**3"
+  ],
+  "projective_linear_cube_zero_locus": "empty over every characteristic-zero extension",
+  "status": "pass"
+}

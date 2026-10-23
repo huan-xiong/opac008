@@ -1,0 +1,11 @@
+{"dim_T": 2, "dim_B": 2, "conductor_hilbert": {"0": 1, "1": 1}, "rho_hilbert": {"1": 1}, "full_conductor_equals_rhoT": false, "case": "ordinary", "d": 1, "e": 1, "m": 0}
+{"dim_T": 6, "dim_B": 5, "conductor_hilbert": {"1": 1, "2": 2, "3": 1}, "rho_hilbert": {"1": 1, "2": 2, "3": 1}, "full_conductor_equals_rhoT": true, "case": "ordinary", "d": 1, "e": 1, "m": 1}
+{"dim_T": 12, "dim_B": 9, "conductor_hilbert": {"2": 1, "3": 2, "4": 2, "5": 1}, "rho_hilbert": {"2": 1, "3": 2, "4": 2, "5": 1}, "full_conductor_equals_rhoT": true, "case": "ordinary", "d": 1, "e": 2, "m": 1}
+{"dim_T": 30, "dim_B": 22, "conductor_hilbert": {"2": 1, "3": 2, "4": 4, "5": 4, "6": 4, "7": 2, "8": 1}, "rho_hilbert": {"2": 1, "3": 2, "4": 4, "5": 4, "6": 4, "7": 2, "8": 1}, "full_conductor_equals_rhoT": true, "case": "ordinary", "d": 1, "e": 2, "m": 2}
+{"dim_T": 30, "dim_B": 19, "conductor_hilbert": {"4": 1, "5": 2, "6": 3, "7": 2, "8": 1}, "rho_hilbert": {"4": 1, "5": 2, "6": 3, "7": 2, "8": 1}, "full_conductor_equals_rhoT": true, "case": "ordinary", "d": 2, "e": 2, "m": 1}
+{"dim_T": 60, "dim_B": 34, "conductor_hilbert": {"6": 1, "7": 2, "8": 3, "9": 3, "10": 2, "11": 1}, "rho_hilbert": {"6": 1, "7": 2, "8": 3, "9": 3, "10": 2, "11": 1}, "full_conductor_equals_rhoT": true, "case": "ordinary", "d": 2, "e": 3, "m": 1}
+{"dim_T": 4, "dim_B": 4, "conductor_hilbert": {"0": 1, "1": 1, "2": 1, "3": 1}, "rho_hilbert": {"1": 1, "2": 1, "3": 1}, "full_conductor_equals_rhoT": false, "case": "lagrangian", "d": 2, "M": 1}
+{"dim_T": 8, "dim_B": 7, "conductor_hilbert": {"1": 1, "2": 1, "3": 2, "4": 1, "5": 1}, "rho_hilbert": {"1": 1, "2": 1, "3": 2, "4": 1, "5": 1}, "full_conductor_equals_rhoT": true, "case": "lagrangian", "d": 2, "M": 2}
+{"dim_T": 12, "dim_B": 11, "conductor_hilbert": {"1": 1, "2": 1, "3": 2, "4": 2, "5": 2, "6": 1, "7": 1}, "rho_hilbert": {"1": 1, "2": 1, "3": 2, "4": 2, "5": 2, "6": 1, "7": 1}, "full_conductor_equals_rhoT": true, "case": "lagrangian", "d": 2, "M": 3}
+{"dim_T": 20, "dim_B": 15, "conductor_hilbert": {"3": 1, "4": 1, "5": 2, "6": 2, "7": 2, "8": 1, "9": 1}, "rho_hilbert": {"3": 1, "4": 1, "5": 2, "6": 2, "7": 2, "8": 1, "9": 1}, "full_conductor_equals_rhoT": true, "case": "lagrangian", "d": 3, "M": 2}
+ALL FULL-CONDUCTOR AND NEGATIVE-BOUNDARY CHECKS PASSED
