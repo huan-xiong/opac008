@@ -1,4 +1,4 @@
-"""Reproduce the finite checks reported in Appendix B, in a fresh directory."""
+"""Reproduce the finite checks reported in Appendix C, in a fresh directory."""
 from __future__ import annotations
 import argparse, hashlib, json, shutil, subprocess, sys, time
 from datetime import datetime, timezone
