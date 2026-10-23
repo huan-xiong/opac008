@@ -1,0 +1,52 @@
+[
+  {
+    "program": "ordinary_added_criterion_audit.py",
+    "arguments": [],
+    "started_at": "2026-10-14T11:59:28.012982+00:00",
+    "exit_code": 0,
+    "seconds": 51.234,
+    "ended_at": "2026-10-14T12:00:19.254639+00:00",
+    "status": "PASS",
+    "log": "ordinary_added_criterion_audit.py.log"
+  },
+  {
+    "program": "lagrangian_transition_exact.py",
+    "arguments": [],
+    "started_at": "2026-10-14T12:00:19.259613+00:00",
+    "exit_code": 0,
+    "seconds": 229.891,
+    "ended_at": "2026-10-14T12:04:09.155647+00:00",
+    "status": "PASS",
+    "log": "lagrangian_transition_exact.py.log"
+  },
+  {
+    "program": "intersection_ring_exact.py",
+    "arguments": [],
+    "started_at": "2026-10-14T12:04:09.173590+00:00",
+    "exit_code": 0,
+    "seconds": 53.453,
+    "ended_at": "2026-10-14T12:05:02.624404+00:00",
+    "status": "PASS",
+    "log": "intersection_ring_exact.py.log"
+  },
+  {
+    "program": "coefficient_intrinsic_exact.py",
+    "arguments": [],
+    "started_at": "2026-10-14T12:05:02.628390+00:00",
+    "exit_code": 0,
+    "seconds": 12.047,
+    "ended_at": "2026-10-14T12:05:14.665400+00:00",
+    "status": "PASS",
+    "log": "coefficient_intrinsic_exact.py.log"
+  },
+  {
+    "program": "lg_fullflag_derivative_exact.py",
+    "arguments": [],
+    "started_at": "2026-10-14T12:05:14.671380+00:00",
+    "exit_code": 0,
+    "seconds": 12.672,
+    "ended_at": "2026-10-14T12:05:27.334456+00:00",
+    "status": "PASS",
+    "log": "lg_fullflag_derivative_exact.py.log"
+  }
+]

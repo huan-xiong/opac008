@@ -1,0 +1,1301 @@
+{
+  "method": "rectangular Schur Pieri multiplication, actual Hankel minors, elementary-generator ideal closure, BigInt exact rank; no shifted recurrence or resultant formula",
+  "case_count": 14,
+  "tail_count": 30,
+  "runtime_ms": 1837,
+  "passed": true,
+  "cases": [
+    {
+      "k": 1,
+      "ell": 1,
+      "ring_dimension": 2,
+      "full_transformed_basis_rank": 2,
+      "tails": [
+        {
+          "s": 1,
+          "d": 0,
+          "e": 0,
+          "maximal_minor_count": 1,
+          "ideal_dimension": 1,
+          "outside_count": 1,
+          "quotient_dimension": 1,
+          "by_weight": [
+            {
+              "weight": 1,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "k": 1,
+      "ell": 2,
+      "ring_dimension": 3,
+      "full_transformed_basis_rank": 3,
+      "tails": [
+        {
+          "s": 1,
+          "d": 0,
+          "e": 1,
+          "maximal_minor_count": 1,
+          "ideal_dimension": 1,
+          "outside_count": 1,
+          "quotient_dimension": 2,
+          "by_weight": [
+            {
+              "weight": 2,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "k": 1,
+      "ell": 3,
+      "ring_dimension": 4,
+      "full_transformed_basis_rank": 4,
+      "tails": [
+        {
+          "s": 1,
+          "d": 0,
+          "e": 2,
+          "maximal_minor_count": 1,
+          "ideal_dimension": 1,
+          "outside_count": 1,
+          "quotient_dimension": 3,
+          "by_weight": [
+            {
+              "weight": 3,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "k": 1,
+      "ell": 4,
+      "ring_dimension": 5,
+      "full_transformed_basis_rank": 5,
+      "tails": [
+        {
+          "s": 1,
+          "d": 0,
+          "e": 3,
+          "maximal_minor_count": 1,
+          "ideal_dimension": 1,
+          "outside_count": 1,
+          "quotient_dimension": 4,
+          "by_weight": [
+            {
+              "weight": 4,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "k": 1,
+      "ell": 5,
+      "ring_dimension": 6,
+      "full_transformed_basis_rank": 6,
+      "tails": [
+        {
+          "s": 1,
+          "d": 0,
+          "e": 4,
+          "maximal_minor_count": 1,
+          "ideal_dimension": 1,
+          "outside_count": 1,
+          "quotient_dimension": 5,
+          "by_weight": [
+            {
+              "weight": 5,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "k": 2,
+      "ell": 2,
+      "ring_dimension": 6,
+      "full_transformed_basis_rank": 6,
+      "tails": [
+        {
+          "s": 1,
+          "d": 0,
+          "e": 0,
+          "maximal_minor_count": 2,
+          "ideal_dimension": 5,
+          "outside_count": 5,
+          "quotient_dimension": 1,
+          "by_weight": [
+            {
+              "weight": 1,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            },
+            {
+              "weight": 2,
+              "ideal_rank": 2,
+              "outside_rank": 2
+            },
+            {
+              "weight": 3,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            },
+            {
+              "weight": 4,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            }
+          ]
+        },
+        {
+          "s": 2,
+          "d": 1,
+          "e": 1,
+          "maximal_minor_count": 1,
+          "ideal_dimension": 1,
+          "outside_count": 1,
+          "quotient_dimension": 5,
+          "by_weight": [
+            {
+              "weight": 4,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "k": 2,
+      "ell": 3,
+      "ring_dimension": 10,
+      "full_transformed_basis_rank": 10,
+      "tails": [
+        {
+          "s": 1,
+          "d": 0,
+          "e": 1,
+          "maximal_minor_count": 2,
+          "ideal_dimension": 7,
+          "outside_count": 7,
+          "quotient_dimension": 3,
+          "by_weight": [
+            {
+              "weight": 2,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            },
+            {
+              "weight": 3,
+              "ideal_rank": 2,
+              "outside_rank": 2
+            },
+            {
+              "weight": 4,
+              "ideal_rank": 2,
+              "outside_rank": 2
+            },
+            {
+              "weight": 5,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            },
+            {
+              "weight": 6,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            }
+          ]
+        },
+        {
+          "s": 2,
+          "d": 1,
+          "e": 2,
+          "maximal_minor_count": 1,
+          "ideal_dimension": 1,
+          "outside_count": 1,
+          "quotient_dimension": 9,
+          "by_weight": [
+            {
+              "weight": 6,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "k": 2,
+      "ell": 4,
+      "ring_dimension": 15,
+      "full_transformed_basis_rank": 15,
+      "tails": [
+        {
+          "s": 1,
+          "d": 0,
+          "e": 2,
+          "maximal_minor_count": 2,
+          "ideal_dimension": 9,
+          "outside_count": 9,
+          "quotient_dimension": 6,
+          "by_weight": [
+            {
+              "weight": 3,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            },
+            {
+              "weight": 4,
+              "ideal_rank": 2,
+              "outside_rank": 2
+            },
+            {
+              "weight": 5,
+              "ideal_rank": 2,
+              "outside_rank": 2
+            },
+            {
+              "weight": 6,
+              "ideal_rank": 2,
+              "outside_rank": 2
+            },
+            {
+              "weight": 7,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            },
+            {
+              "weight": 8,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            }
+          ]
+        },
+        {
+          "s": 2,
+          "d": 1,
+          "e": 3,
+          "maximal_minor_count": 1,
+          "ideal_dimension": 1,
+          "outside_count": 1,
+          "quotient_dimension": 14,
+          "by_weight": [
+            {
+              "weight": 8,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "k": 2,
+      "ell": 5,
+      "ring_dimension": 21,
+      "full_transformed_basis_rank": 21,
+      "tails": [
+        {
+          "s": 1,
+          "d": 0,
+          "e": 3,
+          "maximal_minor_count": 2,
+          "ideal_dimension": 11,
+          "outside_count": 11,
+          "quotient_dimension": 10,
+          "by_weight": [
+            {
+              "weight": 4,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            },
+            {
+              "weight": 5,
+              "ideal_rank": 2,
+              "outside_rank": 2
+            },
+            {
+              "weight": 6,
+              "ideal_rank": 2,
+              "outside_rank": 2
+            },
+            {
+              "weight": 7,
+              "ideal_rank": 2,
+              "outside_rank": 2
+            },
+            {
+              "weight": 8,
+              "ideal_rank": 2,
+              "outside_rank": 2
+            },
+            {
+              "weight": 9,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            },
+            {
+              "weight": 10,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            }
+          ]
+        },
+        {
+          "s": 2,
+          "d": 1,
+          "e": 4,
+          "maximal_minor_count": 1,
+          "ideal_dimension": 1,
+          "outside_count": 1,
+          "quotient_dimension": 20,
+          "by_weight": [
+            {
+              "weight": 10,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "k": 3,
+      "ell": 3,
+      "ring_dimension": 20,
+      "full_transformed_basis_rank": 20,
+      "tails": [
+        {
+          "s": 1,
+          "d": 0,
+          "e": 0,
+          "maximal_minor_count": 3,
+          "ideal_dimension": 19,
+          "outside_count": 19,
+          "quotient_dimension": 1,
+          "by_weight": [
+            {
+              "weight": 1,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            },
+            {
+              "weight": 2,
+              "ideal_rank": 2,
+              "outside_rank": 2
+            },
+            {
+              "weight": 3,
+              "ideal_rank": 3,
+              "outside_rank": 3
+            },
+            {
+              "weight": 4,
+              "ideal_rank": 3,
+              "outside_rank": 3
+            },
+            {
+              "weight": 5,
+              "ideal_rank": 3,
+              "outside_rank": 3
+            },
+            {
+              "weight": 6,
+              "ideal_rank": 3,
+              "outside_rank": 3
+            },
+            {
+              "weight": 7,
+              "ideal_rank": 2,
+              "outside_rank": 2
+            },
+            {
+              "weight": 8,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            },
+            {
+              "weight": 9,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            }
+          ]
+        },
+        {
+          "s": 2,
+          "d": 1,
+          "e": 1,
+          "maximal_minor_count": 3,
+          "ideal_dimension": 10,
+          "outside_count": 10,
+          "quotient_dimension": 10,
+          "by_weight": [
+            {
+              "weight": 4,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            },
+            {
+              "weight": 5,
+              "ideal_rank": 2,
+              "outside_rank": 2
+            },
+            {
+              "weight": 6,
+              "ideal_rank": 3,
+              "outside_rank": 3
+            },
+            {
+              "weight": 7,
+              "ideal_rank": 2,
+              "outside_rank": 2
+            },
+            {
+              "weight": 8,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            },
+            {
+              "weight": 9,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            }
+          ]
+        },
+        {
+          "s": 3,
+          "d": 2,
+          "e": 2,
+          "maximal_minor_count": 1,
+          "ideal_dimension": 1,
+          "outside_count": 1,
+          "quotient_dimension": 19,
+          "by_weight": [
+            {
+              "weight": 9,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "k": 3,
+      "ell": 4,
+      "ring_dimension": 35,
+      "full_transformed_basis_rank": 35,
+      "tails": [
+        {
+          "s": 1,
+          "d": 0,
+          "e": 1,
+          "maximal_minor_count": 3,
+          "ideal_dimension": 31,
+          "outside_count": 31,
+          "quotient_dimension": 4,
+          "by_weight": [
+            {
+              "weight": 2,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            },
+            {
+              "weight": 3,
+              "ideal_rank": 2,
+              "outside_rank": 2
+            },
+            {
+              "weight": 4,
+              "ideal_rank": 4,
+              "outside_rank": 4
+            },
+            {
+              "weight": 5,
+              "ideal_rank": 4,
+              "outside_rank": 4
+            },
+            {
+              "weight": 6,
+              "ideal_rank": 5,
+              "outside_rank": 5
+            },
+            {
+              "weight": 7,
+              "ideal_rank": 4,
+              "outside_rank": 4
+            },
+            {
+              "weight": 8,
+              "ideal_rank": 4,
+              "outside_rank": 4
+            },
+            {
+              "weight": 9,
+              "ideal_rank": 3,
+              "outside_rank": 3
+            },
+            {
+              "weight": 10,
+              "ideal_rank": 2,
+              "outside_rank": 2
+            },
+            {
+              "weight": 11,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            },
+            {
+              "weight": 12,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            }
+          ]
+        },
+        {
+          "s": 2,
+          "d": 1,
+          "e": 2,
+          "maximal_minor_count": 3,
+          "ideal_dimension": 13,
+          "outside_count": 13,
+          "quotient_dimension": 22,
+          "by_weight": [
+            {
+              "weight": 6,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            },
+            {
+              "weight": 7,
+              "ideal_rank": 2,
+              "outside_rank": 2
+            },
+            {
+              "weight": 8,
+              "ideal_rank": 3,
+              "outside_rank": 3
+            },
+            {
+              "weight": 9,
+              "ideal_rank": 3,
+              "outside_rank": 3
+            },
+            {
+              "weight": 10,
+              "ideal_rank": 2,
+              "outside_rank": 2
+            },
+            {
+              "weight": 11,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            },
+            {
+              "weight": 12,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            }
+          ]
+        },
+        {
+          "s": 3,
+          "d": 2,
+          "e": 3,
+          "maximal_minor_count": 1,
+          "ideal_dimension": 1,
+          "outside_count": 1,
+          "quotient_dimension": 34,
+          "by_weight": [
+            {
+              "weight": 12,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "k": 3,
+      "ell": 5,
+      "ring_dimension": 56,
+      "full_transformed_basis_rank": 56,
+      "tails": [
+        {
+          "s": 1,
+          "d": 0,
+          "e": 2,
+          "maximal_minor_count": 3,
+          "ideal_dimension": 46,
+          "outside_count": 46,
+          "quotient_dimension": 10,
+          "by_weight": [
+            {
+              "weight": 3,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            },
+            {
+              "weight": 4,
+              "ideal_rank": 2,
+              "outside_rank": 2
+            },
+            {
+              "weight": 5,
+              "ideal_rank": 4,
+              "outside_rank": 4
+            },
+            {
+              "weight": 6,
+              "ideal_rank": 5,
+              "outside_rank": 5
+            },
+            {
+              "weight": 7,
+              "ideal_rank": 6,
+              "outside_rank": 6
+            },
+            {
+              "weight": 8,
+              "ideal_rank": 6,
+              "outside_rank": 6
+            },
+            {
+              "weight": 9,
+              "ideal_rank": 6,
+              "outside_rank": 6
+            },
+            {
+              "weight": 10,
+              "ideal_rank": 5,
+              "outside_rank": 5
+            },
+            {
+              "weight": 11,
+              "ideal_rank": 4,
+              "outside_rank": 4
+            },
+            {
+              "weight": 12,
+              "ideal_rank": 3,
+              "outside_rank": 3
+            },
+            {
+              "weight": 13,
+              "ideal_rank": 2,
+              "outside_rank": 2
+            },
+            {
+              "weight": 14,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            },
+            {
+              "weight": 15,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            }
+          ]
+        },
+        {
+          "s": 2,
+          "d": 1,
+          "e": 3,
+          "maximal_minor_count": 3,
+          "ideal_dimension": 16,
+          "outside_count": 16,
+          "quotient_dimension": 40,
+          "by_weight": [
+            {
+              "weight": 8,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            },
+            {
+              "weight": 9,
+              "ideal_rank": 2,
+              "outside_rank": 2
+            },
+            {
+              "weight": 10,
+              "ideal_rank": 3,
+              "outside_rank": 3
+            },
+            {
+              "weight": 11,
+              "ideal_rank": 3,
+              "outside_rank": 3
+            },
+            {
+              "weight": 12,
+              "ideal_rank": 3,
+              "outside_rank": 3
+            },
+            {
+              "weight": 13,
+              "ideal_rank": 2,
+              "outside_rank": 2
+            },
+            {
+              "weight": 14,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            },
+            {
+              "weight": 15,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            }
+          ]
+        },
+        {
+          "s": 3,
+          "d": 2,
+          "e": 4,
+          "maximal_minor_count": 1,
+          "ideal_dimension": 1,
+          "outside_count": 1,
+          "quotient_dimension": 55,
+          "by_weight": [
+            {
+              "weight": 15,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "k": 4,
+      "ell": 4,
+      "ring_dimension": 70,
+      "full_transformed_basis_rank": 70,
+      "tails": [
+        {
+          "s": 1,
+          "d": 0,
+          "e": 0,
+          "maximal_minor_count": 4,
+          "ideal_dimension": 69,
+          "outside_count": 69,
+          "quotient_dimension": 1,
+          "by_weight": [
+            {
+              "weight": 1,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            },
+            {
+              "weight": 2,
+              "ideal_rank": 2,
+              "outside_rank": 2
+            },
+            {
+              "weight": 3,
+              "ideal_rank": 3,
+              "outside_rank": 3
+            },
+            {
+              "weight": 4,
+              "ideal_rank": 5,
+              "outside_rank": 5
+            },
+            {
+              "weight": 5,
+              "ideal_rank": 5,
+              "outside_rank": 5
+            },
+            {
+              "weight": 6,
+              "ideal_rank": 7,
+              "outside_rank": 7
+            },
+            {
+              "weight": 7,
+              "ideal_rank": 7,
+              "outside_rank": 7
+            },
+            {
+              "weight": 8,
+              "ideal_rank": 8,
+              "outside_rank": 8
+            },
+            {
+              "weight": 9,
+              "ideal_rank": 7,
+              "outside_rank": 7
+            },
+            {
+              "weight": 10,
+              "ideal_rank": 7,
+              "outside_rank": 7
+            },
+            {
+              "weight": 11,
+              "ideal_rank": 5,
+              "outside_rank": 5
+            },
+            {
+              "weight": 12,
+              "ideal_rank": 5,
+              "outside_rank": 5
+            },
+            {
+              "weight": 13,
+              "ideal_rank": 3,
+              "outside_rank": 3
+            },
+            {
+              "weight": 14,
+              "ideal_rank": 2,
+              "outside_rank": 2
+            },
+            {
+              "weight": 15,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            },
+            {
+              "weight": 16,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            }
+          ]
+        },
+        {
+          "s": 2,
+          "d": 1,
+          "e": 1,
+          "maximal_minor_count": 6,
+          "ideal_dimension": 53,
+          "outside_count": 53,
+          "quotient_dimension": 17,
+          "by_weight": [
+            {
+              "weight": 4,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            },
+            {
+              "weight": 5,
+              "ideal_rank": 2,
+              "outside_rank": 2
+            },
+            {
+              "weight": 6,
+              "ideal_rank": 5,
+              "outside_rank": 5
+            },
+            {
+              "weight": 7,
+              "ideal_rank": 6,
+              "outside_rank": 6
+            },
+            {
+              "weight": 8,
+              "ideal_rank": 8,
+              "outside_rank": 8
+            },
+            {
+              "weight": 9,
+              "ideal_rank": 7,
+              "outside_rank": 7
+            },
+            {
+              "weight": 10,
+              "ideal_rank": 7,
+              "outside_rank": 7
+            },
+            {
+              "weight": 11,
+              "ideal_rank": 5,
+              "outside_rank": 5
+            },
+            {
+              "weight": 12,
+              "ideal_rank": 5,
+              "outside_rank": 5
+            },
+            {
+              "weight": 13,
+              "ideal_rank": 3,
+              "outside_rank": 3
+            },
+            {
+              "weight": 14,
+              "ideal_rank": 2,
+              "outside_rank": 2
+            },
+            {
+              "weight": 15,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            },
+            {
+              "weight": 16,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            }
+          ]
+        },
+        {
+          "s": 3,
+          "d": 2,
+          "e": 2,
+          "maximal_minor_count": 4,
+          "ideal_dimension": 17,
+          "outside_count": 17,
+          "quotient_dimension": 53,
+          "by_weight": [
+            {
+              "weight": 9,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            },
+            {
+              "weight": 10,
+              "ideal_rank": 2,
+              "outside_rank": 2
+            },
+            {
+              "weight": 11,
+              "ideal_rank": 3,
+              "outside_rank": 3
+            },
+            {
+              "weight": 12,
+              "ideal_rank": 4,
+              "outside_rank": 4
+            },
+            {
+              "weight": 13,
+              "ideal_rank": 3,
+              "outside_rank": 3
+            },
+            {
+              "weight": 14,
+              "ideal_rank": 2,
+              "outside_rank": 2
+            },
+            {
+              "weight": 15,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            },
+            {
+              "weight": 16,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            }
+          ]
+        },
+        {
+          "s": 4,
+          "d": 3,
+          "e": 3,
+          "maximal_minor_count": 1,
+          "ideal_dimension": 1,
+          "outside_count": 1,
+          "quotient_dimension": 69,
+          "by_weight": [
+            {
+              "weight": 16,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "k": 4,
+      "ell": 5,
+      "ring_dimension": 126,
+      "full_transformed_basis_rank": 126,
+      "tails": [
+        {
+          "s": 1,
+          "d": 0,
+          "e": 1,
+          "maximal_minor_count": 4,
+          "ideal_dimension": 121,
+          "outside_count": 121,
+          "quotient_dimension": 5,
+          "by_weight": [
+            {
+              "weight": 2,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            },
+            {
+              "weight": 3,
+              "ideal_rank": 2,
+              "outside_rank": 2
+            },
+            {
+              "weight": 4,
+              "ideal_rank": 4,
+              "outside_rank": 4
+            },
+            {
+              "weight": 5,
+              "ideal_rank": 6,
+              "outside_rank": 6
+            },
+            {
+              "weight": 6,
+              "ideal_rank": 8,
+              "outside_rank": 8
+            },
+            {
+              "weight": 7,
+              "ideal_rank": 9,
+              "outside_rank": 9
+            },
+            {
+              "weight": 8,
+              "ideal_rank": 11,
+              "outside_rank": 11
+            },
+            {
+              "weight": 9,
+              "ideal_rank": 11,
+              "outside_rank": 11
+            },
+            {
+              "weight": 10,
+              "ideal_rank": 12,
+              "outside_rank": 12
+            },
+            {
+              "weight": 11,
+              "ideal_rank": 11,
+              "outside_rank": 11
+            },
+            {
+              "weight": 12,
+              "ideal_rank": 11,
+              "outside_rank": 11
+            },
+            {
+              "weight": 13,
+              "ideal_rank": 9,
+              "outside_rank": 9
+            },
+            {
+              "weight": 14,
+              "ideal_rank": 8,
+              "outside_rank": 8
+            },
+            {
+              "weight": 15,
+              "ideal_rank": 6,
+              "outside_rank": 6
+            },
+            {
+              "weight": 16,
+              "ideal_rank": 5,
+              "outside_rank": 5
+            },
+            {
+              "weight": 17,
+              "ideal_rank": 3,
+              "outside_rank": 3
+            },
+            {
+              "weight": 18,
+              "ideal_rank": 2,
+              "outside_rank": 2
+            },
+            {
+              "weight": 19,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            },
+            {
+              "weight": 20,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            }
+          ]
+        },
+        {
+          "s": 2,
+          "d": 1,
+          "e": 2,
+          "maximal_minor_count": 6,
+          "ideal_dimension": 81,
+          "outside_count": 81,
+          "quotient_dimension": 45,
+          "by_weight": [
+            {
+              "weight": 6,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            },
+            {
+              "weight": 7,
+              "ideal_rank": 2,
+              "outside_rank": 2
+            },
+            {
+              "weight": 8,
+              "ideal_rank": 5,
+              "outside_rank": 5
+            },
+            {
+              "weight": 9,
+              "ideal_rank": 7,
+              "outside_rank": 7
+            },
+            {
+              "weight": 10,
+              "ideal_rank": 10,
+              "outside_rank": 10
+            },
+            {
+              "weight": 11,
+              "ideal_rank": 10,
+              "outside_rank": 10
+            },
+            {
+              "weight": 12,
+              "ideal_rank": 11,
+              "outside_rank": 11
+            },
+            {
+              "weight": 13,
+              "ideal_rank": 9,
+              "outside_rank": 9
+            },
+            {
+              "weight": 14,
+              "ideal_rank": 8,
+              "outside_rank": 8
+            },
+            {
+              "weight": 15,
+              "ideal_rank": 6,
+              "outside_rank": 6
+            },
+            {
+              "weight": 16,
+              "ideal_rank": 5,
+              "outside_rank": 5
+            },
+            {
+              "weight": 17,
+              "ideal_rank": 3,
+              "outside_rank": 3
+            },
+            {
+              "weight": 18,
+              "ideal_rank": 2,
+              "outside_rank": 2
+            },
+            {
+              "weight": 19,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            },
+            {
+              "weight": 20,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            }
+          ]
+        },
+        {
+          "s": 3,
+          "d": 2,
+          "e": 3,
+          "maximal_minor_count": 4,
+          "ideal_dimension": 21,
+          "outside_count": 21,
+          "quotient_dimension": 105,
+          "by_weight": [
+            {
+              "weight": 12,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            },
+            {
+              "weight": 13,
+              "ideal_rank": 2,
+              "outside_rank": 2
+            },
+            {
+              "weight": 14,
+              "ideal_rank": 3,
+              "outside_rank": 3
+            },
+            {
+              "weight": 15,
+              "ideal_rank": 4,
+              "outside_rank": 4
+            },
+            {
+              "weight": 16,
+              "ideal_rank": 4,
+              "outside_rank": 4
+            },
+            {
+              "weight": 17,
+              "ideal_rank": 3,
+              "outside_rank": 3
+            },
+            {
+              "weight": 18,
+              "ideal_rank": 2,
+              "outside_rank": 2
+            },
+            {
+              "weight": 19,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            },
+            {
+              "weight": 20,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            }
+          ]
+        },
+        {
+          "s": 4,
+          "d": 3,
+          "e": 4,
+          "maximal_minor_count": 1,
+          "ideal_dimension": 1,
+          "outside_count": 1,
+          "quotient_dimension": 125,
+          "by_weight": [
+            {
+              "weight": 20,
+              "ideal_rank": 1,
+              "outside_rank": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

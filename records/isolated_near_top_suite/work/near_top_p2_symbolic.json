@@ -1,0 +1,24 @@
+{
+  "independent": true,
+  "records": [
+    {
+      "status": "PASS",
+      "sigma": 0,
+      "normalized_determinant": "2*m*(m + 1)*(27*m**2*t**2 + 18*m**2*t - 9*m**2 + 63*m*t**2 + 39*m*t - 38*m - 18*t - 48)/((m + 2)**2*(m + 3)**2*(m + 4))",
+      "content": "2*m*(m + 1)",
+      "denominator": "(m + 2)**2*(m + 3)**2*(m + 4)",
+      "primitive_quadratic": "27*m**2*t**2 + 18*m**2*t - 9*m**2 + 63*m*t**2 + 39*m*t - 38*m - 18*t - 48",
+      "discriminant": "81*(m + 2)**2*(16*m**2 + 32*m + 1)"
+    },
+    {
+      "status": "PASS",
+      "sigma": 1,
+      "normalized_determinant": "3*m*(m + 1)*(18*m**2*t**2 + 12*m**2*t - 6*m**2 + 63*m*t**2 + 54*m*t - 37*m + 36*t - 60)/((m + 3)**2*(m + 4)**2*(m + 5))",
+      "content": "3*m*(m + 1)",
+      "denominator": "(m + 3)**2*(m + 4)**2*(m + 5)",
+      "primitive_quadratic": "18*m**2*t**2 + 12*m**2*t - 6*m**2 + 63*m*t**2 + 54*m*t - 37*m + 36*t - 60",
+      "discriminant": "144*(m + 3)**2*(4*m**2 + 14*m + 1)"
+    }
+  ],
+  "source_sha256": "5aa502be4e43101a3a968f1fd18a79cc36b3568c834e8bb1b89d00a7eb71069e"
+}

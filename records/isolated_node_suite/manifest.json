@@ -1,0 +1,38 @@
+{
+  "started_at": "2026-10-14T12:18:38.468Z",
+  "status": "PASS",
+  "node": "v24.19.0",
+  "scope": "Finite exact checks and a degree-bounded interpolation certificate; not formal proof-assistant verification.",
+  "source_sha256": {
+    "ordinary_pieri_actual_ideals.cjs": "7d8ca9769b6e1566a742d347220e67c47afec7053d01e0e137dc0de850a53bfc",
+    "lagrangian_coefficient_windows.mjs": "b0bdffc4182f8adc9ba56d09c97418b5b2adac42fdda1d7bc8df377e09e0405e",
+    "odd_excess_five_independent.mjs": "8069c5813777021b33902392d788d25bc7f27cd2f1f269a46aec10d007f49b83"
+  },
+  "tasks": [
+    {
+      "program": "ordinary_pieri_actual_ideals.cjs",
+      "started_at": "2026-10-14T12:18:38.813Z",
+      "ended_at": "2026-10-14T12:18:42.671Z",
+      "exit_code": 0,
+      "seconds": 3.858,
+      "status": "PASS"
+    },
+    {
+      "program": "lagrangian_coefficient_windows.mjs",
+      "started_at": "2026-10-14T12:18:42.674Z",
+      "ended_at": "2026-10-14T12:18:44.106Z",
+      "exit_code": 0,
+      "seconds": 1.432,
+      "status": "PASS"
+    },
+    {
+      "program": "odd_excess_five_independent.mjs",
+      "started_at": "2026-10-14T12:18:44.109Z",
+      "ended_at": "2026-10-14T12:18:45.683Z",
+      "exit_code": 0,
+      "seconds": 1.574,
+      "status": "PASS"
+    }
+  ],
+  "ended_at": "2026-10-14T12:18:45.691Z"
+}

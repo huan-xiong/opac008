@@ -1,0 +1,78 @@
+{'n': 1, 'socle_weight': 1, 'strict_candidates_through_socle': 2, 'candidates_largest_part_gt_n': 0, 'full_transformed_basis_components': 2, 'full_flag_quotient_components': 4, 'subalgebra_components': 2, 'derivative_components': 2, 'status': 'PASS'}
+{'n': 2, 'socle_weight': 3, 'strict_candidates_through_socle': 5, 'candidates_largest_part_gt_n': 1, 'full_transformed_basis_components': 4, 'full_flag_quotient_components': 12, 'subalgebra_components': 8, 'derivative_components': 4, 'status': 'PASS'}
+{'n': 3, 'socle_weight': 6, 'strict_candidates_through_socle': 14, 'candidates_largest_part_gt_n': 6, 'full_transformed_basis_components': 7, 'full_flag_quotient_components': 28, 'subalgebra_components': 21, 'derivative_components': 14, 'status': 'PASS'}
+{'n': 4, 'socle_weight': 10, 'strict_candidates_through_socle': 43, 'candidates_largest_part_gt_n': 27, 'full_transformed_basis_components': 11, 'full_flag_quotient_components': 55, 'subalgebra_components': 44, 'derivative_components': 22, 'status': 'PASS'}
+{'n': 5, 'socle_weight': 15, 'strict_candidates_through_socle': 137, 'candidates_largest_part_gt_n': 105, 'full_transformed_basis_components': 16, 'full_flag_quotient_components': 96, 'subalgebra_components': 80, 'derivative_components': 48, 'status': 'PASS'}
+{
+  "status": "PASS",
+  "started_at": "2026-10-14T12:05:22.949438+00:00",
+  "ended_at": "2026-10-14T12:05:26.818609+00:00",
+  "sympy": "1.14.0",
+  "records": [
+    {
+      "n": 1,
+      "socle_weight": 1,
+      "strict_candidates_through_socle": 2,
+      "candidates_largest_part_gt_n": 0,
+      "full_transformed_basis_components": 2,
+      "full_flag_quotient_components": 4,
+      "subalgebra_components": 2,
+      "derivative_components": 2,
+      "status": "PASS"
+    },
+    {
+      "n": 2,
+      "socle_weight": 3,
+      "strict_candidates_through_socle": 5,
+      "candidates_largest_part_gt_n": 1,
+      "full_transformed_basis_components": 4,
+      "full_flag_quotient_components": 12,
+      "subalgebra_components": 8,
+      "derivative_components": 4,
+      "status": "PASS"
+    },
+    {
+      "n": 3,
+      "socle_weight": 6,
+      "strict_candidates_through_socle": 14,
+      "candidates_largest_part_gt_n": 6,
+      "full_transformed_basis_components": 7,
+      "full_flag_quotient_components": 28,
+      "subalgebra_components": 21,
+      "derivative_components": 14,
+      "status": "PASS"
+    },
+    {
+      "n": 4,
+      "socle_weight": 10,
+      "strict_candidates_through_socle": 43,
+      "candidates_largest_part_gt_n": 27,
+      "full_transformed_basis_components": 11,
+      "full_flag_quotient_components": 55,
+      "subalgebra_components": 44,
+      "derivative_components": 22,
+      "status": "PASS"
+    },
+    {
+      "n": 5,
+      "socle_weight": 15,
+      "strict_candidates_through_socle": 137,
+      "candidates_largest_part_gt_n": 105,
+      "full_transformed_basis_components": 16,
+      "full_flag_quotient_components": 96,
+      "subalgebra_components": 80,
+      "derivative_components": 48,
+      "status": "PASS"
+    }
+  ],
+  "counts": {
+    "strict_candidates_through_socle": 201,
+    "candidates_largest_part_gt_n": 139,
+    "full_transformed_basis_components": 40,
+    "full_flag_quotient_components": 195,
+    "subalgebra_components": 155,
+    "derivative_components": 90
+  },
+  "scope": "n<=5, all flag indices and output weights through proven socle; derivative sources extend by newest odd weight.",
+  "independence": "Self-contained raw quadratic quotient reduction and explicit E(z)^2 coefficient Pfaffians; no imported old helper or formula-defined ideal."
+}

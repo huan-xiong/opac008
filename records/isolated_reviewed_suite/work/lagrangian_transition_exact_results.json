@@ -1,0 +1,247 @@
+{
+  "status": "PASS",
+  "sympy": "1.14.0",
+  "symbolic_determinant_cases": 10,
+  "polynomial_generator_cases": 24,
+  "scope": "Exact polynomial identities over Q[g_1,...,g_d]; no quotient reduction, finite-range evidence only",
+  "results": [
+    {
+      "type": "symbolic_determinant",
+      "d": 1,
+      "parity": "even",
+      "M": "indeterminate",
+      "status": "PASS"
+    },
+    {
+      "type": "symbolic_determinant",
+      "d": 1,
+      "parity": "odd",
+      "M": "indeterminate",
+      "status": "PASS"
+    },
+    {
+      "type": "symbolic_determinant",
+      "d": 2,
+      "parity": "even",
+      "M": "indeterminate",
+      "status": "PASS"
+    },
+    {
+      "type": "symbolic_determinant",
+      "d": 2,
+      "parity": "odd",
+      "M": "indeterminate",
+      "status": "PASS"
+    },
+    {
+      "type": "symbolic_determinant",
+      "d": 3,
+      "parity": "even",
+      "M": "indeterminate",
+      "status": "PASS"
+    },
+    {
+      "type": "symbolic_determinant",
+      "d": 3,
+      "parity": "odd",
+      "M": "indeterminate",
+      "status": "PASS"
+    },
+    {
+      "type": "symbolic_determinant",
+      "d": 4,
+      "parity": "even",
+      "M": "indeterminate",
+      "status": "PASS"
+    },
+    {
+      "type": "symbolic_determinant",
+      "d": 4,
+      "parity": "odd",
+      "M": "indeterminate",
+      "status": "PASS"
+    },
+    {
+      "type": "symbolic_determinant",
+      "d": 5,
+      "parity": "even",
+      "M": "indeterminate",
+      "status": "PASS"
+    },
+    {
+      "type": "symbolic_determinant",
+      "d": 5,
+      "parity": "odd",
+      "M": "indeterminate",
+      "status": "PASS"
+    },
+    {
+      "type": "polynomial_generator_identity",
+      "d": 1,
+      "M": 1,
+      "parity": "odd",
+      "status": "PASS"
+    },
+    {
+      "type": "polynomial_generator_identity",
+      "d": 1,
+      "M": 2,
+      "parity": "even",
+      "status": "PASS"
+    },
+    {
+      "type": "polynomial_generator_identity",
+      "d": 1,
+      "M": 3,
+      "parity": "odd",
+      "status": "PASS"
+    },
+    {
+      "type": "polynomial_generator_identity",
+      "d": 1,
+      "M": 4,
+      "parity": "even",
+      "status": "PASS"
+    },
+    {
+      "type": "polynomial_generator_identity",
+      "d": 1,
+      "M": 5,
+      "parity": "odd",
+      "status": "PASS"
+    },
+    {
+      "type": "polynomial_generator_identity",
+      "d": 1,
+      "M": 6,
+      "parity": "even",
+      "status": "PASS"
+    },
+    {
+      "type": "polynomial_generator_identity",
+      "d": 2,
+      "M": 1,
+      "parity": "odd",
+      "status": "PASS"
+    },
+    {
+      "type": "polynomial_generator_identity",
+      "d": 2,
+      "M": 2,
+      "parity": "even",
+      "status": "PASS"
+    },
+    {
+      "type": "polynomial_generator_identity",
+      "d": 2,
+      "M": 3,
+      "parity": "odd",
+      "status": "PASS"
+    },
+    {
+      "type": "polynomial_generator_identity",
+      "d": 2,
+      "M": 4,
+      "parity": "even",
+      "status": "PASS"
+    },
+    {
+      "type": "polynomial_generator_identity",
+      "d": 2,
+      "M": 5,
+      "parity": "odd",
+      "status": "PASS"
+    },
+    {
+      "type": "polynomial_generator_identity",
+      "d": 2,
+      "M": 6,
+      "parity": "even",
+      "status": "PASS"
+    },
+    {
+      "type": "polynomial_generator_identity",
+      "d": 3,
+      "M": 1,
+      "parity": "odd",
+      "status": "PASS"
+    },
+    {
+      "type": "polynomial_generator_identity",
+      "d": 3,
+      "M": 2,
+      "parity": "even",
+      "status": "PASS"
+    },
+    {
+      "type": "polynomial_generator_identity",
+      "d": 3,
+      "M": 3,
+      "parity": "odd",
+      "status": "PASS"
+    },
+    {
+      "type": "polynomial_generator_identity",
+      "d": 3,
+      "M": 4,
+      "parity": "even",
+      "status": "PASS"
+    },
+    {
+      "type": "polynomial_generator_identity",
+      "d": 3,
+      "M": 5,
+      "parity": "odd",
+      "status": "PASS"
+    },
+    {
+      "type": "polynomial_generator_identity",
+      "d": 3,
+      "M": 6,
+      "parity": "even",
+      "status": "PASS"
+    },
+    {
+      "type": "polynomial_generator_identity",
+      "d": 4,
+      "M": 1,
+      "parity": "odd",
+      "status": "PASS"
+    },
+    {
+      "type": "polynomial_generator_identity",
+      "d": 4,
+      "M": 2,
+      "parity": "even",
+      "status": "PASS"
+    },
+    {
+      "type": "polynomial_generator_identity",
+      "d": 4,
+      "M": 3,
+      "parity": "odd",
+      "status": "PASS"
+    },
+    {
+      "type": "polynomial_generator_identity",
+      "d": 4,
+      "M": 4,
+      "parity": "even",
+      "status": "PASS"
+    },
+    {
+      "type": "polynomial_generator_identity",
+      "d": 4,
+      "M": 5,
+      "parity": "odd",
+      "status": "PASS"
+    },
+    {
+      "type": "polynomial_generator_identity",
+      "d": 4,
+      "M": 6,
+      "parity": "even",
+      "status": "PASS"
+    }
+  ]
+}

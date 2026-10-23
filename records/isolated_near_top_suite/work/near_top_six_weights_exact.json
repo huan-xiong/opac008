@@ -1,0 +1,1162 @@
+{
+  "research_only": true,
+  "method": "exact weighted defining-ideal quotient ranks over Q[u,v], then an independent Catalan-moment/Pearson determinant check",
+  "cases": 113,
+  "all_passed": true,
+  "seconds": 66.65599999995902,
+  "records": [
+    {
+      "k": 2,
+      "N": 0,
+      "excess": -2,
+      "quotient_dimension": 1,
+      "candidate_count": 1,
+      "actual_span_rank": 1,
+      "codimension": 0
+    },
+    {
+      "k": 2,
+      "N": 1,
+      "excess": -1,
+      "quotient_dimension": 1,
+      "candidate_count": 1,
+      "actual_span_rank": 1,
+      "codimension": 0
+    },
+    {
+      "k": 2,
+      "N": 2,
+      "excess": 0,
+      "quotient_dimension": 2,
+      "candidate_count": 2,
+      "actual_span_rank": 2,
+      "codimension": 0
+    },
+    {
+      "k": 2,
+      "N": 3,
+      "excess": 1,
+      "quotient_dimension": 1,
+      "candidate_count": 1,
+      "actual_span_rank": 1,
+      "codimension": 0
+    },
+    {
+      "k": 2,
+      "N": 4,
+      "excess": 2,
+      "quotient_dimension": 1,
+      "candidate_count": 1,
+      "actual_span_rank": 1,
+      "codimension": 0
+    },
+    {
+      "k": 3,
+      "N": 1,
+      "excess": -2,
+      "quotient_dimension": 1,
+      "candidate_count": 1,
+      "actual_span_rank": 1,
+      "codimension": 0
+    },
+    {
+      "k": 3,
+      "N": 2,
+      "excess": -1,
+      "quotient_dimension": 2,
+      "candidate_count": 2,
+      "actual_span_rank": 2,
+      "codimension": 0
+    },
+    {
+      "k": 3,
+      "N": 3,
+      "excess": 0,
+      "quotient_dimension": 2,
+      "candidate_count": 2,
+      "actual_span_rank": 2,
+      "codimension": 0
+    },
+    {
+      "k": 3,
+      "N": 4,
+      "excess": 1,
+      "quotient_dimension": 2,
+      "candidate_count": 2,
+      "actual_span_rank": 2,
+      "codimension": 0,
+      "m": 2,
+      "sigma": 0,
+      "pairing_determinant": "-1",
+      "Pearson_formula_passed": true
+    },
+    {
+      "k": 3,
+      "N": 5,
+      "excess": 2,
+      "quotient_dimension": 1,
+      "candidate_count": 1,
+      "actual_span_rank": 1,
+      "codimension": 0
+    },
+    {
+      "k": 3,
+      "N": 6,
+      "excess": 3,
+      "quotient_dimension": 1,
+      "candidate_count": 1,
+      "actual_span_rank": 1,
+      "codimension": 0
+    },
+    {
+      "k": 4,
+      "N": 3,
+      "excess": -1,
+      "quotient_dimension": 2,
+      "candidate_count": 2,
+      "actual_span_rank": 2,
+      "codimension": 0
+    },
+    {
+      "k": 4,
+      "N": 4,
+      "excess": 0,
+      "quotient_dimension": 3,
+      "candidate_count": 3,
+      "actual_span_rank": 3,
+      "codimension": 0
+    },
+    {
+      "k": 4,
+      "N": 5,
+      "excess": 1,
+      "quotient_dimension": 2,
+      "candidate_count": 2,
+      "actual_span_rank": 2,
+      "codimension": 0,
+      "m": 2,
+      "sigma": 1,
+      "pairing_determinant": "2",
+      "Pearson_formula_passed": true
+    },
+    {
+      "k": 4,
+      "N": 6,
+      "excess": 2,
+      "quotient_dimension": 2,
+      "candidate_count": 2,
+      "actual_span_rank": 2,
+      "codimension": 0
+    },
+    {
+      "k": 4,
+      "N": 7,
+      "excess": 3,
+      "quotient_dimension": 1,
+      "candidate_count": 1,
+      "actual_span_rank": 1,
+      "codimension": 0
+    },
+    {
+      "k": 4,
+      "N": 8,
+      "excess": 4,
+      "quotient_dimension": 1,
+      "candidate_count": 1,
+      "actual_span_rank": 1,
+      "codimension": 0
+    },
+    {
+      "k": 5,
+      "N": 5,
+      "excess": 0,
+      "quotient_dimension": 3,
+      "candidate_count": 3,
+      "actual_span_rank": 3,
+      "codimension": 0
+    },
+    {
+      "k": 5,
+      "N": 6,
+      "excess": 1,
+      "quotient_dimension": 3,
+      "candidate_count": 3,
+      "actual_span_rank": 3,
+      "codimension": 0,
+      "m": 2,
+      "sigma": 0,
+      "pairing_determinant": "-4",
+      "p2_quadratic_formula_passed": true
+    },
+    {
+      "k": 5,
+      "N": 7,
+      "excess": 2,
+      "quotient_dimension": 2,
+      "candidate_count": 2,
+      "actual_span_rank": 2,
+      "codimension": 0
+    },
+    {
+      "k": 5,
+      "N": 8,
+      "excess": 3,
+      "quotient_dimension": 2,
+      "candidate_count": 2,
+      "actual_span_rank": 1,
+      "codimension": 1,
+      "m": 4,
+      "sigma": 0,
+      "pairing_determinant": "0",
+      "Pearson_formula_passed": true
+    },
+    {
+      "k": 5,
+      "N": 9,
+      "excess": 4,
+      "quotient_dimension": 1,
+      "candidate_count": 1,
+      "actual_span_rank": 1,
+      "codimension": 0
+    },
+    {
+      "k": 5,
+      "N": 10,
+      "excess": 5,
+      "quotient_dimension": 1,
+      "candidate_count": 1,
+      "actual_span_rank": 1,
+      "codimension": 0
+    },
+    {
+      "k": 6,
+      "N": 7,
+      "excess": 1,
+      "quotient_dimension": 3,
+      "candidate_count": 3,
+      "actual_span_rank": 3,
+      "codimension": 0,
+      "m": 2,
+      "sigma": 1,
+      "pairing_determinant": "-2",
+      "p2_quadratic_formula_passed": true
+    },
+    {
+      "k": 6,
+      "N": 8,
+      "excess": 2,
+      "quotient_dimension": 3,
+      "candidate_count": 3,
+      "actual_span_rank": 3,
+      "codimension": 0
+    },
+    {
+      "k": 6,
+      "N": 9,
+      "excess": 3,
+      "quotient_dimension": 2,
+      "candidate_count": 2,
+      "actual_span_rank": 2,
+      "codimension": 0,
+      "m": 4,
+      "sigma": 1,
+      "pairing_determinant": "72",
+      "Pearson_formula_passed": true
+    },
+    {
+      "k": 6,
+      "N": 10,
+      "excess": 4,
+      "quotient_dimension": 2,
+      "candidate_count": 2,
+      "actual_span_rank": 2,
+      "codimension": 0
+    },
+    {
+      "k": 6,
+      "N": 11,
+      "excess": 5,
+      "quotient_dimension": 1,
+      "candidate_count": 1,
+      "actual_span_rank": 1,
+      "codimension": 0
+    },
+    {
+      "k": 6,
+      "N": 12,
+      "excess": 6,
+      "quotient_dimension": 1,
+      "candidate_count": 1,
+      "actual_span_rank": 1,
+      "codimension": 0
+    },
+    {
+      "k": 7,
+      "N": 9,
+      "excess": 2,
+      "quotient_dimension": 3,
+      "candidate_count": 3,
+      "actual_span_rank": 3,
+      "codimension": 0
+    },
+    {
+      "k": 7,
+      "N": 10,
+      "excess": 3,
+      "quotient_dimension": 3,
+      "candidate_count": 3,
+      "actual_span_rank": 3,
+      "codimension": 0,
+      "m": 4,
+      "sigma": 0,
+      "pairing_determinant": "-135",
+      "p2_quadratic_formula_passed": true
+    },
+    {
+      "k": 7,
+      "N": 11,
+      "excess": 4,
+      "quotient_dimension": 2,
+      "candidate_count": 2,
+      "actual_span_rank": 2,
+      "codimension": 0
+    },
+    {
+      "k": 7,
+      "N": 12,
+      "excess": 5,
+      "quotient_dimension": 2,
+      "candidate_count": 2,
+      "actual_span_rank": 2,
+      "codimension": 0,
+      "m": 6,
+      "sigma": 0,
+      "pairing_determinant": "297",
+      "Pearson_formula_passed": true
+    },
+    {
+      "k": 7,
+      "N": 13,
+      "excess": 6,
+      "quotient_dimension": 1,
+      "candidate_count": 1,
+      "actual_span_rank": 1,
+      "codimension": 0
+    },
+    {
+      "k": 7,
+      "N": 14,
+      "excess": 7,
+      "quotient_dimension": 1,
+      "candidate_count": 1,
+      "actual_span_rank": 1,
+      "codimension": 0
+    },
+    {
+      "k": 8,
+      "N": 11,
+      "excess": 3,
+      "quotient_dimension": 3,
+      "candidate_count": 3,
+      "actual_span_rank": 2,
+      "codimension": 1,
+      "m": 4,
+      "sigma": 1,
+      "pairing_determinant": "0",
+      "p2_quadratic_formula_passed": true
+    },
+    {
+      "k": 8,
+      "N": 12,
+      "excess": 4,
+      "quotient_dimension": 3,
+      "candidate_count": 3,
+      "actual_span_rank": 3,
+      "codimension": 0
+    },
+    {
+      "k": 8,
+      "N": 13,
+      "excess": 5,
+      "quotient_dimension": 2,
+      "candidate_count": 2,
+      "actual_span_rank": 2,
+      "codimension": 0,
+      "m": 6,
+      "sigma": 1,
+      "pairing_determinant": "3432",
+      "Pearson_formula_passed": true
+    },
+    {
+      "k": 8,
+      "N": 14,
+      "excess": 6,
+      "quotient_dimension": 2,
+      "candidate_count": 2,
+      "actual_span_rank": 2,
+      "codimension": 0
+    },
+    {
+      "k": 8,
+      "N": 15,
+      "excess": 7,
+      "quotient_dimension": 1,
+      "candidate_count": 1,
+      "actual_span_rank": 1,
+      "codimension": 0
+    },
+    {
+      "k": 8,
+      "N": 16,
+      "excess": 8,
+      "quotient_dimension": 1,
+      "candidate_count": 1,
+      "actual_span_rank": 1,
+      "codimension": 0
+    },
+    {
+      "k": 9,
+      "N": 13,
+      "excess": 4,
+      "quotient_dimension": 3,
+      "candidate_count": 3,
+      "actual_span_rank": 3,
+      "codimension": 0
+    },
+    {
+      "k": 9,
+      "N": 14,
+      "excess": 5,
+      "quotient_dimension": 3,
+      "candidate_count": 3,
+      "actual_span_rank": 3,
+      "codimension": 0,
+      "m": 6,
+      "sigma": 0,
+      "pairing_determinant": "-6006",
+      "p2_quadratic_formula_passed": true
+    },
+    {
+      "k": 9,
+      "N": 15,
+      "excess": 6,
+      "quotient_dimension": 2,
+      "candidate_count": 2,
+      "actual_span_rank": 2,
+      "codimension": 0
+    },
+    {
+      "k": 9,
+      "N": 16,
+      "excess": 7,
+      "quotient_dimension": 2,
+      "candidate_count": 2,
+      "actual_span_rank": 2,
+      "codimension": 0,
+      "m": 8,
+      "sigma": 0,
+      "pairing_determinant": "19448",
+      "Pearson_formula_passed": true
+    },
+    {
+      "k": 9,
+      "N": 17,
+      "excess": 8,
+      "quotient_dimension": 1,
+      "candidate_count": 1,
+      "actual_span_rank": 1,
+      "codimension": 0
+    },
+    {
+      "k": 9,
+      "N": 18,
+      "excess": 9,
+      "quotient_dimension": 1,
+      "candidate_count": 1,
+      "actual_span_rank": 1,
+      "codimension": 0
+    },
+    {
+      "k": 10,
+      "N": 15,
+      "excess": 5,
+      "quotient_dimension": 3,
+      "candidate_count": 3,
+      "actual_span_rank": 3,
+      "codimension": 0,
+      "m": 6,
+      "sigma": 1,
+      "pairing_determinant": "10920",
+      "p2_quadratic_formula_passed": true
+    },
+    {
+      "k": 10,
+      "N": 16,
+      "excess": 6,
+      "quotient_dimension": 3,
+      "candidate_count": 3,
+      "actual_span_rank": 3,
+      "codimension": 0
+    },
+    {
+      "k": 10,
+      "N": 17,
+      "excess": 7,
+      "quotient_dimension": 2,
+      "candidate_count": 2,
+      "actual_span_rank": 2,
+      "codimension": 0,
+      "m": 8,
+      "sigma": 1,
+      "pairing_determinant": "205088",
+      "Pearson_formula_passed": true
+    },
+    {
+      "k": 10,
+      "N": 18,
+      "excess": 8,
+      "quotient_dimension": 2,
+      "candidate_count": 2,
+      "actual_span_rank": 2,
+      "codimension": 0
+    },
+    {
+      "k": 10,
+      "N": 19,
+      "excess": 9,
+      "quotient_dimension": 1,
+      "candidate_count": 1,
+      "actual_span_rank": 1,
+      "codimension": 0
+    },
+    {
+      "k": 10,
+      "N": 20,
+      "excess": 10,
+      "quotient_dimension": 1,
+      "candidate_count": 1,
+      "actual_span_rank": 1,
+      "codimension": 0
+    },
+    {
+      "k": 11,
+      "N": 17,
+      "excess": 6,
+      "quotient_dimension": 3,
+      "candidate_count": 3,
+      "actual_span_rank": 3,
+      "codimension": 0
+    },
+    {
+      "k": 11,
+      "N": 18,
+      "excess": 7,
+      "quotient_dimension": 3,
+      "candidate_count": 3,
+      "actual_span_rank": 3,
+      "codimension": 0,
+      "m": 8,
+      "sigma": 0,
+      "pairing_determinant": "-265200",
+      "p2_quadratic_formula_passed": true
+    },
+    {
+      "k": 11,
+      "N": 19,
+      "excess": 8,
+      "quotient_dimension": 2,
+      "candidate_count": 2,
+      "actual_span_rank": 2,
+      "codimension": 0
+    },
+    {
+      "k": 11,
+      "N": 20,
+      "excess": 9,
+      "quotient_dimension": 2,
+      "candidate_count": 2,
+      "actual_span_rank": 2,
+      "codimension": 0,
+      "m": 10,
+      "sigma": 0,
+      "pairing_determinant": "1301690",
+      "Pearson_formula_passed": true
+    },
+    {
+      "k": 11,
+      "N": 21,
+      "excess": 10,
+      "quotient_dimension": 1,
+      "candidate_count": 1,
+      "actual_span_rank": 1,
+      "codimension": 0
+    },
+    {
+      "k": 11,
+      "N": 22,
+      "excess": 11,
+      "quotient_dimension": 1,
+      "candidate_count": 1,
+      "actual_span_rank": 1,
+      "codimension": 0
+    },
+    {
+      "k": 12,
+      "N": 19,
+      "excess": 7,
+      "quotient_dimension": 3,
+      "candidate_count": 3,
+      "actual_span_rank": 3,
+      "codimension": 0,
+      "m": 8,
+      "sigma": 1,
+      "pairing_determinant": "3333360",
+      "p2_quadratic_formula_passed": true
+    },
+    {
+      "k": 12,
+      "N": 20,
+      "excess": 8,
+      "quotient_dimension": 3,
+      "candidate_count": 3,
+      "actual_span_rank": 3,
+      "codimension": 0
+    },
+    {
+      "k": 12,
+      "N": 21,
+      "excess": 9,
+      "quotient_dimension": 2,
+      "candidate_count": 2,
+      "actual_span_rank": 2,
+      "codimension": 0,
+      "m": 10,
+      "sigma": 1,
+      "pairing_determinant": "14334740",
+      "Pearson_formula_passed": true
+    },
+    {
+      "k": 12,
+      "N": 22,
+      "excess": 10,
+      "quotient_dimension": 2,
+      "candidate_count": 2,
+      "actual_span_rank": 2,
+      "codimension": 0
+    },
+    {
+      "k": 12,
+      "N": 23,
+      "excess": 11,
+      "quotient_dimension": 1,
+      "candidate_count": 1,
+      "actual_span_rank": 1,
+      "codimension": 0
+    },
+    {
+      "k": 12,
+      "N": 24,
+      "excess": 12,
+      "quotient_dimension": 1,
+      "candidate_count": 1,
+      "actual_span_rank": 1,
+      "codimension": 0
+    },
+    {
+      "k": 13,
+      "N": 21,
+      "excess": 8,
+      "quotient_dimension": 3,
+      "candidate_count": 3,
+      "actual_span_rank": 3,
+      "codimension": 0
+    },
+    {
+      "k": 13,
+      "N": 22,
+      "excess": 9,
+      "quotient_dimension": 3,
+      "candidate_count": 3,
+      "actual_span_rank": 3,
+      "codimension": 0,
+      "m": 10,
+      "sigma": 0,
+      "pairing_determinant": "8171900",
+      "p2_quadratic_formula_passed": true
+    },
+    {
+      "k": 13,
+      "N": 23,
+      "excess": 10,
+      "quotient_dimension": 2,
+      "candidate_count": 2,
+      "actual_span_rank": 2,
+      "codimension": 0
+    },
+    {
+      "k": 13,
+      "N": 24,
+      "excess": 11,
+      "quotient_dimension": 2,
+      "candidate_count": 2,
+      "actual_span_rank": 2,
+      "codimension": 0,
+      "m": 12,
+      "sigma": 0,
+      "pairing_determinant": "96636432",
+      "Pearson_formula_passed": true
+    },
+    {
+      "k": 13,
+      "N": 25,
+      "excess": 12,
+      "quotient_dimension": 1,
+      "candidate_count": 1,
+      "actual_span_rank": 1,
+      "codimension": 0
+    },
+    {
+      "k": 13,
+      "N": 26,
+      "excess": 13,
+      "quotient_dimension": 1,
+      "candidate_count": 1,
+      "actual_span_rank": 1,
+      "codimension": 0
+    },
+    {
+      "k": 14,
+      "N": 23,
+      "excess": 9,
+      "quotient_dimension": 3,
+      "candidate_count": 3,
+      "actual_span_rank": 3,
+      "codimension": 0,
+      "m": 10,
+      "sigma": 1,
+      "pairing_determinant": "1106475260",
+      "p2_quadratic_formula_passed": true
+    },
+    {
+      "k": 14,
+      "N": 24,
+      "excess": 10,
+      "quotient_dimension": 3,
+      "candidate_count": 3,
+      "actual_span_rank": 3,
+      "codimension": 0
+    },
+    {
+      "k": 14,
+      "N": 25,
+      "excess": 11,
+      "quotient_dimension": 2,
+      "candidate_count": 2,
+      "actual_span_rank": 2,
+      "codimension": 0,
+      "m": 12,
+      "sigma": 1,
+      "pairing_determinant": "1119104560",
+      "Pearson_formula_passed": true
+    },
+    {
+      "k": 14,
+      "N": 26,
+      "excess": 12,
+      "quotient_dimension": 2,
+      "candidate_count": 2,
+      "actual_span_rank": 2,
+      "codimension": 0
+    },
+    {
+      "k": 14,
+      "N": 27,
+      "excess": 13,
+      "quotient_dimension": 1,
+      "candidate_count": 1,
+      "actual_span_rank": 1,
+      "codimension": 0
+    },
+    {
+      "k": 14,
+      "N": 28,
+      "excess": 14,
+      "quotient_dimension": 1,
+      "candidate_count": 1,
+      "actual_span_rank": 1,
+      "codimension": 0
+    },
+    {
+      "k": 15,
+      "N": 25,
+      "excess": 10,
+      "quotient_dimension": 3,
+      "candidate_count": 3,
+      "actual_span_rank": 3,
+      "codimension": 0
+    },
+    {
+      "k": 15,
+      "N": 26,
+      "excess": 11,
+      "quotient_dimension": 3,
+      "candidate_count": 3,
+      "actual_span_rank": 3,
+      "codimension": 0,
+      "m": 12,
+      "sigma": 0,
+      "pairing_determinant": "10243439505",
+      "p2_quadratic_formula_passed": true
+    },
+    {
+      "k": 15,
+      "N": 27,
+      "excess": 12,
+      "quotient_dimension": 2,
+      "candidate_count": 2,
+      "actual_span_rank": 2,
+      "codimension": 0
+    },
+    {
+      "k": 15,
+      "N": 28,
+      "excess": 13,
+      "quotient_dimension": 2,
+      "candidate_count": 2,
+      "actual_span_rank": 2,
+      "codimension": 0,
+      "m": 14,
+      "sigma": 0,
+      "pairing_determinant": "7855833195",
+      "Pearson_formula_passed": true
+    },
+    {
+      "k": 15,
+      "N": 29,
+      "excess": 14,
+      "quotient_dimension": 1,
+      "candidate_count": 1,
+      "actual_span_rank": 1,
+      "codimension": 0
+    },
+    {
+      "k": 15,
+      "N": 30,
+      "excess": 15,
+      "quotient_dimension": 1,
+      "candidate_count": 1,
+      "actual_span_rank": 1,
+      "codimension": 0
+    },
+    {
+      "k": 16,
+      "N": 27,
+      "excess": 11,
+      "quotient_dimension": 3,
+      "candidate_count": 3,
+      "actual_span_rank": 3,
+      "codimension": 0,
+      "m": 12,
+      "sigma": 1,
+      "pairing_determinant": "432381080430",
+      "p2_quadratic_formula_passed": true
+    },
+    {
+      "k": 16,
+      "N": 28,
+      "excess": 12,
+      "quotient_dimension": 3,
+      "candidate_count": 3,
+      "actual_span_rank": 3,
+      "codimension": 0
+    },
+    {
+      "k": 16,
+      "N": 29,
+      "excess": 13,
+      "quotient_dimension": 2,
+      "candidate_count": 2,
+      "actual_span_rank": 2,
+      "codimension": 0,
+      "m": 14,
+      "sigma": 1,
+      "pairing_determinant": "94777945290",
+      "Pearson_formula_passed": true
+    },
+    {
+      "k": 16,
+      "N": 30,
+      "excess": 14,
+      "quotient_dimension": 2,
+      "candidate_count": 2,
+      "actual_span_rank": 2,
+      "codimension": 0
+    },
+    {
+      "k": 16,
+      "N": 31,
+      "excess": 15,
+      "quotient_dimension": 1,
+      "candidate_count": 1,
+      "actual_span_rank": 1,
+      "codimension": 0
+    },
+    {
+      "k": 16,
+      "N": 32,
+      "excess": 16,
+      "quotient_dimension": 1,
+      "candidate_count": 1,
+      "actual_span_rank": 1,
+      "codimension": 0
+    },
+    {
+      "k": 17,
+      "N": 29,
+      "excess": 12,
+      "quotient_dimension": 3,
+      "candidate_count": 3,
+      "actual_span_rank": 3,
+      "codimension": 0
+    },
+    {
+      "k": 17,
+      "N": 30,
+      "excess": 13,
+      "quotient_dimension": 3,
+      "candidate_count": 3,
+      "actual_span_rank": 3,
+      "codimension": 0,
+      "m": 14,
+      "sigma": 0,
+      "pairing_determinant": "4977458885700",
+      "p2_quadratic_formula_passed": true
+    },
+    {
+      "k": 17,
+      "N": 31,
+      "excess": 14,
+      "quotient_dimension": 2,
+      "candidate_count": 2,
+      "actual_span_rank": 2,
+      "codimension": 0
+    },
+    {
+      "k": 17,
+      "N": 32,
+      "excess": 15,
+      "quotient_dimension": 2,
+      "candidate_count": 2,
+      "actual_span_rank": 2,
+      "codimension": 0,
+      "m": 16,
+      "sigma": 0,
+      "pairing_determinant": "685655936640",
+      "Pearson_formula_passed": true
+    },
+    {
+      "k": 17,
+      "N": 33,
+      "excess": 16,
+      "quotient_dimension": 1,
+      "candidate_count": 1,
+      "actual_span_rank": 1,
+      "codimension": 0
+    },
+    {
+      "k": 17,
+      "N": 34,
+      "excess": 17,
+      "quotient_dimension": 1,
+      "candidate_count": 1,
+      "actual_span_rank": 1,
+      "codimension": 0
+    },
+    {
+      "k": 18,
+      "N": 31,
+      "excess": 13,
+      "quotient_dimension": 3,
+      "candidate_count": 3,
+      "actual_span_rank": 3,
+      "codimension": 0,
+      "m": 14,
+      "sigma": 1,
+      "pairing_determinant": "195071531322150",
+      "p2_quadratic_formula_passed": true
+    },
+    {
+      "k": 18,
+      "N": 32,
+      "excess": 14,
+      "quotient_dimension": 3,
+      "candidate_count": 3,
+      "actual_span_rank": 3,
+      "codimension": 0
+    },
+    {
+      "k": 18,
+      "N": 33,
+      "excess": 15,
+      "quotient_dimension": 2,
+      "candidate_count": 2,
+      "actual_span_rank": 2,
+      "codimension": 0,
+      "m": 16,
+      "sigma": 1,
+      "pairing_determinant": "8542800145440",
+      "Pearson_formula_passed": true
+    },
+    {
+      "k": 18,
+      "N": 34,
+      "excess": 16,
+      "quotient_dimension": 2,
+      "candidate_count": 2,
+      "actual_span_rank": 2,
+      "codimension": 0
+    },
+    {
+      "k": 18,
+      "N": 35,
+      "excess": 17,
+      "quotient_dimension": 1,
+      "candidate_count": 1,
+      "actual_span_rank": 1,
+      "codimension": 0
+    },
+    {
+      "k": 18,
+      "N": 36,
+      "excess": 18,
+      "quotient_dimension": 1,
+      "candidate_count": 1,
+      "actual_span_rank": 1,
+      "codimension": 0
+    },
+    {
+      "k": 19,
+      "N": 33,
+      "excess": 14,
+      "quotient_dimension": 3,
+      "candidate_count": 3,
+      "actual_span_rank": 3,
+      "codimension": 0
+    },
+    {
+      "k": 19,
+      "N": 34,
+      "excess": 15,
+      "quotient_dimension": 3,
+      "candidate_count": 3,
+      "actual_span_rank": 3,
+      "codimension": 0,
+      "m": 16,
+      "sigma": 0,
+      "pairing_determinant": "2449110147822360",
+      "p2_quadratic_formula_passed": true
+    },
+    {
+      "k": 19,
+      "N": 35,
+      "excess": 16,
+      "quotient_dimension": 2,
+      "candidate_count": 2,
+      "actual_span_rank": 2,
+      "codimension": 0
+    },
+    {
+      "k": 19,
+      "N": 36,
+      "excess": 17,
+      "quotient_dimension": 2,
+      "candidate_count": 2,
+      "actual_span_rank": 2,
+      "codimension": 0,
+      "m": 18,
+      "sigma": 0,
+      "pairing_determinant": "63272846352870",
+      "Pearson_formula_passed": true
+    },
+    {
+      "k": 19,
+      "N": 37,
+      "excess": 18,
+      "quotient_dimension": 1,
+      "candidate_count": 1,
+      "actual_span_rank": 1,
+      "codimension": 0
+    },
+    {
+      "k": 19,
+      "N": 38,
+      "excess": 19,
+      "quotient_dimension": 1,
+      "candidate_count": 1,
+      "actual_span_rank": 1,
+      "codimension": 0
+    },
+    {
+      "k": 20,
+      "N": 35,
+      "excess": 15,
+      "quotient_dimension": 3,
+      "candidate_count": 3,
+      "actual_span_rank": 3,
+      "codimension": 0,
+      "m": 16,
+      "sigma": 1,
+      "pairing_determinant": "98838285435735120",
+      "p2_quadratic_formula_passed": true
+    },
+    {
+      "k": 20,
+      "N": 36,
+      "excess": 16,
+      "quotient_dimension": 3,
+      "candidate_count": 3,
+      "actual_span_rank": 3,
+      "codimension": 0
+    },
+    {
+      "k": 20,
+      "N": 37,
+      "excess": 17,
+      "quotient_dimension": 2,
+      "candidate_count": 2,
+      "actual_span_rank": 2,
+      "codimension": 0,
+      "m": 18,
+      "sigma": 1,
+      "pairing_determinant": "808833442814100",
+      "Pearson_formula_passed": true
+    },
+    {
+      "k": 20,
+      "N": 38,
+      "excess": 18,
+      "quotient_dimension": 2,
+      "candidate_count": 2,
+      "actual_span_rank": 2,
+      "codimension": 0
+    },
+    {
+      "k": 20,
+      "N": 39,
+      "excess": 19,
+      "quotient_dimension": 1,
+      "candidate_count": 1,
+      "actual_span_rank": 1,
+      "codimension": 0
+    },
+    {
+      "k": 20,
+      "N": 40,
+      "excess": 20,
+      "quotient_dimension": 1,
+      "candidate_count": 1,
+      "actual_span_rank": 1,
+      "codimension": 0
+    }
+  ]
+}

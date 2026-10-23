@@ -1,0 +1,62 @@
+{
+  "status": "PASS",
+  "started_at": "2026-10-14T12:05:12.155710+00:00",
+  "ended_at": "2026-10-14T12:05:14.068511+00:00",
+  "sympy": "1.14.0",
+  "records": {
+    "C": {
+      "dimension": 6,
+      "m2_dimension": 3,
+      "m3_dimension": 2,
+      "socle_dimension": 1,
+      "ann_m3_dimension": 4,
+      "pairing": [
+        [
+          "1",
+          "2"
+        ],
+        [
+          "2",
+          "16/3"
+        ]
+      ],
+      "determinant": "4/3",
+      "status": "PASS"
+    },
+    "H": {
+      "dimension": 6,
+      "m2_dimension": 3,
+      "m3_dimension": 2,
+      "socle_dimension": 1,
+      "ann_m3_dimension": 4,
+      "pairing": [
+        [
+          "1",
+          "1"
+        ],
+        [
+          "1",
+          "2"
+        ]
+      ],
+      "determinant": "1",
+      "status": "PASS"
+    },
+    "quadratic_extension": {
+      "field": "Q(sqrt(3))",
+      "map_x": "x",
+      "map_y": "-sqrt(3)*y/4 + (3+sqrt(3))*x^2/8",
+      "relations_vanish": "PASS",
+      "surjective": "nonzero y coefficient, x unchanged",
+      "scope": "Additional boundary check: no all-field nonisomorphism claim for the Lagrangian example."
+    },
+    "ordinary": {
+      "cube_coordinate_identities": "PASS",
+      "degree3_coordinate_rank": 2,
+      "affine_resultant": "-27648",
+      "point_at_infinity": "not a zero",
+      "field_scope": "Every characteristic-zero extension of Q; resultant is a nonzero rational integer.",
+      "ungraded_scope": "Local algebra isomorphism induces an isomorphism of gr_m; both original algebras are standard graded."
+    }
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "status": "PASS",
+  "started_at": "2026-10-14T12:04:23.130620+00:00",
+  "ended_at": "2026-10-14T12:05:01.963426+00:00",
+  "sympy": "1.14.0",
+  "Lagrangian_top_monomials": 448,
+  "ordinary_top_monomials": 213,
+  "hook_checks": 13,
+  "scope": "Every elementary-generator monomial in top weight for listed rings; no full filtration ranks",
+  "independence": "Defining-relation reduction compared with separately implemented integer horizontal-strip recursion; hook formula is a third calculation.",
+  "records": [
+    {
+      "kind": "Lagrangian",
+      "n": 1,
+      "top_weight": 1,
+      "top_monomials": 1,
+      "all_integrals": "PASS",
+      "e1_top_integral": 1,
+      "hook_tableaux": 1,
+      "reduction_cache": {
+        "hits": 2,
+        "misses": 1,
+        "maxsize": null,
+        "currsize": 1
+      }
+    },
+    {
+      "kind": "Lagrangian",
+      "n": 2,
+      "top_weight": 3,
+      "top_monomials": 2,
+      "all_integrals": "PASS",
+      "e1_top_integral": 2,
+      "hook_tableaux": 2,
+      "reduction_cache": {
+        "hits": 3,
+        "misses": 2,
+        "maxsize": null,
+        "currsize": 2
+      }
+    },
+    {
+      "kind": "Lagrangian",
+      "n": 3,
+      "top_weight": 6,
+      "top_monomials": 7,
+      "all_integrals": "PASS",
+      "e1_top_integral": 16,
+      "hook_tableaux": 16,
+      "reduction_cache": {
+        "hits": 7,
+        "misses": 7,
+        "maxsize": null,
+        "currsize": 7
+      }
+    },
+    {
+      "kind": "Lagrangian",
+      "n": 4,
+      "top_weight": 10,
+      "top_monomials": 23,
+      "all_integrals": "PASS",
+      "e1_top_integral": 768,
+      "hook_tableaux": 768,
+      "reduction_cache": {
+        "hits": 30,
+        "misses": 23,
+        "maxsize": null,
+        "currsize": 23
+      }
+    },
+    {
+      "kind": "Lagrangian",
+      "n": 5,
+      "top_weight": 15,
+      "top_monomials": 84,
+      "all_integrals": "PASS",
+      "e1_top_integral": 292864,
+      "hook_tableaux": 292864,
+      "reduction_cache": {
+        "hits": 126,
+        "misses": 84,
+        "maxsize": null,
+        "currsize": 84
+      }
+    },
+    {
+      "kind": "Lagrangian",
+      "n": 6,
+      "top_weight": 21,
+      "top_monomials": 331,
+      "all_integrals": "PASS",
+      "e1_top_integral": 1100742656,
+      "hook_tableaux": 1100742656,
+      "reduction_cache": {
+        "hits": 621,
+        "misses": 331,
+        "maxsize": null,
+        "currsize": 331
+      }
+    },
+    {
+      "kind": "ordinary",
+      "k": 1,
+      "ell": 4,
+      "top_weight": 4,
+      "top_monomials": 1,
+      "all_integrals": "PASS",
+      "e1_top_integral": 1,
+      "hook_tableaux": 1,
+      "groebner_basis_size": 1
+    },
+    {
+      "kind": "ordinary",
+      "k": 2,
+      "ell": 2,
+      "top_weight": 4,
+      "top_monomials": 3,
+      "all_integrals": "PASS",
+      "e1_top_integral": 2,
+      "hook_tableaux": 2,
+      "groebner_basis_size": 4
+    },
+    {
+      "kind": "ordinary",
+      "k": 2,
+      "ell": 5,
+      "top_weight": 10,
+      "top_monomials": 6,
+      "all_integrals": "PASS",
+      "e1_top_integral": 42,
+      "hook_tableaux": 42,
+      "groebner_basis_size": 7
+    },
+    {
+      "kind": "ordinary",
+      "k": 3,
+      "ell": 3,
+      "top_weight": 9,
+      "top_monomials": 12,
+      "all_integrals": "PASS",
+      "e1_top_integral": 42,
+      "hook_tableaux": 42,
+      "groebner_basis_size": 15
+    },
+    {
+      "kind": "ordinary",
+      "k": 3,
+      "ell": 4,
+      "top_weight": 12,
+      "top_monomials": 19,
+      "all_integrals": "PASS",
+      "e1_top_integral": 462,
+      "hook_tableaux": 462,
+      "groebner_basis_size": 21
+    },
+    {
+      "kind": "ordinary",
+      "k": 4,
+      "ell": 4,
+      "top_weight": 16,
+      "top_monomials": 64,
+      "all_integrals": "PASS",
+      "e1_top_integral": 24024,
+      "hook_tableaux": 24024,
+      "groebner_basis_size": 56
+    },
+    {
+      "kind": "ordinary",
+      "k": 4,
+      "ell": 5,
+      "top_weight": 20,
+      "top_monomials": 108,
+      "all_integrals": "PASS",
+      "e1_top_integral": 1662804,
+      "hook_tableaux": 1662804,
+      "groebner_basis_size": 84
+    }
+  ],
+  "kostka_cache": {
+    "hits": 35887,
+    "misses": 9339,
+    "maxsize": null,
+    "currsize": 9339
+  }
+}

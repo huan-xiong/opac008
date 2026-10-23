@@ -1,0 +1,3706 @@
+{
+  "status": "PASS",
+  "range": {
+    "k_min": 2,
+    "k_max": 32,
+    "d": "1..k"
+  },
+  "criterion_pairing_cases": 527,
+  "coefficient_table_entries": 132,
+  "symbolic_determinants": 3,
+  "symbolic_minors": 1,
+  "results": [
+    {
+      "k": 2,
+      "d": 1,
+      "N": 3,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 2,
+      "d": 2,
+      "N": 4,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 3,
+      "d": 1,
+      "N": 4,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 3,
+      "d": 2,
+      "N": 5,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 3,
+      "d": 3,
+      "N": 6,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 4,
+      "d": 1,
+      "N": 5,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 4,
+      "d": 2,
+      "N": 6,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 4,
+      "d": 3,
+      "N": 7,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 4,
+      "d": 4,
+      "N": 8,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 5,
+      "d": 1,
+      "N": 6,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 5,
+      "d": 2,
+      "N": 7,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 5,
+      "d": 3,
+      "N": 8,
+      "dimension": 2,
+      "defect": 1
+    },
+    {
+      "k": 5,
+      "d": 4,
+      "N": 9,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 5,
+      "d": 5,
+      "N": 10,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 6,
+      "d": 1,
+      "N": 7,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 6,
+      "d": 2,
+      "N": 8,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 6,
+      "d": 3,
+      "N": 9,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 6,
+      "d": 4,
+      "N": 10,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 6,
+      "d": 5,
+      "N": 11,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 6,
+      "d": 6,
+      "N": 12,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 7,
+      "d": 1,
+      "N": 8,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 7,
+      "d": 2,
+      "N": 9,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 7,
+      "d": 3,
+      "N": 10,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 7,
+      "d": 4,
+      "N": 11,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 7,
+      "d": 5,
+      "N": 12,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 7,
+      "d": 6,
+      "N": 13,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 7,
+      "d": 7,
+      "N": 14,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 8,
+      "d": 1,
+      "N": 9,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 8,
+      "d": 2,
+      "N": 10,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 8,
+      "d": 3,
+      "N": 11,
+      "dimension": 3,
+      "defect": 1
+    },
+    {
+      "k": 8,
+      "d": 4,
+      "N": 12,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 8,
+      "d": 5,
+      "N": 13,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 8,
+      "d": 6,
+      "N": 14,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 8,
+      "d": 7,
+      "N": 15,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 8,
+      "d": 8,
+      "N": 16,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 9,
+      "d": 1,
+      "N": 10,
+      "dimension": 5,
+      "defect": 0
+    },
+    {
+      "k": 9,
+      "d": 2,
+      "N": 11,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 9,
+      "d": 3,
+      "N": 12,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 9,
+      "d": 4,
+      "N": 13,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 9,
+      "d": 5,
+      "N": 14,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 9,
+      "d": 6,
+      "N": 15,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 9,
+      "d": 7,
+      "N": 16,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 9,
+      "d": 8,
+      "N": 17,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 9,
+      "d": 9,
+      "N": 18,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 10,
+      "d": 1,
+      "N": 11,
+      "dimension": 5,
+      "defect": 0
+    },
+    {
+      "k": 10,
+      "d": 2,
+      "N": 12,
+      "dimension": 5,
+      "defect": 0
+    },
+    {
+      "k": 10,
+      "d": 3,
+      "N": 13,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 10,
+      "d": 4,
+      "N": 14,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 10,
+      "d": 5,
+      "N": 15,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 10,
+      "d": 6,
+      "N": 16,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 10,
+      "d": 7,
+      "N": 17,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 10,
+      "d": 8,
+      "N": 18,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 10,
+      "d": 9,
+      "N": 19,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 10,
+      "d": 10,
+      "N": 20,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 11,
+      "d": 1,
+      "N": 12,
+      "dimension": 6,
+      "defect": 0
+    },
+    {
+      "k": 11,
+      "d": 2,
+      "N": 13,
+      "dimension": 5,
+      "defect": 0
+    },
+    {
+      "k": 11,
+      "d": 3,
+      "N": 14,
+      "dimension": 5,
+      "defect": 1
+    },
+    {
+      "k": 11,
+      "d": 4,
+      "N": 15,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 11,
+      "d": 5,
+      "N": 16,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 11,
+      "d": 6,
+      "N": 17,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 11,
+      "d": 7,
+      "N": 18,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 11,
+      "d": 8,
+      "N": 19,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 11,
+      "d": 9,
+      "N": 20,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 11,
+      "d": 10,
+      "N": 21,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 11,
+      "d": 11,
+      "N": 22,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 12,
+      "d": 1,
+      "N": 13,
+      "dimension": 6,
+      "defect": 0
+    },
+    {
+      "k": 12,
+      "d": 2,
+      "N": 14,
+      "dimension": 6,
+      "defect": 0
+    },
+    {
+      "k": 12,
+      "d": 3,
+      "N": 15,
+      "dimension": 5,
+      "defect": 0
+    },
+    {
+      "k": 12,
+      "d": 4,
+      "N": 16,
+      "dimension": 5,
+      "defect": 0
+    },
+    {
+      "k": 12,
+      "d": 5,
+      "N": 17,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 12,
+      "d": 6,
+      "N": 18,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 12,
+      "d": 7,
+      "N": 19,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 12,
+      "d": 8,
+      "N": 20,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 12,
+      "d": 9,
+      "N": 21,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 12,
+      "d": 10,
+      "N": 22,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 12,
+      "d": 11,
+      "N": 23,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 12,
+      "d": 12,
+      "N": 24,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 13,
+      "d": 1,
+      "N": 14,
+      "dimension": 7,
+      "defect": 0
+    },
+    {
+      "k": 13,
+      "d": 2,
+      "N": 15,
+      "dimension": 6,
+      "defect": 0
+    },
+    {
+      "k": 13,
+      "d": 3,
+      "N": 16,
+      "dimension": 6,
+      "defect": 0
+    },
+    {
+      "k": 13,
+      "d": 4,
+      "N": 17,
+      "dimension": 5,
+      "defect": 0
+    },
+    {
+      "k": 13,
+      "d": 5,
+      "N": 18,
+      "dimension": 5,
+      "defect": 0
+    },
+    {
+      "k": 13,
+      "d": 6,
+      "N": 19,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 13,
+      "d": 7,
+      "N": 20,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 13,
+      "d": 8,
+      "N": 21,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 13,
+      "d": 9,
+      "N": 22,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 13,
+      "d": 10,
+      "N": 23,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 13,
+      "d": 11,
+      "N": 24,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 13,
+      "d": 12,
+      "N": 25,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 13,
+      "d": 13,
+      "N": 26,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 14,
+      "d": 1,
+      "N": 15,
+      "dimension": 7,
+      "defect": 0
+    },
+    {
+      "k": 14,
+      "d": 2,
+      "N": 16,
+      "dimension": 7,
+      "defect": 0
+    },
+    {
+      "k": 14,
+      "d": 3,
+      "N": 17,
+      "dimension": 6,
+      "defect": 1
+    },
+    {
+      "k": 14,
+      "d": 4,
+      "N": 18,
+      "dimension": 6,
+      "defect": 0
+    },
+    {
+      "k": 14,
+      "d": 5,
+      "N": 19,
+      "dimension": 5,
+      "defect": 0
+    },
+    {
+      "k": 14,
+      "d": 6,
+      "N": 20,
+      "dimension": 5,
+      "defect": 0
+    },
+    {
+      "k": 14,
+      "d": 7,
+      "N": 21,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 14,
+      "d": 8,
+      "N": 22,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 14,
+      "d": 9,
+      "N": 23,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 14,
+      "d": 10,
+      "N": 24,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 14,
+      "d": 11,
+      "N": 25,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 14,
+      "d": 12,
+      "N": 26,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 14,
+      "d": 13,
+      "N": 27,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 14,
+      "d": 14,
+      "N": 28,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 15,
+      "d": 1,
+      "N": 16,
+      "dimension": 8,
+      "defect": 0
+    },
+    {
+      "k": 15,
+      "d": 2,
+      "N": 17,
+      "dimension": 7,
+      "defect": 0
+    },
+    {
+      "k": 15,
+      "d": 3,
+      "N": 18,
+      "dimension": 7,
+      "defect": 0
+    },
+    {
+      "k": 15,
+      "d": 4,
+      "N": 19,
+      "dimension": 6,
+      "defect": 0
+    },
+    {
+      "k": 15,
+      "d": 5,
+      "N": 20,
+      "dimension": 6,
+      "defect": 0
+    },
+    {
+      "k": 15,
+      "d": 6,
+      "N": 21,
+      "dimension": 5,
+      "defect": 0
+    },
+    {
+      "k": 15,
+      "d": 7,
+      "N": 22,
+      "dimension": 5,
+      "defect": 0
+    },
+    {
+      "k": 15,
+      "d": 8,
+      "N": 23,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 15,
+      "d": 9,
+      "N": 24,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 15,
+      "d": 10,
+      "N": 25,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 15,
+      "d": 11,
+      "N": 26,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 15,
+      "d": 12,
+      "N": 27,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 15,
+      "d": 13,
+      "N": 28,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 15,
+      "d": 14,
+      "N": 29,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 15,
+      "d": 15,
+      "N": 30,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 16,
+      "d": 1,
+      "N": 17,
+      "dimension": 8,
+      "defect": 0
+    },
+    {
+      "k": 16,
+      "d": 2,
+      "N": 18,
+      "dimension": 8,
+      "defect": 0
+    },
+    {
+      "k": 16,
+      "d": 3,
+      "N": 19,
+      "dimension": 7,
+      "defect": 0
+    },
+    {
+      "k": 16,
+      "d": 4,
+      "N": 20,
+      "dimension": 7,
+      "defect": 0
+    },
+    {
+      "k": 16,
+      "d": 5,
+      "N": 21,
+      "dimension": 6,
+      "defect": 0
+    },
+    {
+      "k": 16,
+      "d": 6,
+      "N": 22,
+      "dimension": 6,
+      "defect": 0
+    },
+    {
+      "k": 16,
+      "d": 7,
+      "N": 23,
+      "dimension": 5,
+      "defect": 0
+    },
+    {
+      "k": 16,
+      "d": 8,
+      "N": 24,
+      "dimension": 5,
+      "defect": 0
+    },
+    {
+      "k": 16,
+      "d": 9,
+      "N": 25,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 16,
+      "d": 10,
+      "N": 26,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 16,
+      "d": 11,
+      "N": 27,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 16,
+      "d": 12,
+      "N": 28,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 16,
+      "d": 13,
+      "N": 29,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 16,
+      "d": 14,
+      "N": 30,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 16,
+      "d": 15,
+      "N": 31,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 16,
+      "d": 16,
+      "N": 32,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 17,
+      "d": 1,
+      "N": 18,
+      "dimension": 9,
+      "defect": 0
+    },
+    {
+      "k": 17,
+      "d": 2,
+      "N": 19,
+      "dimension": 8,
+      "defect": 0
+    },
+    {
+      "k": 17,
+      "d": 3,
+      "N": 20,
+      "dimension": 8,
+      "defect": 1
+    },
+    {
+      "k": 17,
+      "d": 4,
+      "N": 21,
+      "dimension": 7,
+      "defect": 0
+    },
+    {
+      "k": 17,
+      "d": 5,
+      "N": 22,
+      "dimension": 7,
+      "defect": 0
+    },
+    {
+      "k": 17,
+      "d": 6,
+      "N": 23,
+      "dimension": 6,
+      "defect": 0
+    },
+    {
+      "k": 17,
+      "d": 7,
+      "N": 24,
+      "dimension": 6,
+      "defect": 0
+    },
+    {
+      "k": 17,
+      "d": 8,
+      "N": 25,
+      "dimension": 5,
+      "defect": 0
+    },
+    {
+      "k": 17,
+      "d": 9,
+      "N": 26,
+      "dimension": 5,
+      "defect": 0
+    },
+    {
+      "k": 17,
+      "d": 10,
+      "N": 27,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 17,
+      "d": 11,
+      "N": 28,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 17,
+      "d": 12,
+      "N": 29,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 17,
+      "d": 13,
+      "N": 30,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 17,
+      "d": 14,
+      "N": 31,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 17,
+      "d": 15,
+      "N": 32,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 17,
+      "d": 16,
+      "N": 33,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 17,
+      "d": 17,
+      "N": 34,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 18,
+      "d": 1,
+      "N": 19,
+      "dimension": 9,
+      "defect": 0
+    },
+    {
+      "k": 18,
+      "d": 2,
+      "N": 20,
+      "dimension": 9,
+      "defect": 0
+    },
+    {
+      "k": 18,
+      "d": 3,
+      "N": 21,
+      "dimension": 8,
+      "defect": 0
+    },
+    {
+      "k": 18,
+      "d": 4,
+      "N": 22,
+      "dimension": 8,
+      "defect": 0
+    },
+    {
+      "k": 18,
+      "d": 5,
+      "N": 23,
+      "dimension": 7,
+      "defect": 0
+    },
+    {
+      "k": 18,
+      "d": 6,
+      "N": 24,
+      "dimension": 7,
+      "defect": 0
+    },
+    {
+      "k": 18,
+      "d": 7,
+      "N": 25,
+      "dimension": 6,
+      "defect": 0
+    },
+    {
+      "k": 18,
+      "d": 8,
+      "N": 26,
+      "dimension": 6,
+      "defect": 0
+    },
+    {
+      "k": 18,
+      "d": 9,
+      "N": 27,
+      "dimension": 5,
+      "defect": 0
+    },
+    {
+      "k": 18,
+      "d": 10,
+      "N": 28,
+      "dimension": 5,
+      "defect": 0
+    },
+    {
+      "k": 18,
+      "d": 11,
+      "N": 29,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 18,
+      "d": 12,
+      "N": 30,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 18,
+      "d": 13,
+      "N": 31,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 18,
+      "d": 14,
+      "N": 32,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 18,
+      "d": 15,
+      "N": 33,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 18,
+      "d": 16,
+      "N": 34,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 18,
+      "d": 17,
+      "N": 35,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 18,
+      "d": 18,
+      "N": 36,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 19,
+      "d": 1,
+      "N": 20,
+      "dimension": 10,
+      "defect": 0
+    },
+    {
+      "k": 19,
+      "d": 2,
+      "N": 21,
+      "dimension": 9,
+      "defect": 0
+    },
+    {
+      "k": 19,
+      "d": 3,
+      "N": 22,
+      "dimension": 9,
+      "defect": 0
+    },
+    {
+      "k": 19,
+      "d": 4,
+      "N": 23,
+      "dimension": 8,
+      "defect": 0
+    },
+    {
+      "k": 19,
+      "d": 5,
+      "N": 24,
+      "dimension": 8,
+      "defect": 0
+    },
+    {
+      "k": 19,
+      "d": 6,
+      "N": 25,
+      "dimension": 7,
+      "defect": 0
+    },
+    {
+      "k": 19,
+      "d": 7,
+      "N": 26,
+      "dimension": 7,
+      "defect": 0
+    },
+    {
+      "k": 19,
+      "d": 8,
+      "N": 27,
+      "dimension": 6,
+      "defect": 0
+    },
+    {
+      "k": 19,
+      "d": 9,
+      "N": 28,
+      "dimension": 6,
+      "defect": 0
+    },
+    {
+      "k": 19,
+      "d": 10,
+      "N": 29,
+      "dimension": 5,
+      "defect": 0
+    },
+    {
+      "k": 19,
+      "d": 11,
+      "N": 30,
+      "dimension": 5,
+      "defect": 0
+    },
+    {
+      "k": 19,
+      "d": 12,
+      "N": 31,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 19,
+      "d": 13,
+      "N": 32,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 19,
+      "d": 14,
+      "N": 33,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 19,
+      "d": 15,
+      "N": 34,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 19,
+      "d": 16,
+      "N": 35,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 19,
+      "d": 17,
+      "N": 36,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 19,
+      "d": 18,
+      "N": 37,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 19,
+      "d": 19,
+      "N": 38,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 20,
+      "d": 1,
+      "N": 21,
+      "dimension": 10,
+      "defect": 0
+    },
+    {
+      "k": 20,
+      "d": 2,
+      "N": 22,
+      "dimension": 10,
+      "defect": 0
+    },
+    {
+      "k": 20,
+      "d": 3,
+      "N": 23,
+      "dimension": 9,
+      "defect": 1
+    },
+    {
+      "k": 20,
+      "d": 4,
+      "N": 24,
+      "dimension": 9,
+      "defect": 0
+    },
+    {
+      "k": 20,
+      "d": 5,
+      "N": 25,
+      "dimension": 8,
+      "defect": 0
+    },
+    {
+      "k": 20,
+      "d": 6,
+      "N": 26,
+      "dimension": 8,
+      "defect": 0
+    },
+    {
+      "k": 20,
+      "d": 7,
+      "N": 27,
+      "dimension": 7,
+      "defect": 0
+    },
+    {
+      "k": 20,
+      "d": 8,
+      "N": 28,
+      "dimension": 7,
+      "defect": 0
+    },
+    {
+      "k": 20,
+      "d": 9,
+      "N": 29,
+      "dimension": 6,
+      "defect": 0
+    },
+    {
+      "k": 20,
+      "d": 10,
+      "N": 30,
+      "dimension": 6,
+      "defect": 0
+    },
+    {
+      "k": 20,
+      "d": 11,
+      "N": 31,
+      "dimension": 5,
+      "defect": 0
+    },
+    {
+      "k": 20,
+      "d": 12,
+      "N": 32,
+      "dimension": 5,
+      "defect": 0
+    },
+    {
+      "k": 20,
+      "d": 13,
+      "N": 33,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 20,
+      "d": 14,
+      "N": 34,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 20,
+      "d": 15,
+      "N": 35,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 20,
+      "d": 16,
+      "N": 36,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 20,
+      "d": 17,
+      "N": 37,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 20,
+      "d": 18,
+      "N": 38,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 20,
+      "d": 19,
+      "N": 39,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 20,
+      "d": 20,
+      "N": 40,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 21,
+      "d": 1,
+      "N": 22,
+      "dimension": 11,
+      "defect": 0
+    },
+    {
+      "k": 21,
+      "d": 2,
+      "N": 23,
+      "dimension": 10,
+      "defect": 0
+    },
+    {
+      "k": 21,
+      "d": 3,
+      "N": 24,
+      "dimension": 10,
+      "defect": 0
+    },
+    {
+      "k": 21,
+      "d": 4,
+      "N": 25,
+      "dimension": 9,
+      "defect": 0
+    },
+    {
+      "k": 21,
+      "d": 5,
+      "N": 26,
+      "dimension": 9,
+      "defect": 0
+    },
+    {
+      "k": 21,
+      "d": 6,
+      "N": 27,
+      "dimension": 8,
+      "defect": 0
+    },
+    {
+      "k": 21,
+      "d": 7,
+      "N": 28,
+      "dimension": 8,
+      "defect": 0
+    },
+    {
+      "k": 21,
+      "d": 8,
+      "N": 29,
+      "dimension": 7,
+      "defect": 0
+    },
+    {
+      "k": 21,
+      "d": 9,
+      "N": 30,
+      "dimension": 7,
+      "defect": 0
+    },
+    {
+      "k": 21,
+      "d": 10,
+      "N": 31,
+      "dimension": 6,
+      "defect": 0
+    },
+    {
+      "k": 21,
+      "d": 11,
+      "N": 32,
+      "dimension": 6,
+      "defect": 0
+    },
+    {
+      "k": 21,
+      "d": 12,
+      "N": 33,
+      "dimension": 5,
+      "defect": 0
+    },
+    {
+      "k": 21,
+      "d": 13,
+      "N": 34,
+      "dimension": 5,
+      "defect": 0
+    },
+    {
+      "k": 21,
+      "d": 14,
+      "N": 35,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 21,
+      "d": 15,
+      "N": 36,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 21,
+      "d": 16,
+      "N": 37,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 21,
+      "d": 17,
+      "N": 38,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 21,
+      "d": 18,
+      "N": 39,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 21,
+      "d": 19,
+      "N": 40,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 21,
+      "d": 20,
+      "N": 41,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 21,
+      "d": 21,
+      "N": 42,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 22,
+      "d": 1,
+      "N": 23,
+      "dimension": 11,
+      "defect": 0
+    },
+    {
+      "k": 22,
+      "d": 2,
+      "N": 24,
+      "dimension": 11,
+      "defect": 0
+    },
+    {
+      "k": 22,
+      "d": 3,
+      "N": 25,
+      "dimension": 10,
+      "defect": 0
+    },
+    {
+      "k": 22,
+      "d": 4,
+      "N": 26,
+      "dimension": 10,
+      "defect": 0
+    },
+    {
+      "k": 22,
+      "d": 5,
+      "N": 27,
+      "dimension": 9,
+      "defect": 0
+    },
+    {
+      "k": 22,
+      "d": 6,
+      "N": 28,
+      "dimension": 9,
+      "defect": 0
+    },
+    {
+      "k": 22,
+      "d": 7,
+      "N": 29,
+      "dimension": 8,
+      "defect": 0
+    },
+    {
+      "k": 22,
+      "d": 8,
+      "N": 30,
+      "dimension": 8,
+      "defect": 0
+    },
+    {
+      "k": 22,
+      "d": 9,
+      "N": 31,
+      "dimension": 7,
+      "defect": 0
+    },
+    {
+      "k": 22,
+      "d": 10,
+      "N": 32,
+      "dimension": 7,
+      "defect": 0
+    },
+    {
+      "k": 22,
+      "d": 11,
+      "N": 33,
+      "dimension": 6,
+      "defect": 0
+    },
+    {
+      "k": 22,
+      "d": 12,
+      "N": 34,
+      "dimension": 6,
+      "defect": 0
+    },
+    {
+      "k": 22,
+      "d": 13,
+      "N": 35,
+      "dimension": 5,
+      "defect": 0
+    },
+    {
+      "k": 22,
+      "d": 14,
+      "N": 36,
+      "dimension": 5,
+      "defect": 0
+    },
+    {
+      "k": 22,
+      "d": 15,
+      "N": 37,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 22,
+      "d": 16,
+      "N": 38,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 22,
+      "d": 17,
+      "N": 39,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 22,
+      "d": 18,
+      "N": 40,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 22,
+      "d": 19,
+      "N": 41,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 22,
+      "d": 20,
+      "N": 42,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 22,
+      "d": 21,
+      "N": 43,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 22,
+      "d": 22,
+      "N": 44,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 23,
+      "d": 1,
+      "N": 24,
+      "dimension": 12,
+      "defect": 0
+    },
+    {
+      "k": 23,
+      "d": 2,
+      "N": 25,
+      "dimension": 11,
+      "defect": 0
+    },
+    {
+      "k": 23,
+      "d": 3,
+      "N": 26,
+      "dimension": 11,
+      "defect": 1
+    },
+    {
+      "k": 23,
+      "d": 4,
+      "N": 27,
+      "dimension": 10,
+      "defect": 0
+    },
+    {
+      "k": 23,
+      "d": 5,
+      "N": 28,
+      "dimension": 10,
+      "defect": 0
+    },
+    {
+      "k": 23,
+      "d": 6,
+      "N": 29,
+      "dimension": 9,
+      "defect": 0
+    },
+    {
+      "k": 23,
+      "d": 7,
+      "N": 30,
+      "dimension": 9,
+      "defect": 0
+    },
+    {
+      "k": 23,
+      "d": 8,
+      "N": 31,
+      "dimension": 8,
+      "defect": 0
+    },
+    {
+      "k": 23,
+      "d": 9,
+      "N": 32,
+      "dimension": 8,
+      "defect": 0
+    },
+    {
+      "k": 23,
+      "d": 10,
+      "N": 33,
+      "dimension": 7,
+      "defect": 0
+    },
+    {
+      "k": 23,
+      "d": 11,
+      "N": 34,
+      "dimension": 7,
+      "defect": 0
+    },
+    {
+      "k": 23,
+      "d": 12,
+      "N": 35,
+      "dimension": 6,
+      "defect": 0
+    },
+    {
+      "k": 23,
+      "d": 13,
+      "N": 36,
+      "dimension": 6,
+      "defect": 0
+    },
+    {
+      "k": 23,
+      "d": 14,
+      "N": 37,
+      "dimension": 5,
+      "defect": 0
+    },
+    {
+      "k": 23,
+      "d": 15,
+      "N": 38,
+      "dimension": 5,
+      "defect": 0
+    },
+    {
+      "k": 23,
+      "d": 16,
+      "N": 39,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 23,
+      "d": 17,
+      "N": 40,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 23,
+      "d": 18,
+      "N": 41,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 23,
+      "d": 19,
+      "N": 42,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 23,
+      "d": 20,
+      "N": 43,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 23,
+      "d": 21,
+      "N": 44,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 23,
+      "d": 22,
+      "N": 45,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 23,
+      "d": 23,
+      "N": 46,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 24,
+      "d": 1,
+      "N": 25,
+      "dimension": 12,
+      "defect": 0
+    },
+    {
+      "k": 24,
+      "d": 2,
+      "N": 26,
+      "dimension": 12,
+      "defect": 0
+    },
+    {
+      "k": 24,
+      "d": 3,
+      "N": 27,
+      "dimension": 11,
+      "defect": 0
+    },
+    {
+      "k": 24,
+      "d": 4,
+      "N": 28,
+      "dimension": 11,
+      "defect": 0
+    },
+    {
+      "k": 24,
+      "d": 5,
+      "N": 29,
+      "dimension": 10,
+      "defect": 0
+    },
+    {
+      "k": 24,
+      "d": 6,
+      "N": 30,
+      "dimension": 10,
+      "defect": 0
+    },
+    {
+      "k": 24,
+      "d": 7,
+      "N": 31,
+      "dimension": 9,
+      "defect": 0
+    },
+    {
+      "k": 24,
+      "d": 8,
+      "N": 32,
+      "dimension": 9,
+      "defect": 0
+    },
+    {
+      "k": 24,
+      "d": 9,
+      "N": 33,
+      "dimension": 8,
+      "defect": 0
+    },
+    {
+      "k": 24,
+      "d": 10,
+      "N": 34,
+      "dimension": 8,
+      "defect": 0
+    },
+    {
+      "k": 24,
+      "d": 11,
+      "N": 35,
+      "dimension": 7,
+      "defect": 0
+    },
+    {
+      "k": 24,
+      "d": 12,
+      "N": 36,
+      "dimension": 7,
+      "defect": 0
+    },
+    {
+      "k": 24,
+      "d": 13,
+      "N": 37,
+      "dimension": 6,
+      "defect": 0
+    },
+    {
+      "k": 24,
+      "d": 14,
+      "N": 38,
+      "dimension": 6,
+      "defect": 0
+    },
+    {
+      "k": 24,
+      "d": 15,
+      "N": 39,
+      "dimension": 5,
+      "defect": 0
+    },
+    {
+      "k": 24,
+      "d": 16,
+      "N": 40,
+      "dimension": 5,
+      "defect": 0
+    },
+    {
+      "k": 24,
+      "d": 17,
+      "N": 41,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 24,
+      "d": 18,
+      "N": 42,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 24,
+      "d": 19,
+      "N": 43,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 24,
+      "d": 20,
+      "N": 44,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 24,
+      "d": 21,
+      "N": 45,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 24,
+      "d": 22,
+      "N": 46,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 24,
+      "d": 23,
+      "N": 47,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 24,
+      "d": 24,
+      "N": 48,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 25,
+      "d": 1,
+      "N": 26,
+      "dimension": 13,
+      "defect": 0
+    },
+    {
+      "k": 25,
+      "d": 2,
+      "N": 27,
+      "dimension": 12,
+      "defect": 0
+    },
+    {
+      "k": 25,
+      "d": 3,
+      "N": 28,
+      "dimension": 12,
+      "defect": 0
+    },
+    {
+      "k": 25,
+      "d": 4,
+      "N": 29,
+      "dimension": 11,
+      "defect": 0
+    },
+    {
+      "k": 25,
+      "d": 5,
+      "N": 30,
+      "dimension": 11,
+      "defect": 0
+    },
+    {
+      "k": 25,
+      "d": 6,
+      "N": 31,
+      "dimension": 10,
+      "defect": 0
+    },
+    {
+      "k": 25,
+      "d": 7,
+      "N": 32,
+      "dimension": 10,
+      "defect": 0
+    },
+    {
+      "k": 25,
+      "d": 8,
+      "N": 33,
+      "dimension": 9,
+      "defect": 0
+    },
+    {
+      "k": 25,
+      "d": 9,
+      "N": 34,
+      "dimension": 9,
+      "defect": 0
+    },
+    {
+      "k": 25,
+      "d": 10,
+      "N": 35,
+      "dimension": 8,
+      "defect": 0
+    },
+    {
+      "k": 25,
+      "d": 11,
+      "N": 36,
+      "dimension": 8,
+      "defect": 0
+    },
+    {
+      "k": 25,
+      "d": 12,
+      "N": 37,
+      "dimension": 7,
+      "defect": 0
+    },
+    {
+      "k": 25,
+      "d": 13,
+      "N": 38,
+      "dimension": 7,
+      "defect": 0
+    },
+    {
+      "k": 25,
+      "d": 14,
+      "N": 39,
+      "dimension": 6,
+      "defect": 0
+    },
+    {
+      "k": 25,
+      "d": 15,
+      "N": 40,
+      "dimension": 6,
+      "defect": 0
+    },
+    {
+      "k": 25,
+      "d": 16,
+      "N": 41,
+      "dimension": 5,
+      "defect": 0
+    },
+    {
+      "k": 25,
+      "d": 17,
+      "N": 42,
+      "dimension": 5,
+      "defect": 0
+    },
+    {
+      "k": 25,
+      "d": 18,
+      "N": 43,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 25,
+      "d": 19,
+      "N": 44,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 25,
+      "d": 20,
+      "N": 45,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 25,
+      "d": 21,
+      "N": 46,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 25,
+      "d": 22,
+      "N": 47,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 25,
+      "d": 23,
+      "N": 48,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 25,
+      "d": 24,
+      "N": 49,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 25,
+      "d": 25,
+      "N": 50,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 26,
+      "d": 1,
+      "N": 27,
+      "dimension": 13,
+      "defect": 0
+    },
+    {
+      "k": 26,
+      "d": 2,
+      "N": 28,
+      "dimension": 13,
+      "defect": 0
+    },
+    {
+      "k": 26,
+      "d": 3,
+      "N": 29,
+      "dimension": 12,
+      "defect": 1
+    },
+    {
+      "k": 26,
+      "d": 4,
+      "N": 30,
+      "dimension": 12,
+      "defect": 0
+    },
+    {
+      "k": 26,
+      "d": 5,
+      "N": 31,
+      "dimension": 11,
+      "defect": 0
+    },
+    {
+      "k": 26,
+      "d": 6,
+      "N": 32,
+      "dimension": 11,
+      "defect": 0
+    },
+    {
+      "k": 26,
+      "d": 7,
+      "N": 33,
+      "dimension": 10,
+      "defect": 0
+    },
+    {
+      "k": 26,
+      "d": 8,
+      "N": 34,
+      "dimension": 10,
+      "defect": 0
+    },
+    {
+      "k": 26,
+      "d": 9,
+      "N": 35,
+      "dimension": 9,
+      "defect": 0
+    },
+    {
+      "k": 26,
+      "d": 10,
+      "N": 36,
+      "dimension": 9,
+      "defect": 0
+    },
+    {
+      "k": 26,
+      "d": 11,
+      "N": 37,
+      "dimension": 8,
+      "defect": 0
+    },
+    {
+      "k": 26,
+      "d": 12,
+      "N": 38,
+      "dimension": 8,
+      "defect": 0
+    },
+    {
+      "k": 26,
+      "d": 13,
+      "N": 39,
+      "dimension": 7,
+      "defect": 0
+    },
+    {
+      "k": 26,
+      "d": 14,
+      "N": 40,
+      "dimension": 7,
+      "defect": 0
+    },
+    {
+      "k": 26,
+      "d": 15,
+      "N": 41,
+      "dimension": 6,
+      "defect": 0
+    },
+    {
+      "k": 26,
+      "d": 16,
+      "N": 42,
+      "dimension": 6,
+      "defect": 0
+    },
+    {
+      "k": 26,
+      "d": 17,
+      "N": 43,
+      "dimension": 5,
+      "defect": 0
+    },
+    {
+      "k": 26,
+      "d": 18,
+      "N": 44,
+      "dimension": 5,
+      "defect": 0
+    },
+    {
+      "k": 26,
+      "d": 19,
+      "N": 45,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 26,
+      "d": 20,
+      "N": 46,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 26,
+      "d": 21,
+      "N": 47,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 26,
+      "d": 22,
+      "N": 48,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 26,
+      "d": 23,
+      "N": 49,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 26,
+      "d": 24,
+      "N": 50,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 26,
+      "d": 25,
+      "N": 51,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 26,
+      "d": 26,
+      "N": 52,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 27,
+      "d": 1,
+      "N": 28,
+      "dimension": 14,
+      "defect": 0
+    },
+    {
+      "k": 27,
+      "d": 2,
+      "N": 29,
+      "dimension": 13,
+      "defect": 0
+    },
+    {
+      "k": 27,
+      "d": 3,
+      "N": 30,
+      "dimension": 13,
+      "defect": 0
+    },
+    {
+      "k": 27,
+      "d": 4,
+      "N": 31,
+      "dimension": 12,
+      "defect": 0
+    },
+    {
+      "k": 27,
+      "d": 5,
+      "N": 32,
+      "dimension": 12,
+      "defect": 0
+    },
+    {
+      "k": 27,
+      "d": 6,
+      "N": 33,
+      "dimension": 11,
+      "defect": 0
+    },
+    {
+      "k": 27,
+      "d": 7,
+      "N": 34,
+      "dimension": 11,
+      "defect": 0
+    },
+    {
+      "k": 27,
+      "d": 8,
+      "N": 35,
+      "dimension": 10,
+      "defect": 0
+    },
+    {
+      "k": 27,
+      "d": 9,
+      "N": 36,
+      "dimension": 10,
+      "defect": 0
+    },
+    {
+      "k": 27,
+      "d": 10,
+      "N": 37,
+      "dimension": 9,
+      "defect": 0
+    },
+    {
+      "k": 27,
+      "d": 11,
+      "N": 38,
+      "dimension": 9,
+      "defect": 0
+    },
+    {
+      "k": 27,
+      "d": 12,
+      "N": 39,
+      "dimension": 8,
+      "defect": 0
+    },
+    {
+      "k": 27,
+      "d": 13,
+      "N": 40,
+      "dimension": 8,
+      "defect": 0
+    },
+    {
+      "k": 27,
+      "d": 14,
+      "N": 41,
+      "dimension": 7,
+      "defect": 0
+    },
+    {
+      "k": 27,
+      "d": 15,
+      "N": 42,
+      "dimension": 7,
+      "defect": 0
+    },
+    {
+      "k": 27,
+      "d": 16,
+      "N": 43,
+      "dimension": 6,
+      "defect": 0
+    },
+    {
+      "k": 27,
+      "d": 17,
+      "N": 44,
+      "dimension": 6,
+      "defect": 0
+    },
+    {
+      "k": 27,
+      "d": 18,
+      "N": 45,
+      "dimension": 5,
+      "defect": 0
+    },
+    {
+      "k": 27,
+      "d": 19,
+      "N": 46,
+      "dimension": 5,
+      "defect": 0
+    },
+    {
+      "k": 27,
+      "d": 20,
+      "N": 47,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 27,
+      "d": 21,
+      "N": 48,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 27,
+      "d": 22,
+      "N": 49,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 27,
+      "d": 23,
+      "N": 50,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 27,
+      "d": 24,
+      "N": 51,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 27,
+      "d": 25,
+      "N": 52,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 27,
+      "d": 26,
+      "N": 53,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 27,
+      "d": 27,
+      "N": 54,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 28,
+      "d": 1,
+      "N": 29,
+      "dimension": 14,
+      "defect": 0
+    },
+    {
+      "k": 28,
+      "d": 2,
+      "N": 30,
+      "dimension": 14,
+      "defect": 0
+    },
+    {
+      "k": 28,
+      "d": 3,
+      "N": 31,
+      "dimension": 13,
+      "defect": 0
+    },
+    {
+      "k": 28,
+      "d": 4,
+      "N": 32,
+      "dimension": 13,
+      "defect": 0
+    },
+    {
+      "k": 28,
+      "d": 5,
+      "N": 33,
+      "dimension": 12,
+      "defect": 0
+    },
+    {
+      "k": 28,
+      "d": 6,
+      "N": 34,
+      "dimension": 12,
+      "defect": 0
+    },
+    {
+      "k": 28,
+      "d": 7,
+      "N": 35,
+      "dimension": 11,
+      "defect": 0
+    },
+    {
+      "k": 28,
+      "d": 8,
+      "N": 36,
+      "dimension": 11,
+      "defect": 0
+    },
+    {
+      "k": 28,
+      "d": 9,
+      "N": 37,
+      "dimension": 10,
+      "defect": 0
+    },
+    {
+      "k": 28,
+      "d": 10,
+      "N": 38,
+      "dimension": 10,
+      "defect": 0
+    },
+    {
+      "k": 28,
+      "d": 11,
+      "N": 39,
+      "dimension": 9,
+      "defect": 0
+    },
+    {
+      "k": 28,
+      "d": 12,
+      "N": 40,
+      "dimension": 9,
+      "defect": 0
+    },
+    {
+      "k": 28,
+      "d": 13,
+      "N": 41,
+      "dimension": 8,
+      "defect": 0
+    },
+    {
+      "k": 28,
+      "d": 14,
+      "N": 42,
+      "dimension": 8,
+      "defect": 0
+    },
+    {
+      "k": 28,
+      "d": 15,
+      "N": 43,
+      "dimension": 7,
+      "defect": 0
+    },
+    {
+      "k": 28,
+      "d": 16,
+      "N": 44,
+      "dimension": 7,
+      "defect": 0
+    },
+    {
+      "k": 28,
+      "d": 17,
+      "N": 45,
+      "dimension": 6,
+      "defect": 0
+    },
+    {
+      "k": 28,
+      "d": 18,
+      "N": 46,
+      "dimension": 6,
+      "defect": 0
+    },
+    {
+      "k": 28,
+      "d": 19,
+      "N": 47,
+      "dimension": 5,
+      "defect": 0
+    },
+    {
+      "k": 28,
+      "d": 20,
+      "N": 48,
+      "dimension": 5,
+      "defect": 0
+    },
+    {
+      "k": 28,
+      "d": 21,
+      "N": 49,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 28,
+      "d": 22,
+      "N": 50,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 28,
+      "d": 23,
+      "N": 51,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 28,
+      "d": 24,
+      "N": 52,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 28,
+      "d": 25,
+      "N": 53,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 28,
+      "d": 26,
+      "N": 54,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 28,
+      "d": 27,
+      "N": 55,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 28,
+      "d": 28,
+      "N": 56,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 29,
+      "d": 1,
+      "N": 30,
+      "dimension": 15,
+      "defect": 0
+    },
+    {
+      "k": 29,
+      "d": 2,
+      "N": 31,
+      "dimension": 14,
+      "defect": 0
+    },
+    {
+      "k": 29,
+      "d": 3,
+      "N": 32,
+      "dimension": 14,
+      "defect": 1
+    },
+    {
+      "k": 29,
+      "d": 4,
+      "N": 33,
+      "dimension": 13,
+      "defect": 0
+    },
+    {
+      "k": 29,
+      "d": 5,
+      "N": 34,
+      "dimension": 13,
+      "defect": 0
+    },
+    {
+      "k": 29,
+      "d": 6,
+      "N": 35,
+      "dimension": 12,
+      "defect": 0
+    },
+    {
+      "k": 29,
+      "d": 7,
+      "N": 36,
+      "dimension": 12,
+      "defect": 0
+    },
+    {
+      "k": 29,
+      "d": 8,
+      "N": 37,
+      "dimension": 11,
+      "defect": 0
+    },
+    {
+      "k": 29,
+      "d": 9,
+      "N": 38,
+      "dimension": 11,
+      "defect": 0
+    },
+    {
+      "k": 29,
+      "d": 10,
+      "N": 39,
+      "dimension": 10,
+      "defect": 0
+    },
+    {
+      "k": 29,
+      "d": 11,
+      "N": 40,
+      "dimension": 10,
+      "defect": 0
+    },
+    {
+      "k": 29,
+      "d": 12,
+      "N": 41,
+      "dimension": 9,
+      "defect": 0
+    },
+    {
+      "k": 29,
+      "d": 13,
+      "N": 42,
+      "dimension": 9,
+      "defect": 0
+    },
+    {
+      "k": 29,
+      "d": 14,
+      "N": 43,
+      "dimension": 8,
+      "defect": 0
+    },
+    {
+      "k": 29,
+      "d": 15,
+      "N": 44,
+      "dimension": 8,
+      "defect": 0
+    },
+    {
+      "k": 29,
+      "d": 16,
+      "N": 45,
+      "dimension": 7,
+      "defect": 0
+    },
+    {
+      "k": 29,
+      "d": 17,
+      "N": 46,
+      "dimension": 7,
+      "defect": 0
+    },
+    {
+      "k": 29,
+      "d": 18,
+      "N": 47,
+      "dimension": 6,
+      "defect": 0
+    },
+    {
+      "k": 29,
+      "d": 19,
+      "N": 48,
+      "dimension": 6,
+      "defect": 0
+    },
+    {
+      "k": 29,
+      "d": 20,
+      "N": 49,
+      "dimension": 5,
+      "defect": 0
+    },
+    {
+      "k": 29,
+      "d": 21,
+      "N": 50,
+      "dimension": 5,
+      "defect": 0
+    },
+    {
+      "k": 29,
+      "d": 22,
+      "N": 51,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 29,
+      "d": 23,
+      "N": 52,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 29,
+      "d": 24,
+      "N": 53,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 29,
+      "d": 25,
+      "N": 54,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 29,
+      "d": 26,
+      "N": 55,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 29,
+      "d": 27,
+      "N": 56,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 29,
+      "d": 28,
+      "N": 57,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 29,
+      "d": 29,
+      "N": 58,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 30,
+      "d": 1,
+      "N": 31,
+      "dimension": 15,
+      "defect": 0
+    },
+    {
+      "k": 30,
+      "d": 2,
+      "N": 32,
+      "dimension": 15,
+      "defect": 0
+    },
+    {
+      "k": 30,
+      "d": 3,
+      "N": 33,
+      "dimension": 14,
+      "defect": 0
+    },
+    {
+      "k": 30,
+      "d": 4,
+      "N": 34,
+      "dimension": 14,
+      "defect": 0
+    },
+    {
+      "k": 30,
+      "d": 5,
+      "N": 35,
+      "dimension": 13,
+      "defect": 0
+    },
+    {
+      "k": 30,
+      "d": 6,
+      "N": 36,
+      "dimension": 13,
+      "defect": 0
+    },
+    {
+      "k": 30,
+      "d": 7,
+      "N": 37,
+      "dimension": 12,
+      "defect": 0
+    },
+    {
+      "k": 30,
+      "d": 8,
+      "N": 38,
+      "dimension": 12,
+      "defect": 0
+    },
+    {
+      "k": 30,
+      "d": 9,
+      "N": 39,
+      "dimension": 11,
+      "defect": 0
+    },
+    {
+      "k": 30,
+      "d": 10,
+      "N": 40,
+      "dimension": 11,
+      "defect": 0
+    },
+    {
+      "k": 30,
+      "d": 11,
+      "N": 41,
+      "dimension": 10,
+      "defect": 0
+    },
+    {
+      "k": 30,
+      "d": 12,
+      "N": 42,
+      "dimension": 10,
+      "defect": 0
+    },
+    {
+      "k": 30,
+      "d": 13,
+      "N": 43,
+      "dimension": 9,
+      "defect": 0
+    },
+    {
+      "k": 30,
+      "d": 14,
+      "N": 44,
+      "dimension": 9,
+      "defect": 0
+    },
+    {
+      "k": 30,
+      "d": 15,
+      "N": 45,
+      "dimension": 8,
+      "defect": 0
+    },
+    {
+      "k": 30,
+      "d": 16,
+      "N": 46,
+      "dimension": 8,
+      "defect": 0
+    },
+    {
+      "k": 30,
+      "d": 17,
+      "N": 47,
+      "dimension": 7,
+      "defect": 0
+    },
+    {
+      "k": 30,
+      "d": 18,
+      "N": 48,
+      "dimension": 7,
+      "defect": 0
+    },
+    {
+      "k": 30,
+      "d": 19,
+      "N": 49,
+      "dimension": 6,
+      "defect": 0
+    },
+    {
+      "k": 30,
+      "d": 20,
+      "N": 50,
+      "dimension": 6,
+      "defect": 0
+    },
+    {
+      "k": 30,
+      "d": 21,
+      "N": 51,
+      "dimension": 5,
+      "defect": 0
+    },
+    {
+      "k": 30,
+      "d": 22,
+      "N": 52,
+      "dimension": 5,
+      "defect": 0
+    },
+    {
+      "k": 30,
+      "d": 23,
+      "N": 53,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 30,
+      "d": 24,
+      "N": 54,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 30,
+      "d": 25,
+      "N": 55,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 30,
+      "d": 26,
+      "N": 56,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 30,
+      "d": 27,
+      "N": 57,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 30,
+      "d": 28,
+      "N": 58,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 30,
+      "d": 29,
+      "N": 59,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 30,
+      "d": 30,
+      "N": 60,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 31,
+      "d": 1,
+      "N": 32,
+      "dimension": 16,
+      "defect": 0
+    },
+    {
+      "k": 31,
+      "d": 2,
+      "N": 33,
+      "dimension": 15,
+      "defect": 0
+    },
+    {
+      "k": 31,
+      "d": 3,
+      "N": 34,
+      "dimension": 15,
+      "defect": 0
+    },
+    {
+      "k": 31,
+      "d": 4,
+      "N": 35,
+      "dimension": 14,
+      "defect": 0
+    },
+    {
+      "k": 31,
+      "d": 5,
+      "N": 36,
+      "dimension": 14,
+      "defect": 0
+    },
+    {
+      "k": 31,
+      "d": 6,
+      "N": 37,
+      "dimension": 13,
+      "defect": 0
+    },
+    {
+      "k": 31,
+      "d": 7,
+      "N": 38,
+      "dimension": 13,
+      "defect": 0
+    },
+    {
+      "k": 31,
+      "d": 8,
+      "N": 39,
+      "dimension": 12,
+      "defect": 0
+    },
+    {
+      "k": 31,
+      "d": 9,
+      "N": 40,
+      "dimension": 12,
+      "defect": 0
+    },
+    {
+      "k": 31,
+      "d": 10,
+      "N": 41,
+      "dimension": 11,
+      "defect": 0
+    },
+    {
+      "k": 31,
+      "d": 11,
+      "N": 42,
+      "dimension": 11,
+      "defect": 0
+    },
+    {
+      "k": 31,
+      "d": 12,
+      "N": 43,
+      "dimension": 10,
+      "defect": 0
+    },
+    {
+      "k": 31,
+      "d": 13,
+      "N": 44,
+      "dimension": 10,
+      "defect": 0
+    },
+    {
+      "k": 31,
+      "d": 14,
+      "N": 45,
+      "dimension": 9,
+      "defect": 0
+    },
+    {
+      "k": 31,
+      "d": 15,
+      "N": 46,
+      "dimension": 9,
+      "defect": 0
+    },
+    {
+      "k": 31,
+      "d": 16,
+      "N": 47,
+      "dimension": 8,
+      "defect": 0
+    },
+    {
+      "k": 31,
+      "d": 17,
+      "N": 48,
+      "dimension": 8,
+      "defect": 0
+    },
+    {
+      "k": 31,
+      "d": 18,
+      "N": 49,
+      "dimension": 7,
+      "defect": 0
+    },
+    {
+      "k": 31,
+      "d": 19,
+      "N": 50,
+      "dimension": 7,
+      "defect": 0
+    },
+    {
+      "k": 31,
+      "d": 20,
+      "N": 51,
+      "dimension": 6,
+      "defect": 0
+    },
+    {
+      "k": 31,
+      "d": 21,
+      "N": 52,
+      "dimension": 6,
+      "defect": 0
+    },
+    {
+      "k": 31,
+      "d": 22,
+      "N": 53,
+      "dimension": 5,
+      "defect": 0
+    },
+    {
+      "k": 31,
+      "d": 23,
+      "N": 54,
+      "dimension": 5,
+      "defect": 0
+    },
+    {
+      "k": 31,
+      "d": 24,
+      "N": 55,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 31,
+      "d": 25,
+      "N": 56,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 31,
+      "d": 26,
+      "N": 57,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 31,
+      "d": 27,
+      "N": 58,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 31,
+      "d": 28,
+      "N": 59,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 31,
+      "d": 29,
+      "N": 60,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 31,
+      "d": 30,
+      "N": 61,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 31,
+      "d": 31,
+      "N": 62,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 32,
+      "d": 1,
+      "N": 33,
+      "dimension": 16,
+      "defect": 0
+    },
+    {
+      "k": 32,
+      "d": 2,
+      "N": 34,
+      "dimension": 16,
+      "defect": 0
+    },
+    {
+      "k": 32,
+      "d": 3,
+      "N": 35,
+      "dimension": 15,
+      "defect": 1
+    },
+    {
+      "k": 32,
+      "d": 4,
+      "N": 36,
+      "dimension": 15,
+      "defect": 0
+    },
+    {
+      "k": 32,
+      "d": 5,
+      "N": 37,
+      "dimension": 14,
+      "defect": 0
+    },
+    {
+      "k": 32,
+      "d": 6,
+      "N": 38,
+      "dimension": 14,
+      "defect": 0
+    },
+    {
+      "k": 32,
+      "d": 7,
+      "N": 39,
+      "dimension": 13,
+      "defect": 0
+    },
+    {
+      "k": 32,
+      "d": 8,
+      "N": 40,
+      "dimension": 13,
+      "defect": 0
+    },
+    {
+      "k": 32,
+      "d": 9,
+      "N": 41,
+      "dimension": 12,
+      "defect": 0
+    },
+    {
+      "k": 32,
+      "d": 10,
+      "N": 42,
+      "dimension": 12,
+      "defect": 0
+    },
+    {
+      "k": 32,
+      "d": 11,
+      "N": 43,
+      "dimension": 11,
+      "defect": 0
+    },
+    {
+      "k": 32,
+      "d": 12,
+      "N": 44,
+      "dimension": 11,
+      "defect": 0
+    },
+    {
+      "k": 32,
+      "d": 13,
+      "N": 45,
+      "dimension": 10,
+      "defect": 0
+    },
+    {
+      "k": 32,
+      "d": 14,
+      "N": 46,
+      "dimension": 10,
+      "defect": 0
+    },
+    {
+      "k": 32,
+      "d": 15,
+      "N": 47,
+      "dimension": 9,
+      "defect": 0
+    },
+    {
+      "k": 32,
+      "d": 16,
+      "N": 48,
+      "dimension": 9,
+      "defect": 0
+    },
+    {
+      "k": 32,
+      "d": 17,
+      "N": 49,
+      "dimension": 8,
+      "defect": 0
+    },
+    {
+      "k": 32,
+      "d": 18,
+      "N": 50,
+      "dimension": 8,
+      "defect": 0
+    },
+    {
+      "k": 32,
+      "d": 19,
+      "N": 51,
+      "dimension": 7,
+      "defect": 0
+    },
+    {
+      "k": 32,
+      "d": 20,
+      "N": 52,
+      "dimension": 7,
+      "defect": 0
+    },
+    {
+      "k": 32,
+      "d": 21,
+      "N": 53,
+      "dimension": 6,
+      "defect": 0
+    },
+    {
+      "k": 32,
+      "d": 22,
+      "N": 54,
+      "dimension": 6,
+      "defect": 0
+    },
+    {
+      "k": 32,
+      "d": 23,
+      "N": 55,
+      "dimension": 5,
+      "defect": 0
+    },
+    {
+      "k": 32,
+      "d": 24,
+      "N": 56,
+      "dimension": 5,
+      "defect": 0
+    },
+    {
+      "k": 32,
+      "d": 25,
+      "N": 57,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 32,
+      "d": 26,
+      "N": 58,
+      "dimension": 4,
+      "defect": 0
+    },
+    {
+      "k": 32,
+      "d": 27,
+      "N": 59,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 32,
+      "d": 28,
+      "N": 60,
+      "dimension": 3,
+      "defect": 0
+    },
+    {
+      "k": 32,
+      "d": 29,
+      "N": 61,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 32,
+      "d": 30,
+      "N": 62,
+      "dimension": 2,
+      "defect": 0
+    },
+    {
+      "k": 32,
+      "d": 31,
+      "N": 63,
+      "dimension": 1,
+      "defect": 0
+    },
+    {
+      "k": 32,
+      "d": 32,
+      "N": 64,
+      "dimension": 1,
+      "defect": 0
+    }
+  ],
+  "python_sympy": "1.14.0",
+  "ended_utc": "2026-10-14T12:00:18.886007+00:00",
+  "source_sha256": "861aff081bdec4217da4551ee0435dbddcaf79d8f1167f0114c13b3cf96bee74"
+}
